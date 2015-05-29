@@ -1,12 +1,12 @@
 |Application Name    |gapps-config<br>keyword|Stock|Full |Mini |Micro|Nano |Pico |
 |------------------------:|:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|
-|**_From Nexus_**         |**_Image_**       |     |     |     |     |     |     |
+|**_From Nexus Image_**   |                  |     |     |     |     |     |     |
 |Google System Base       |                  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |     |
 |FaceUnlock               |``FaceUnlock``    |  X  |  X  |  X  |  X  |     |     |
 |Google Exchange Services¹|``ExchangeGoogle``|  O  |  O  |  O  |  O  |     |     |
 |Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  |     |     |
-|**_From Google_**        |**_Play Store_**  |     |     |     |     |     |     |
+|**_From Google Play Store_**|               |     |     |     |     |     |     |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Services     |                  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google App (Search)      |``Search``        |  X  |  X  |  X  |  X  |  X  |     |
