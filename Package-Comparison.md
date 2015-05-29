@@ -5,7 +5,7 @@
 |FaceUnlock               |``FaceUnlock``    |  X  |  X  |  X  |  X  |     |     |
 |Google Exchange Services¹|``ExchangeGoogle``|  O  |  O  |  O  |  O  |     |     |
 |Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  |     |     |
-|                         |               |     |     |     |     |     |     |
+|                         |                  |     |     |     |     |     |     |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Services     |                  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google App (Search)      |``Search``        |  X  |  X  |  X  |  X  |  X  |     |
