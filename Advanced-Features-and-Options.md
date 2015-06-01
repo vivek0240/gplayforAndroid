@@ -2,7 +2,7 @@ Advanced Features and Options
 ===
 The features outlined below are COMPLETELY OPTIONAL and designed to allow advanced users the ability to modify the default behavior of the Open GApps installers. Without the use of these options, the installers will function exactly as described in [[Package-Comparison]] chart.
 
-gapps-config file
+The gapps-config file
 ---
 To modify the default behavior of the Open GApps installer, create a text file called **.gapps-config** or **gapps-config.txt** (.gapps-config will take precedence) and place it in the **same folder as the Open GApps zip** or in **/sdcard/Open-GApps** (zip folder will take precedence). Once you've created the gapps-config file, simply type in the keyword options you want from the lists below. There is also a more user-friendly front-end available that can generate the gapps-config file for you behind the scenes: the [AROMA Open GApps installer](http://forum.xda-developers.com/android/general/open-gapps-aroma-installer-t3010798). 
 
@@ -12,8 +12,9 @@ To perform a test installation that will only simulate an install, add the keywo
 ####Debugging
 By default, the installer will generate Debug Logs - _**open_gapps_debug_logs.tar.gz**_ - a compressed file that contains a set of files to help the devs troubleshoot any problems you might experience with the install. This file can be easily attached to any bugreport on GitHub or post on XDA, making it easy for you to provide the devs important information to help troubleshoot any issues you're having. You will find _open_gapps_debug_logs.tar.gz_ in the same folder as your _open_gapps_log.txt_. You may disable this feature by adding the keyword `NoDebug` to your gapps-config.
 ***
-Presets
+Configuring your installation
 ---
+####Presets
 You can use Presets with any GApps package. This allows you to transform any GApps package into one of its 'little brothers' by adding one of the following keywords to your gapps-config. This will transform ALL INSTALLER BEHAVIOR (including default removals AND applications available for install) - effectively turning it into a new GApps package.
 Valid keyword options are:
   * `FullGApps` - To downsize the following package to Full Modular GApps. [Stock]
@@ -116,7 +117,7 @@ To bypass the default removal of the Stock/AOSP apps (listed below) when using G
 
 _**NOTE**: The installer will automatically NOT remove the Stock/AOSP application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, and Google Calendar|Stock Calendar._
 ***
-Notes
+Miscellaneous
 ---
 * You can add notes or comments to your gapps-config using a `#`. Anything following a `#` will be ignored until the end of that line.
 For example:
