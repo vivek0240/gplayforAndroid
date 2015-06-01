@@ -117,11 +117,11 @@ To bypass the default removal of the Stock/AOSP apps (listed below) when using G
 _**NOTE**: The installer will automatically NOT remove the Stock/AOSP application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, and Google Calendar|Stock Calendar._
 ***
 ####Notes
-* You can add notes or comments to your gapps-config using a **#**. Anything following a # will be ignored until the end of that line.
+* You can add notes or comments to your gapps-config using a `#`. Anything following a # will be ignored until the end of that line.
 For example:
   * `# Exclude Search` would be completely ignored
-  * While `Search # Exclude Search` would process the first **Search** keyword (since it appeared BEFORE the '#')
+  * While `Search # Exclude Search` would process the first `Search` keyword (since it appeared BEFORE the '#')
 
-* _"Protection from Stupidity"_ is built into the GApps Installer. To prevent you from accidentally leaving yourself with no keyboard, Launcher, or MMS app when you start your device, the installer WILL NOT ALLOW you to remove the Stock/AOSP Keyboard, Launcher, or MMS app if you are not also installing a Google version of these apps. You can, however, override this protection by adding the keyword **Override** to your gapps-config. Be very careful when using this option and make certain you have a replacement app already installed on your device before using this option.
+* _"Protection from Stupidity"_ is built into the GApps Installer. To prevent you from accidentally leaving yourself with no keyboard, Launcher, or MMS app when you start your device, the installer WILL NOT ALLOW you to remove the Stock/AOSP Keyboard, Launcher, or MMS app if you are not also installing a Google version of these apps. You can, however, override this protection by adding the keyword `Override` to your gapps-config. Be very careful when using this option and make certain you have a replacement app already installed on your device before using this option.
 
 * Case, order, spaces, or using separate lines does not matter when using gapps-config.
