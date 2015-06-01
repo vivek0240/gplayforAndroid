@@ -117,7 +117,7 @@ To bypass the default removal of the Stock/AOSP apps (listed below) when using G
 _**NOTE**: The installer will automatically NOT remove the Stock/AOSP application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, and Google Calendar|Stock Calendar._
 ***
 ####Notes
-* You can add notes or comments to your gapps-config using a `#`. Anything following a # will be ignored until the end of that line.
+* You can add notes or comments to your gapps-config using a `#`. Anything following a `#` will be ignored until the end of that line.
 For example:
   * `# Exclude Search` would be completely ignored
   * While `Search # Exclude Search` would process the first `Search` keyword (since it appeared BEFORE the '#')
