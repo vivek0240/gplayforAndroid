@@ -24,7 +24,7 @@
 |Google Docs              |``Docs``          |  X  |  X  |     |     |     |     |
 |Google Drive             |``Drive``         |  X  |  X  |     |     |     |     |
 |Google Earth             |``Earth``         |  X  |  X  |     |     |     |     |
-|Google Fitness           |``Fitness``       |  X  |  X  |     |     |     |     |
+|Google Fit               |``Fitness``       |  X  |  X  |     |     |     |     |
 |Google Keep              |``Keep``          |  X  |  X  |     |     |     |     |
 |Google News & Weather    |``NewsWidget``    |  X  |  X  |     |     |     |     |
 |Google Play Books        |``Books``         |  X  |  X  |     |     |     |     |
