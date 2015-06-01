@@ -12,9 +12,8 @@ There are 2 things you can do that are almost always guaranteed to fix these typ
  2. Manually wipe (format) your System partition
  3. Flash your ROM
  4. Flash GApps package
- 5. Flash any Addon Modules (optional)
- 6. Wipe the Dalvik & cache
- 7. Reboot
+ 5. Wipe the Dalvik & cache
+ 6. Reboot
 
 NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a nandroid backup prior in case you want to restore later.
 
@@ -56,9 +55,8 @@ To ensure the best possible user experience, Open GApps will only allow these ap
  2. Manually wipe (format) your System partition
  3. Flash your ROM
  4. Flash GApps package
- 5. Flash any Addon Modules (optional)
- 6. Wipe the Dalvik & cache
- 7. Reboot
+ 5. Wipe the Dalvik & cache
+ 6. Reboot
 
 NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a nandroid backup prior in case you want to restore later.
 
