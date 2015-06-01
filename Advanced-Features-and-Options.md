@@ -10,7 +10,7 @@ To modify the default behavior of the Open GApps installer, create a text file c
 To perform a test installation that will only simulate an install, add the keyword `Test` to your gapps-config. The installer will perform all system space calculations and generate a detailed log _**open_gapps_log.txt** _(in the same folder as your gapps-config), but WILL NOT MAKE ANY CHANGES to your device. This should be helpful for trying to find just the right combination of apps that will work with your particular device.
 
 ####Debugging
-By default, the installer will generate Debug Logs - _**open_gapps_debug_logs.tar.gz**_ - a compressed file that contains a set of files to help the devs troubleshoot any problems you might experience with the install. This file can be easily attached to any bugreport on GitHub or post on XDA, making it easy for you to provide the devs important information to help troubleshoot any issues you're having. You will find open_gapps_debug_logs.tar.gz in the same folder as your open_gapps_log.txt. You may disable this feature by adding the keyword `NoDebug` to your gapps-config.
+By default, the installer will generate Debug Logs - _**open_gapps_debug_logs.tar.gz**_ - a compressed file that contains a set of files to help the devs troubleshoot any problems you might experience with the install. This file can be easily attached to any bugreport on GitHub or post on XDA, making it easy for you to provide the devs important information to help troubleshoot any issues you're having. You will find _open_gapps_debug_logs.tar.gz_ in the same folder as your _open_gapps_log.txt_. You may disable this feature by adding the keyword `NoDebug` to your gapps-config.
 ***
 Presets
 ---
