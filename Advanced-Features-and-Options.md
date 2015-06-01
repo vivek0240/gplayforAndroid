@@ -1,6 +1,6 @@
 Advanced Features and Options
 ===
-The features outlined below are COMPLETELY OPTIONAL and designed to allow advanced users the ability to modify the default behavior of the Open GApps installers. Without the use of these options, the installers will function exactly as described in [[Package-Comparison]] chart.
+The features outlined below are COMPLETELY OPTIONAL and designed to allow advanced users the ability to modify the default behavior of the Open GApps installers. Without the use of these options, the installers will function exactly as described in [[Package Comparison|Package-Comparison]] chart.
 
 The gapps-config file
 ---
