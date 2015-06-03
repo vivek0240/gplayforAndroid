@@ -36,14 +36,14 @@
 |Google Slides            |``Slides``        |  X  |  X  |     |     |     |     |
 |Google Talkback          |``TalkBack``      |  X  |  X  |     |     |     |     |
 |Google Wallet            |``Wallet``        |  X  |  X  |     |     |     |     |
-|Google Webview²          |``Webview``       |  X  |  X  |     |     |     |     |
+|Google Webview²          |``Webview``       |  O  |  X  |     |     |     |     |
 |Messenger                |``Messenger``     |  O  |  X  |     |     |     |     |
 |Sound Search (for Play)  |``Ears``          |  X  |  X  |     |     |     |     |
 |Google Camera¹           |``CameraGoogle``  |  O  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |     |     |     |     |     |
 
 * ¹ Replaces the Stock/AOSP version of the application included in the ROM to avoid problems
-* ² The ROM must support selecting an external Webview installation (recent Cyanogenmod does)
+* ² Webview is only installed on ROMs that support external Webview installations (e.g. recent CM12.1)
 * X Installs application by default
 * O Replaces the Stock/AOSP version of the application by default
 * \+ Only installed if Google Calendar is NOT installed
