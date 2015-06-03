@@ -4,7 +4,7 @@
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |     |
 |FaceUnlock               |``FaceUnlock``    |  X  |  X  |  X  |  X  |     |     |
 |Google Exchange Services¹|``ExchangeGoogle``|  O  |  O  |  O  |  O  |     |     |
-|Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  |     |     |
+|Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  |  X  |  X  |
 |                         |                  |     |     |     |     |     |     |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Services     |                  |  X  |  X  |  X  |  X  |  X  |  X  |
