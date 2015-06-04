@@ -2,7 +2,7 @@ COMMON QUESTIONS & ANSWERS (FAQ)
 ===
 ####1. I'm having problems that I believe are Open GApps related. What can I do to fix it?
 There are 2 things you can do that are almost always guaranteed to fix these types of problems. Please do not post a support request until you have tried these first.
-  1. Make certain you are using the latest version of TWRP Recovery for your device.
+  1. Make certain you are using the **latest version** of [TWRP Recovery](https://twrp.me/) for your device.
     - Other Recovery types are not officially supported
   2. Reinstall your ROM and GApps as part of a 'Clean' install
     - This will remove any data corruption that might be causing your issue
