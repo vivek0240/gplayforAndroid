@@ -117,6 +117,20 @@ To bypass the default removal of the Stock/AOSP apps (listed below) when using G
   * `+WebViewStock` - To bypass the automatic removal of the Stock/AOSP WebView library [Stock ONLY]
 
 _**NOTE**: The installer will automatically NOT remove the Stock/AOSP application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, and Google Calendar|Stock Calendar._
+
+####Universal Application Removals
+In addition to the Stock/AOSP Removals above, Universal Application Removals is available in the Open GApps installer. Universal Removals allow you to remove ANY system app on your device or ROM.
+To use this feature, enclose the name of the apk in parentheses inside your gapps-config file.
+See below for complete details:
+
+For example to remove the Spare Parts app found in many ROMs, simply add `(SpareParts)` to your gapps-config. When using this feature, keep the following in mind:
+* Adding the .apk extension is not required (however, it will work)
+* Works for all apps in any system/app or system/priv-app subfolder
+* Removes the entire contents of the folder containing the apk (including subfolders)
+* Removal is also added to the addon.d backup script so the removals will also be applied if you update your ROM
+* Gives you the ability to do some really bad things to your device, so **DO A BACKUP** before trying
+
+_**WARNING**: Because this feature gives you the ability to remove files that may be important to the proper function of your device, it is only recommended for very experienced users who know what they are doing._
 ***
 Miscellaneous
 ---
