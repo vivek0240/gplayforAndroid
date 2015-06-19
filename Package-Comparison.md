@@ -13,6 +13,7 @@
 |Google Now Launcher      |``GoogleNow``     |  O  |  X  |  X  |  X  |     |     |
 |Google Text-to-Speech    |``GoogleTTS``     |  O  |  X  |  X  |  X  |     |     |
 |Gmail                    |``Gmail``         |  O  |  X  |  X  |  X  |     |     |
+|Google Desk Clock        |``ClockGoogle``   |  X  |  X  |  X  |     |     |     |
 |Google+                  |``GooglePlus``    |  X  |  X  |  X  |     |     |     |
 |Hangouts                 |``Hangouts``      |  O  |  X  |  X  |     |     |     |
 |Google Maps              |``Maps``          |  X  |  X  |  X  |     |     |     |
