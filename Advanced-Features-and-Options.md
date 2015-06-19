@@ -65,7 +65,7 @@ Valid keyword options are:
 * `Street` - To Exclude/Include Street View on Google Maps [Stock/Full/Mini]
 * `Talkback` - To Exclude/Include TalkBack [Stock/Full]
 * `Wallet` - To Exclude/Include Google Wallet [Stock/Full]
-* `Webview` - To Exclude/Include Google Webview [Stock/Full]
+* `WebviewGoogle` - To Exclude/Include Google Webview [Stock/Full]
 * `YouTube` - To Exclude/Include YouTube [Stock/Full/Mini]
 
 ####Removal of Stock applications
