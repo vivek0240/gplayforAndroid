@@ -76,6 +76,7 @@ Valid keyword options are:
 * `Browser` - To remove the Stock/AOSP Browser
 * `CalendarStock` - To remove the Stock/AOSP Calendar Application _(automatically removed when Google Calendar is installed)_
 * `CameraStock` - To remove the Stock/AOSP Camera Application _(automatically removed when Google Camera is installed)_
+* `ClockStock` - To remove the Stock/AOSP Desk Clock Application _(automatically removed when Google Desk Clock is installed)_
 * `CMAccount` - TO remove the Stock CM Account Application
 * `CMAudioFX` - To remove the Stock CM AudioFX Application
 * `CMEleven` - To remove the Stock CM Music Application
