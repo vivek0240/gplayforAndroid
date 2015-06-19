@@ -36,7 +36,7 @@
 |Google Slides            |``Slides``        |  X  |  X  |     |     |     |     |
 |Google Talkback          |``TalkBack``      |  X  |  X  |     |     |     |     |
 |Google Wallet            |``Wallet``        |  X  |  X  |     |     |     |     |
-|Google Webview²          |``Webview``       |  O  |  X  |     |     |     |     |
+|Google Webview²          |``WebviewGoogle`  |  O  |  X  |     |     |     |     |
 |Messenger                |``Messenger``     |  O  |  X  |     |     |     |     |
 |Sound Search (for Play)  |``Ears``          |  X  |  X  |     |     |     |     |
 |Google Camera¹           |``CameraGoogle``  |  O  |     |     |     |     |     |
