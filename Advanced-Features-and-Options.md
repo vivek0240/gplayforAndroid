@@ -34,6 +34,7 @@ Valid keyword options are:
 * `CalSync` - To Exclude/Include Google Calendar Sync _(installed by default when Google Calendar is NOT being installed)_ [Stock/Full/Mini/Micro/Nano/Pico]
 * `CameraGoogle` - To Exclude/Include Google Camera [Stock]
 * `Chrome` - To Exclude/Include Chrome Browser [Stock/Full]
+* `ClockGoogle` - To Exclude/Include Google Desk Clock [Stock/Full/Mini]
 * `CloudPrint` - To Exclude/Include Cloud Print [Stock/Full]
 * `Docs` - To Exclude/Include Google Docs [Stock/Full]
 * `Drive` - To Exclude/Include Google Drive [Stock/Full]
