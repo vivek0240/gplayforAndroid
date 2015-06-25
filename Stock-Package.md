@@ -2,21 +2,21 @@ This package is recommended for most users of current generation devices (legacy
 
 In this package you will find the core Google system base, off-line speech files, FaceUnlock, Google Play Store, Google Exchange Services (replaces stock/AOSP Exchange Services) and the following Play Store applications:
 
-* Chrome Browser (replaces stock/AOSP Browser)
+* Chrome Browser _(replaces stock/AOSP Browser)_
 * Cloud Print
-* Gmail (replaces stock/AOSP Email)
+* Gmail _(replaces stock/AOSP Email)_
 * Google+
-* Google Calendar (replaces stock/AOSP Calendar)
-* Google Camera (replaces stock/AOSP Camera)
-* Google Desk Clock (replaces stock/AOSP Desk Clock)
+* Google Calendar _(replaces stock/AOSP Calendar)_
+* Google Camera _(replaces stock/AOSP Camera)_
+* Google Desk Clock _(replaces stock/AOSP Desk Clock)_
 * Google Docs
 * Google Drive
 * Google Earth
 * Google Fitness
 * Google Keep
-* Google Keyboard (replaces stock/AOSP Keyboard)
+* Google Keyboard _(replaces stock/AOSP Keyboard)_
 * Google News & Weather
-* Google Now Launcher (replaces stock/AOSP Launcher)
+* Google Now Launcher _(replaces stock/AOSP Launcher)_
 * Google Play Books
 * Google Play Games
 * Google Play Movies & TV
@@ -26,13 +26,13 @@ In this package you will find the core Google system base, off-line speech files
 * Google Search
 * Google Sheets
 * Google Slides
-* Google Text-to-Speech (replaces stock/AOSP Pico TTS)
+* Google Text-to-Speech _(replaces stock/AOSP Pico TTS)_
 * Google Wallet
 * Google Webview
-* Hangouts (replaces stock/AOSP SMS App)
+* Hangouts _(replaces stock/AOSP SMS App)_
 * Maps
-* Messenger (not installed on tablet devices) (replaces stock/AOSP SMS App)
-* Photos (replaces stock/AOSP Gallery)
+* Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_
+* Photos _(replaces stock/AOSP Gallery)_
 * Sound Search for Google Play
 * Street View on Google Maps
 * TalkBack
