@@ -7,8 +7,8 @@ In this package you will find the core Google system base, off-line speech files
 * Cloud Print
 * Gmail
 * Google+
-* Google Calendar (replaces stock/AOSP Calendar)
-* Google Desk Clock (replaces stock/AOSP Desk Clock)
+* Google Calendar _(replaces stock/AOSP Calendar)_
+* Google Desk Clock _(replaces stock/AOSP Desk Clock)_
 * Google Docs
 * Google Drive
 * Google Earth
@@ -30,7 +30,7 @@ In this package you will find the core Google system base, off-line speech files
 * Google Webview
 * Hangouts
 * Maps
-* Messenger (not installed on tablet devices)
+* Messenger _(not installed on tablet devices)_
 * Photos
 * Sound Search for Google Play
 * Street View on Google Maps
