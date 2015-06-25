@@ -1,0 +1,38 @@
+This package is similar to the Google Stock Package above except that it does NOT include Google Camera and Google Keyboard and will NOT remove your stock/AOSP Browser, Camera, Email, Gallery, Launcher, Keyboard, SMS App, Pico TTS or WebView.
+
+If you prefer the option use to use stock/AOSP apps, this package is designed for you.
+In this package you will find the core Google system base, off-line speech files, FaceUnlock, Google Play Store, Google Exchange Services (replaces stock/AOSP Exchange Services) and the following Play Store applications:
+
+* Chrome Browser
+* Cloud Print
+* Gmail
+* Google+
+* Google Calendar (replaces stock/AOSP Calendar)
+* Google Desk Clock (replaces stock/AOSP Desk Clock)
+* Google Docs
+* Google Drive
+* Google Earth
+* Google Fitness
+* Google Keep
+* Google News & Weather
+* Google Now Launcher
+* Google Play Books
+* Google Play Games
+* Google Play Movies & TV
+* Google Play Music
+* Google Play Newsstand
+* Google Play services
+* Google Search
+* Google Sheets
+* Google Slides
+* Google Text-to-Speech
+* Google Wallet
+* Google Webview
+* Hangouts
+* Maps
+* Messenger (not installed on tablet devices)
+* Photos
+* Sound Search for Google Play
+* Street View on Google Maps
+* TalkBack
+* YouTube
