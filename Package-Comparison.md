@@ -1,4 +1,5 @@
 [[Details about the Aroma Package|Aroma Package]]
+
 [[Details about the For Nexus Package|For Nexus Package]]
 
 |Application Name    |gapps-config<br>keyword|Stock|Full |Mini |Micro|Nano |Pico |
