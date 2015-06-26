@@ -27,7 +27,6 @@ In this package you will find the core Google system base, off-line speech files
 * Google Slides
 * Google Text-to-Speech
 * Google Wallet
-* Google Webview
 * Hangouts
 * Maps
 * Messenger _(not installed on tablet devices)_
