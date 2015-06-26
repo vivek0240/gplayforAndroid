@@ -28,7 +28,7 @@ In this package you will find the core Google system base, off-line speech files
 * Google Slides
 * Google Text-to-Speech _(replaces stock/AOSP Pico TTS)_
 * Google Wallet
-* Google Webview
+* Google WebView _(replaces stock/AOSP WebView)_
 * Hangouts _(replaces stock/AOSP SMS App)_
 * Maps
 * Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_
