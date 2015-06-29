@@ -84,10 +84,10 @@ Valid keyword options are:
 * `CMUpdater` - To remove the Stock CM Updater Application
 * `CMSetupWizard` - To remove the Stock CM Setup Wizard Application
 * `CMWallpapers` - To remove the Stock CM Wallpapers
-* `DashClock` - To remove the Stock DashClock Application _(found in certain ROM's)_
+* `DashClock` - To remove the Stock DashClock Application _(a widget found in certain ROMs)_
 * `Email` - To remove the Stock/AOSP Email Application
 * `ExchangeStock` - To remove the Stock/AOSP Exchange Services _(automatically removed when Google Exchange Services is installed)_
-* `FMRadio` - To remove the Stock FM Radio Application _(not found on all devices or ROM's)_
+* `FMRadio` - To remove the Stock FM Radio Application _(not found on all devices or ROMs)_
 * `Gallery` - To remove the Stock/AOSP Gallery Application
 * `Galaxy` - To remove the Stock Galaxy Wallpaper
 * `HoloSpiral` - To remove the Stock Holo Spiral Wallpaper
@@ -103,7 +103,7 @@ Valid keyword options are:
 * `PicoTTS` - To remove the Stock/AOSP PicoTTS
 * `SimToolKit` - To remove the Stock/AOSP SimToolKit Application
 * `Studio` - To remove the Stock/AOSP Movie Studio Application
-* `SykoPath` - To remove SykoPath OverlayManager _(found in certain ROM's)_
+* `SykoPath` - To remove SykoPath OverlayManager _(found in certain ROMs)_
 * `Terminal` - To remove the Stock Terminal Application
 * `Themes` - To remove the Stock Themes Application _(Will break the link in Settings to Themes)_
 * `VisualizationWallpapers` - To remove the Stock Visualization Wallpapers
