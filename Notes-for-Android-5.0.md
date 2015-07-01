@@ -1,0 +1,1 @@
+Because AOSP builds of Android 5.0 does not support the usage of an alternative Google WebView installation, the 5.0 [[stock|Stock-Package]] package does not include Google WebView. The [[stock|For-Nexus-Package]] package does have Google WebView included, since on those firmwares it can just replace the native installation.
