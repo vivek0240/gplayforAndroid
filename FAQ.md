@@ -94,7 +94,7 @@ Open GApps will use LESS of your device's available storage than using a 'bare b
 
 ####11. Why are Open GApps packages so much larger than other GApps packages?
 Open GApps are larger than other GApps packages for a couple of reasons:
- * The main reason is that all our GApps packages include the PROPER version of Google Play services for YOUR device. Instead of installing a generic, obsolete, or a potentially improper version, the Open GApps installer detects the hardware dpi of your device and then installs the PROPER version of Google Play services that was intended for your device. This means that the Open GApps packages must include multiple versions, which significantly increases the size of the packages.
+ * The main reason is that all our GApps packages (and that really means ALL, and not just Google Services Framework) include the PROPER version of Google Play services for YOUR device. Instead of installing a generic, obsolete, or a potentially improper version, the Open GApps installer detects the hardware dpi of your device and then installs the PROPER version of the applications that are intended for your device. This means that the Open GApps packages must include multiple versions, which significantly increases the size of the packages.
  * Open GApps Stock version includes all of the Google Apps that come by default on a Google Nexus device. Since our intention is to enhance the Google Android experience, we don't think it makes sense to limit the apps included in this Open GApps package.
 
 ####12. Is it necessary to reinstall Open GApps EVERY time I update my ROM?
