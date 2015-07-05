@@ -92,9 +92,10 @@ While even legacy devices are able to run KitKat or Lollipop with a custom ROM, 
 ####10. Open GApps packages are so big. Will I have any space left over for my stuff after I install?
 Open GApps will use LESS of your device's available storage than using a 'bare bones' GApps and downloading the apps from the Play Store. This is because GApps are installed entirely in the System partition, leaving the Data (User) partition for your non-Google apps. Since the System partition is a fixed size, installing GApps here uses storage that would otherwise be left unused (and unavailable for other use).
 
-####11. Why are Open GApps packages so much larger than other GApps packages?
+####11. Why are Open GApps packages so much larger and slower to install than other GApps packages?
 Open GApps are larger than other GApps packages for a couple of reasons:
  * The main reason is that all our GApps packages (and that really means ALL, and not just Google Services Framework) include the PROPER version of Google Play services for YOUR device. Instead of installing a generic, obsolete, or a potentially improper version, the Open GApps installer detects the hardware dpi of your device and then installs the PROPER version of the applications that are intended for your device. This means that the Open GApps packages must include multiple versions, which significantly increases the size of the packages.
+ * To reduce the size of the package, with so many versions in it, still a bit. We use extra strong XZ-compression within the ZIP-file itself. This impacts the speed of package extraction in a negative manner, but reduces the package size by more than half, so is definitely worth it.
  * Open GApps Stock version includes all of the Google Apps that come by default on a Google Nexus device. Since our intention is to enhance the Google Android experience, we don't think it makes sense to limit the apps included in this Open GApps package.
 
 ####12. Is it necessary to reinstall Open GApps EVERY time I update my ROM?
