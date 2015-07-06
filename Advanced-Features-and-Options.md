@@ -4,7 +4,7 @@ The features outlined below are COMPLETELY OPTIONAL and designed to allow advanc
 
 The gapps-config file
 ---
-To modify the default behavior of the Open GApps installer, create a text file called **.gapps-config** or **gapps-config.txt** (.gapps-config will take precedence) and place it in the **same folder as the Open GApps zip** or in **/sdcard/Open-GApps** (zip folder will take precedence). Once you've created the gapps-config file, simply type in the keyword options you want from the lists below. There is also a more user-friendly front-end available that can generate the gapps-config file for you behind the scenes: the [[Aroma Package]]
+To modify the default behavior of the Open GApps installer, create a text file called **.gapps-config** or **gapps-config.txt** (.gapps-config will take precedence) and place it in the **same folder as the Open GApps zip** or in **/sdcard/Open-GApps** or **/persist** (within zip's folder will take precedence). Once you've created the gapps-config file, simply type in the keyword options you want from the lists below. There is also a more user-friendly front-end available that can generate the gapps-config file for you behind the scenes: the [[Aroma Package]]
 
 ####Testing
 To perform a test installation that will only simulate an install, add the keyword `Test` to your gapps-config. The installer will perform all system space calculations and generate a detailed _**log\_open\_gapps\_log.txt**_ (in the same folder as your gapps-config), but WILL NOT MAKE ANY CHANGES to your device. This should be helpful for trying to find just the right combination of apps that will work with your particular device.
