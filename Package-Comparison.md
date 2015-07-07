@@ -45,10 +45,9 @@
 |Sound Search (for Play)  |``Ears``          |  X  |  X  |     |     |     |     |
 |Google Camera¹           |``CameraGoogle``  |  O  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |     |     |     |     |     |
-|Google Webview¹²          |``WebviewGoogle`` |  O  |     |     |     |     |     |
+|Google Webview¹          |``WebviewGoogle`` |  O  |     |     |     |     |     |
 
 * ¹ Replaces the Stock/AOSP version of the application included in the ROM to avoid problems
-* ² Webview is only installed on ROMs that support external Webview installations (e.g. recent CM12.1)
 * X Installs application by default
 * O Replaces the Stock/AOSP version of the application by default
 * \+ Only installed if Google Calendar is NOT installed
