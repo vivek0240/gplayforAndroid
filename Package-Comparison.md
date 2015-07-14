@@ -6,7 +6,8 @@
 |------------------------:|:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|
 |Google System Base       |                  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |     |
-|FaceUnlock               |``FaceUnlock``    |  X  |  X  |  X  |  X  |     |     |
+|Face Detection for Media |``FaceDetect``    |  X  |  X  |  X  |  X  |     |     |
+|Face Unlock              |``FaceUnlock``    |  X  |  X  |  X  |  X  |     |     |
 |Google Exchange Services¹|``ExchangeGoogle``|  O  |  O  |  O  |  O  |     |     |
 |Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  |  X  |  X  |
 |                         |                  |     |     |     |     |     |     |
