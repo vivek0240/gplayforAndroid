@@ -64,6 +64,7 @@ Valid keyword options are:
 **OR** To Include Google Search [Stock/Full/Mini/Micro/Nano]
 * `Speech` - To Exclude/Include off-line Speech files _(Required for off-line "Okay Google" support)_ [Stock/Full/Mini/Micro/Nano]
 * `Street` - To Exclude/Include Street View on Google Maps [Stock/Full/Mini]
+* `TagGoogle` - To Exclude/Include Google NFC Tags [Stock/Full/Mini]
 * `Talkback` - To Exclude/Include TalkBack [Stock/Full]
 * `Wallet` - To Exclude/Include Google Wallet [Stock/Full]
 * `WebviewGoogle` - To Exclude/Include Google Webview [Stock]
@@ -104,6 +105,7 @@ Valid keyword options are:
 * `SimToolKit` - To remove the Stock/AOSP SimToolKit Application
 * `Studio` - To remove the Stock/AOSP Movie Studio Application
 * `SykoPath` - To remove SykoPath OverlayManager _(found in certain ROMs)_
+* `TagStock` - To remove the Stock/AOSP NFC Tags Application _(automatically removed when Google NFC Tags is installed)_
 * `Terminal` - To remove the Stock Terminal Application
 * `Themes` - To remove the Stock Themes Application _(Will break the link in Settings to Themes)_
 * `VisualizationWallpapers` - To remove the Stock Visualization Wallpapers
