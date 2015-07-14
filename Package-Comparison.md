@@ -23,6 +23,7 @@
 |Google Maps              |``Maps``          |  X  |  X  |  X  |     |     |     |
 |Google Photos            |``Photos``        |  O  |  X  |  X  |     |     |     |
 |Street View (on Maps)    |``Street``        |  X  |  X  |  X  |     |     |     |
+|Google NFC Tags¹         |``TagGoogle``     |  O  |  O  |  O  |     |     |     |
 |Youtube                  |``YouTube``       |  X  |  X  |  X  |     |     |     |
 |Cloud Print              |``CloudPrint``    |  X  |  X  |     |     |     |     |
 |Google Chrome            |``Chrome``        |  O  |  X  |     |     |     |     |
