@@ -15,6 +15,7 @@ In this package you will find the core Google system base, off-line speech files
 * Google Fitness
 * Google Keep
 * Google News & Weather
+* Google NFC Tags _(replaces stock/AOSP NFC Tags)_
 * Google Now Launcher
 * Google Play Books
 * Google Play Games
