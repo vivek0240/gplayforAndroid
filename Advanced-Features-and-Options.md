@@ -6,8 +6,8 @@ The gapps-config file
 ---
 To modify the default behavior of the Open GApps installer, create a text file called **.gapps-config** or **gapps-config.txt** (.gapps-config will take precedence) and place it in the **same folder as the Open GApps zip** or in **/sdcard/Open-GApps** or in **/persist** (within zip's folder will take precedence). Once you've created the gapps-config file, simply type in the keyword options you want from the lists below. There is also a more user-friendly front-end available that can generate the gapps-config file for you behind the scenes: the [[Aroma Package]]
 
-### Config files per device
-If you want to use different settings per device, you can create a text file named **.gapps-config-device** or **gapps-config-device.txt** replacing **device** with your device codename and put it in the same locations described above. (You can usually find it in the name of your ROM download). If you don't provide one, a normal gapps-config file will be used.
+###Config files per device
+If you want to use different settings per device, you can create a text file named **.gapps-config-devicename** or **gapps-config-devicename.txt** replacing **devicename** with your device's codename (which is also shown in _log\_open\_gapps\_log.txt_) and put it in the same locations described above. (You can usually find it in the name of your ROM download). If you don't provide one, the normal gapps-config file will be used.
 
 ####Testing
 To perform a test installation that will only simulate an install, add the keyword `Test` to your gapps-config. The installer will perform all system space calculations and generate a detailed _**log\_open\_gapps\_log.txt**_ (in the same folder as your gapps-config), but WILL NOT MAKE ANY CHANGES to your device. This should be helpful for trying to find just the right combination of apps that will work with your particular device.
