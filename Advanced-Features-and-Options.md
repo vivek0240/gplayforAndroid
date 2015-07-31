@@ -120,7 +120,6 @@ Valid keyword options are:
   * `+Launcher` - To bypass the automatic removal of Stock/AOSP Launcher(s) [Stock ONLY]
   * `+MMS` - To bypass the automatic removal of Stock/AOSP SMS Application [Stock ONLY]
   * `+PicoTTS` - To bypass the automatic removal of the Stock/AOSP PicoTTS app [Stock ONLY]
-  * `+WebViewStock` - To bypass the automatic removal of the Stock/AOSP WebView library [Stock ONLY]
 
 _**NOTE**: The installer will automatically NOT remove the Stock/AOSP application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, Google WebView|Stock WebView and Google Calendar|Stock Calendar._
 
