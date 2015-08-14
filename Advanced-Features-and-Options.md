@@ -79,7 +79,7 @@ Valid keyword options are:
 * `BasicDreams`- To remove the Stock Basic Dreams Wallpaper
 * `Browser` - To remove the Stock/AOSP Browser
 * `CalendarStock` - To remove the Stock/AOSP Calendar Application _(automatically removed when Google Calendar is installed)_
-* `CameraStock` - To remove the Stock/AOSP Camera Application _(automatically removed when Google Camera is installed)_
+* `CameraStock` - To remove the Stock/AOSP/Moto Camera Application _(automatically removed when Google Camera is installed)_
 * `ClockStock` - To remove the Stock/AOSP Desk Clock Application _(automatically removed when Google Desk Clock is installed)_
 * `CMAccount` - TO remove the Stock CM Account Application
 * `CMAudioFX` - To remove the Stock CM AudioFX Application
@@ -92,7 +92,7 @@ Valid keyword options are:
 * `Email` - To remove the Stock/AOSP Email Application
 * `ExchangeStock` - To remove the Stock/AOSP Exchange Services _(automatically removed when Google Exchange Services is installed)_
 * `FMRadio` - To remove the Stock FM Radio Application _(not found on all devices or ROMs)_
-* `Gallery` - To remove the Stock/AOSP Gallery Application
+* `Gallery` - To remove the Stock/AOSP/Moto Gallery Application
 * `Galaxy` - To remove the Stock Galaxy Wallpaper
 * `HoloSpiral` - To remove the Stock Holo Spiral Wallpaper
 * `KeyboardStock` - To remove the Stock/AOSP Keyboard _(automatically removed when Google Keyboard is installed)_
@@ -116,12 +116,12 @@ Valid keyword options are:
 <br><br>To prevent the default removal of the Stock/AOSP apps (listed below) when using the Open GApps stock package, type the keyword option preceded by a '+' as shown below:
   * `+Browser` - To bypass the automatic removal of Stock/AOSP Browser [Stock ONLY]
   * `+Email` - To bypass the automatic removal of Stock/AOSP Email Application [Stock ONLY]
-  * `+Gallery` - To bypass the automatic removal of Stock/AOSP Gallery Application [Stock ONLY]
+  * `+Gallery` - To bypass the automatic removal of Stock/AOSP/Moto Gallery Application [Stock ONLY]
   * `+Launcher` - To bypass the automatic removal of Stock/AOSP Launcher(s) [Stock ONLY]
   * `+MMS` - To bypass the automatic removal of Stock/AOSP SMS Application [Stock ONLY]
   * `+PicoTTS` - To bypass the automatic removal of the Stock/AOSP PicoTTS app [Stock ONLY]
 
-_**NOTE**: The installer will automatically NOT remove the Stock/AOSP application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, Google WebView|Stock WebView and Google Calendar|Stock Calendar._
+_**NOTE**: The installer will automatically NOT remove the Stock/AOSP application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera|Moto Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery|Moto Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, Google WebView|Stock WebView and Google Calendar|Stock Calendar._
 
 ####Universal Application Removals
 In addition to the Stock/AOSP Removals above, Universal Application Removals is available in the Open GApps installer. Universal Removals allow you to remove ANY system app on your device or ROM.
