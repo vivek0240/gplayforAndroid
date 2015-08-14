@@ -4,3 +4,5 @@ For more information you can check the XDA thread:
 http://forum.xda-developers.com/android/general/alpha-gapps-stock-t3093389
 
 All the support requests should be posted in that thread and not in the official Open GApps thread.
+
+Note: On Moto devices, the Camera and Gallery apps will be removed if you install Google Photos annd Camera. 
