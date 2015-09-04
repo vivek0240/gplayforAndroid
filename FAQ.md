@@ -80,9 +80,10 @@ In order to switch to Open GApps from another GApps provider you're no longer us
 
 NOTE: You won't lose any of your data or application settings using this method. This method MUST be used when switching to Open GApps from another GApps provider.
 
-
 ####8. Can I use Open GApps to update the Google Apps on my Stock ROM?
-The short answer is No. Open GApps have always been designed to be installed with custom Android AOSP based ROMs. If you're using a Stock ROM, you should continue to only update your apps through the Google Play Store.
+Yes. Open GApps is normally designed to be installed on custom Android AOSP based ROMs, but includes a 'For Stock' mode that can be used to install the package on Stock ROMs. It is important though that the Stock ROM conforms the Google Nexus filesystem structure. Be aware that if a ROM does not conform to this standard, this cannot be detected and your installation can break, so make sure to backup your data beforehand.
+
+NOTE: Support questions about this feature should not be asked in the main Open GApps XDA thread, but in its own special XDA thread: http://forum.xda-developers.com/android/general/alpha-gapps-stock-t3093389
 
 ####9. I'm having problems with Google Camera after installing Open GApps Stock. Please fix it!
 While Google does say that Google Camera 'Works on phones and tablets running Android 4.4 and up', they clearly didn't intend to include every KitKat or Lollipop ROM on XDA. They likely meant this to include devices running stock or factory versions of Android with proper drivers and kernels. In addition, Photo Sphere and Panorama require a gyro sensor and Photo Sphere, Panorama, and Lens Blur require at least 1 GB RAM. And HDR+ is only available on the Nexus 5 and 6, according to the Play Store description
