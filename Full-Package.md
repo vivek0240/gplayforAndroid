@@ -33,6 +33,6 @@ In this package you will find the core Google system base, off-line speech files
 * Messenger _(not installed on tablet devices)_
 * Photos
 * Sound Search for Google Play
-* Street View on Google Maps
+* Street View
 * TalkBack
 * YouTube
