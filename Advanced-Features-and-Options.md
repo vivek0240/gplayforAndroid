@@ -66,7 +66,7 @@ Valid keyword options are:
 * `Search` - To Exclude BOTH Google Search AND Google Now Launcher [Stock/Full/Mini/Micro/Nano]
 **OR** To Include Google Search [Stock/Full/Mini/Micro/Nano]
 * `Speech` - To Exclude/Include off-line Speech files _(Required for off-line "Okay Google" support)_ [Stock/Full/Mini/Micro/Nano]
-* `Street` - To Exclude/Include Street View on Google Maps [Stock/Full/Mini]
+* `Street` - To Exclude/Include Street View [Stock/Full]
 * `TagGoogle` - To Exclude/Include Google NFC Tags [Stock/Full/Mini]
 * `Talkback` - To Exclude/Include TalkBack [Stock/Full]
 * `Wallet` - To Exclude/Include Google Wallet [Stock/Full]
