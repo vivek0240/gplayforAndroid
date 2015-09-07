@@ -21,7 +21,6 @@
 |Hangouts                 |``Hangouts``      |  O  |  X  |  X  |     |     |     |
 |Google Maps              |``Maps``          |  X  |  X  |  X  |     |     |     |
 |Google Photos            |``Photos``        |  O  |  X  |  X  |     |     |     |
-|Street View (on Maps)    |``Street``        |  X  |  X  |  X  |     |     |     |
 |Google NFC Tags¹         |``TagGoogle``     |  O  |  O  |  O  |     |     |     |
 |Youtube                  |``YouTube``       |  X  |  X  |  X  |     |     |     |
 |Cloud Print              |``CloudPrint``    |  X  |  X  |     |     |     |     |
@@ -43,6 +42,7 @@
 |Google Wallet            |``Wallet``        |  X  |  X  |     |     |     |     |
 |Messenger                |``Messenger``     |  O  |  X  |     |     |     |     |
 |Sound Search (for Play)  |``Ears``          |  X  |  X  |     |     |     |     |
+|Street View              |``Street``        |  X  |  X  |     |     |     |     |
 |Google Camera¹           |``CameraGoogle``  |  O  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |     |     |     |     |     |
 |Google Webview¹          |``WebviewGoogle`` |  O  |     |     |     |     |     |
