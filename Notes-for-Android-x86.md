@@ -4,3 +4,4 @@ At the moment the set of missing applications consists of:
 * Google Camera
 * Google Wallet
 * Sound Search for Google Play
+* Street View is outdated, only the legacy version is available.
