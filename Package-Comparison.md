@@ -23,6 +23,7 @@
 |Google Photos            |``Photos``        |  O  |  X  |  X  |     |     |     |
 |Google NFC Tags¹         |``TagGoogle``     |  O  |  O  |  O  |     |     |     |
 |Youtube                  |``YouTube``       |  X  |  X  |  X  |     |     |     |
+|Android Pay              |``AndroidPay``    |  X  |  X  |     |     |     |     |
 |Cloud Print              |``CloudPrint``    |  X  |  X  |     |     |     |     |
 |Google Chrome            |``Chrome``        |  O  |  X  |     |     |     |     |
 |Google Docs              |``Docs``          |  X  |  X  |     |     |     |     |
@@ -39,7 +40,6 @@
 |Google Sheets            |``Sheets``        |  X  |  X  |     |     |     |     |
 |Google Slides            |``Slides``        |  X  |  X  |     |     |     |     |
 |Google Talkback          |``TalkBack``      |  X  |  X  |     |     |     |     |
-|Google Wallet            |``Wallet``        |  X  |  X  |     |     |     |     |
 |Messenger                |``Messenger``     |  O  |  X  |     |     |     |     |
 |Sound Search (for Play)  |``Ears``          |  X  |  X  |     |     |     |     |
 |Street View              |``Street``        |  X  |  X  |     |     |     |     |
