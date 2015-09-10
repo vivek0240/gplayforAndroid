@@ -3,6 +3,7 @@ This package is similar to the Google Stock Package above except that it does NO
 If you prefer the option use to use stock/AOSP apps, this package is designed for you.
 In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_ and the following Play Store applications:
 
+* Android Pay
 * Chrome Browser
 * Cloud Print
 * Gmail
@@ -27,7 +28,6 @@ In this package you will find the core Google system base, off-line speech files
 * Google Sheets
 * Google Slides
 * Google Text-to-Speech
-* Google Wallet
 * Hangouts
 * Maps
 * Messenger _(not installed on tablet devices)_
