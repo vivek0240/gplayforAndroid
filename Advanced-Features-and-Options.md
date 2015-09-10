@@ -32,6 +32,7 @@ _**NOTE**: ALL BEHAVIOR OF THE INSTALLER WILL BE TRANSFORMED TO THE NEW PRESET, 
 You can choose either the apps you WANT installed (called an Include Install) or the apps you DON'T WANT installed (default behavior - called an Exclude Install). To select ONLY the apps you WANT installed, add the keyword **Include** to your gapps-config file. The installer will now install ONLY THOSE APPS you have listed in your gapps-config. (Since the default behavior is an Exclude install, it is not necessary to add Exclude to your gapps-config). Stock/AOSP removals (see below) function the same whether you're doing an Include or Exclude Install.<br>
 Type the application keyword (name) you want to Exclude/Include inside your gapps-config file.
 Valid keyword options are:
+* `AndroidPay` - To Exclude/Include Android Pay [Stock/Full]
 * `Books` - To Exclude/Include Google Play Books [Stock/Full]
 * `CalendarGoogle` - To Exclude/Include Google Calendar [Stock/Full/Mini/Micro]
 * `CalSync` - To Exclude/Include Google Calendar Sync _(installed by default when Google Calendar is NOT being installed)_ [Stock/Full/Mini/Micro/Nano/Pico]
@@ -69,7 +70,6 @@ Valid keyword options are:
 * `Street` - To Exclude/Include Street View [Stock/Full]
 * `TagGoogle` - To Exclude/Include Google NFC Tags [Stock/Full/Mini]
 * `Talkback` - To Exclude/Include TalkBack [Stock/Full]
-* `Wallet` - To Exclude/Include Google Wallet [Stock/Full]
 * `WebviewGoogle` - To Exclude/Include Google Webview [Stock]
 * `YouTube` - To Exclude/Include YouTube [Stock/Full/Mini]
 
