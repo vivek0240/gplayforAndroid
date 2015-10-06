@@ -1,7 +1,3 @@
-Because Android x86 does still miss some Google applications, not all applications are available in the [[full|Full-Package]] and [[stock|Stock-Package]] package.
-At the moment the set of missing applications consists of:
-* Android Pay
-* Face Unlock
-* Google Camera
-* Sound Search for Google Play
-* Street View is outdated, only the legacy version is available.
+Because not all Google Apps are available for x86, some applications are in [[full|Full-Package]] and [[stock|Stock-Package]] are only provided using an ARM version.
+You need an Android ROM with [[libhoudini|https://commonsware.com/blog/2013/11/21/libhoudini-what-it-means-for-developers.html]] to be able to use those applications.
+To prevent possible conflicting system library issues, these packages are not available x86 for Android 4.4.
