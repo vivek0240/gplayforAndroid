@@ -3,13 +3,13 @@
 |Application Name    |gapps-config<br>keyword|Super|Stock|Full |Mini |Micro|Nano |Pico |
 |------------------------:|:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Google System Base       |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
-|Android For Work         |``AndroidForWork``|  X  |     |     |     |     |     |     |
+|Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  | \+  |  X  |  X  |
 |Face Detection for Media |``FaceDetect``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Face Unlock              |``FaceUnlock``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
-|Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  | \+  |  X  |  X  |
-|Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
-|Google Exchange Services¹|``ExchangeGoogle``|  O  |  O  |  O  |  O  |  O  |     |     |
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
+|Google Exchange Services¹|``ExchangeGoogle``|  O  |  O  |  O  |  O  |  O  |     |     |
+|Android For Work         |``AndroidForWork``|  X  |     |     |     |     |     |     |
+|Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
 |                         |                  |     |     |     |     |     |     |     |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Services     |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
