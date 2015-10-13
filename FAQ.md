@@ -108,7 +108,7 @@ Open GApps are larger than other GApps packages for a couple of reasons:
 Probably not. If your ROM supports addon.d backup functionality (most ROM's do), it's not necessary to install Open GApps with each ROM update - as long as you don't manually wipe the System partition. The backup script will backup your installed GApps and restores them after your ROM has been updated. However, it is a good idea to install an updated GApps from time to time as functionality may be added or improvements made.
 
 ####14. What if an app is updated in the Play Store? Should I install the update or wait for a GApps update?
-Go ahead and install the update. The next time you update Open GApps, Android automatically will remove the app you installed from the Play Store if the Open GApps' version is the same or newer than the version you installed from the Play Store. Just be certain to wipe Dalvik and cache after flashing the updated GApps.
+Go ahead and install the update. The next time you update Open GApps, Android automatically will remove the app you installed from the Play Store if the Open GApps' version is newer than the version you installed from the Play Store. Just be certain to wipe Dalvik and cache after flashing the updated GApps. Before 5.1 even with an equal version this would happen, but with 5.1+ you'll have to manually 'uninstall updates' if the versions are the same.
 
 ####15. Can I install an updated Open GApps package without updating my ROM?
 Certainly! Simply install the Open GApps package directly from Recovery and wipe Dalvik and cache after flashing the updated GApps.
