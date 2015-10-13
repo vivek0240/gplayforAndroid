@@ -11,7 +11,6 @@ In this package you will find the core Google system base, off-line speech files
 * Google Desk Clock _(replaces stock/AOSP Desk Clock)_
 * Google Docs
 * Google Drive
-* Google Earth
 * Google Fitness
 * Google Keep
 * Google News & Weather
@@ -31,6 +30,5 @@ In this package you will find the core Google system base, off-line speech files
 * Maps
 * Photos
 * Sound Search for Google Play
-* Street View
 * TalkBack
 * YouTube
