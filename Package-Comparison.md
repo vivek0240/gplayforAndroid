@@ -4,7 +4,6 @@
 |------------------------:|:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Google System Base       |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
-|Google Play Services     |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  | \+  |  X  |  X  |
 |Face Detection for Media |``FaceDetect``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Face Unlock              |``FaceUnlock``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
@@ -13,6 +12,7 @@
 |Android For Work         |``AndroidForWork``|  X  |     |     |     |     |     |     |
 |Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
 |                         |                  |     |     |     |     |     |     |     |
+|Google Play Services     |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google App (Search)      |``Search``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Google Calendar¹         |``CalendarGoogle``|  O  |  O  |  O  |  O  |  O  |     |     |
 |Google Now Launcher²     |``GoogleNow``     |  O  |  O  |  X  |  X  |  X  |     |     |
