@@ -45,10 +45,10 @@ Solution: Use a compatible version of the Open GApps package for your device's a
  * `#70` - Insufficient Space Available in System Partition: Your device does not have sufficient space available in the system partition to install the Open GApps package
 Solution: Read FAQ #6 for a detailed explanation and alternative options
 
-####5. I read that 'Google Camera and Google Keyboard can only be installed during a Clean Install or as an update to an existing Open GApps Installation.' What does this mean?
-Experience has shown us that users who install these applications FOR THE FIRST TIME during a 'Clean install' GApps installation almost never have issues or problems with these apps. However, there have been several reports of users experiencing FC's or other strange behavior when they have tried to install these apps later (with GApps), after their device has been set up.
+####5. I read that 'Google Camera can only be installed during a Clean Install or as an update to an existing Open GApps Installation.' What does this mean?
+Experience has shown us that users who install this application FOR THE FIRST TIME during a 'Clean install' GApps installation almost never have issues or problems with these apps. However, there have been several reports of users experiencing FC's or other strange behavior when they have tried to install these apps later (with GApps), after their device has been set up.
 
-To ensure the best possible user experience, Open GApps will only allow these applications to be installed FOR THE FIRST TIME as part of a 'Clean' install (data wiped) installation. Updates to an existing System (Open GApps) installation will also install fine, plus you can still freely update these apps from the Play Store and have the Open GApps installer update them later with the next Open GApps update.
+To ensure the best possible user experience, Open GApps will only allow this application to be installed FOR THE FIRST TIME as part of a 'Clean' install (data wiped) installation. Updates to an existing System (Open GApps) installation will also install fine, plus you can still freely update these apps from the Play Store and have the Open GApps installer update them later with the next Open GApps update.
 
 <u>A 'Clean' install consists of the following:</u>
  1. Factory Reset (or manually wipe (format) Data partition - Internal Storage wipe is NOT necessary)
