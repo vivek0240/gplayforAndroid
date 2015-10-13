@@ -2,7 +2,6 @@ This package is recommended for most users of current generation devices (legacy
 
 In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_ and the following Play Store applications:
 
-* Android Pay
 * Chrome Browser _(replaces stock/AOSP Browser)_
 * Cloud Print
 * Gmail _(replaces stock/AOSP Email)_
@@ -12,7 +11,6 @@ In this package you will find the core Google system base, off-line speech files
 * Google Desk Clock _(replaces stock/AOSP Desk Clock)_
 * Google Docs
 * Google Drive
-* Google Earth
 * Google Fitness
 * Google Keep
 * Google Keyboard _(replaces stock/AOSP Keyboard)_
@@ -35,6 +33,5 @@ In this package you will find the core Google system base, off-line speech files
 * Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_
 * Photos _(replaces stock/AOSP Gallery)_
 * Sound Search for Google Play
-* Street View
 * TalkBack
 * YouTube
