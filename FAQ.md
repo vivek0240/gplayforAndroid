@@ -116,8 +116,9 @@ Certainly! Simply install the Open GApps package directly from Recovery and wipe
 ####16. How come you don't include {MyFavoriteApp} in Open GApps?
 For an application to be included in Open GApps, it has to meet the following criteria:
  * It must be a Google App (GApps = Google Apps.)
- * To be included in the 'Stock' package it must be an application that comes by default Google Nexus devices.
- * It must be a globally used app (not language or country specific)
+ * To be included in the 'Stock' package it must be an application that comes by default on the current Google Nexus flagship device.
+ * To be included in the 'Stock' package it must be a globally used app (not language or country specific).
+ * To be included in the 'Super' package it must have appeared at least once pre-installed on an official Google device.
 
 ####17. I found a newer version of {MyFavoriteApp} on APKMirror.com. How come you didn't include it in the latest GApps?
 Just because an apk is uploaded to APKMirror or has an article written on Android Police, doesn't mean it will automatically be included in Open GApps. Only apps that can be verified that Google has intended for public release will be included. The primary method used to determine the latest version of an app is the Google Play Store date, which HAS ALWAYS listed the date of the most recent public release for the most current version of Android. So, if you find an updated apk on APKMirror and don't see it included in Open GApps, it's likely a leak or preview version. Of course, you're always free to sideload the leaks and previews on your own, should you desire.
