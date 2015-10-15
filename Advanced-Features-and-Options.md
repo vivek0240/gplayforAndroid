@@ -20,7 +20,7 @@ Configuring your installation
 ####Presets
 You can use Presets with any GApps package. This allows you to transform any GApps package into one of its 'little brothers' by adding one of the following keywords to your gapps-config. This will transform ALL INSTALLER BEHAVIOR (including default removals AND applications available for install) - effectively turning it into a new GApps package.
 Valid keyword options are:
-  * `StockGApps` - To downsize the following package to Full Modular GApps. [Super]
+  * `StockGApps` - To downsize the following package to Stock GApps. [Super]
   * `FullGApps` - To downsize the following package to Full Modular GApps. [Super/Stock]
   * `MiniGApps` - To downsize any of the following packages to Mini Modular GApps. [Super/Stock/Full]
   * `MicroGApps` - To downsize any of the following packages to Micro Modular GApps. [Super/Stock/Full/Mini]
