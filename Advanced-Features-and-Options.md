@@ -34,7 +34,7 @@ You can choose either the apps you WANT installed (called an Include Install) or
 Type the application keyword (name) you want to Exclude/Include inside your gapps-config file.
 Valid keyword options are:
 * `AndroidPay` - To Exclude/Include Android Pay [Super]
-* `AndroidForWOrk` - To Exclude/Include Android For Work [Super]
+* `AndroidForWork` - To Exclude/Include Android For Work [Super]
 * `Books` - To Exclude/Include Google Play Books [Super/Stock/Full]
 * `CalendarGoogle` - To Exclude/Include Google Calendar [Super/Stock/Full/Mini/Micro]
 * `CalSync` - To Exclude/Include Google Calendar Sync _(installed by default when Google Calendar is NOT being installed)_ [Super/Stock/Full/Mini/Micro/Nano/Pico]
