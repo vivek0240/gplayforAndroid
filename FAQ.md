@@ -25,7 +25,7 @@ As with most support forums, the more work you do up front and the more informat
 
 
 ####3. I'm getting a 'Status Error 6' when I try and install these GApps with CWM. What can I do to fix it?
-It likely means you're using CWM v6.0.4.7 Recovery, which is NOT compatible with Open GApps packages.
+It likely means you're using CWM v6.0.4.7 or CWM v6.0.4.5 Recovery, which is NOT compatible with Open GApps packages.
 
 The problem is due to CWM v6.0.4.7 overwriting the installation script, thereby making it impossible for the installer to do its work. Thankfully, CWM realized the error in doing this and fixed the issue in newer versions. This 'bug' is only found in CWM v6.0.4.7, so even an older version should work, although upgrading your Recovery would be preferable to downgrading.
 
