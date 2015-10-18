@@ -71,7 +71,7 @@ Valid keyword options are:
 * `Pinyin` - To Exclude/Include Google Pinyin Input [Super]
 * `Photos` - To Exclude/Include Photos [Super/Stock/Full/Mini]
 * `PlayGames` - To Exclude/Include Google Play Games [Super/Stock/Full]
-* `ProjectFI` - To Exclude/Include Project Fi by Google [Super]
+* `ProjectFi` - To Exclude/Include Project Fi by Google [Super]
 * `Sheets` - To Exclude/Include Google Sheets [Super/Stock/Full]
 * `Slides` - To Exclude/Include Google Slides [Super/Stock/Full]
 * `Search` - To Exclude BOTH Google Search AND Google Now Launcher [Super/Stock/Full/Mini/Micro/Nano]
