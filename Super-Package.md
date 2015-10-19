@@ -15,6 +15,7 @@ In this package you will find the core Google system base, off-line speech files
 * Google Drive
 * Google Earth
 * Google Fitness
+* Google Hindi Input
 * Google Japanese Input
 * Google Keep
 * Google Keyboard _(replaces stock/AOSP Keyboard)_
