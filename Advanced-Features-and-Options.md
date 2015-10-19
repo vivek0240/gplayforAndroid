@@ -58,6 +58,7 @@ Valid keyword options are:
 * `GooglePlus` - To Exclude/Include Google+ [Super/Stock/Full/Mini]
 * `GoogleTTS` - To Exclude/Include Google Text-to-Speech [Super/Stock/Full/Mini/Micro]
 * `Hangouts` - To Exclude/Include Hangouts [Super/Stock/Full/Mini]
+* `Hindi` - To Exclude/Include Google Hindi Input [Super]
 * `Japanese` - To Exclude/Include Google Japanese Input [Super]
 * `Keep` - To Exclude/Include Google Keep [Super/Stock/Full]
 * `KeyboardGoogle` - To Exclude/Include Google Keyboard [Super/Stock]
