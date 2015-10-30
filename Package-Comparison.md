@@ -19,13 +19,13 @@
 |Google Text-to-Speech    |``GoogleTTS``     |  O  |  O  |  X  |  X  |  X  |     |     |
 |Gmail                    |``Gmail``         |  O  |  O  |  X  |  X  |  X  |     |     |
 |Google Desk Clock¹       |``ClockGoogle``   |  O  |  O  |  O  |  O  |     |     |     |
-|Google+                  |``GooglePlus``    |  X  |  X  |  X  |  X  |     |     |     |
 |Hangouts                 |``Hangouts``      |  O  |  O  |  X  |  X  |     |     |     |
 |Google Maps              |``Maps``          |  X  |  X  |  X  |  X  |     |     |     |
 |Google Photos            |``Photos``        |  O  |  O  |  X  |  X  |     |     |     |
 |Google NFC Tags¹         |``TagGoogle``     |  O  |  O  |  O  |  O  |     |     |     |
 |YouTube                  |``YouTube``       |  X  |  X  |  X  |  X  |     |     |     |
 |Cloud Print              |``CloudPrint``    |  X  |  X  |  X  |     |     |     |     |
+|Google+                  |``GooglePlus``    |  X  |  X  |  X  |     |     |     |     |
 |Google Chrome            |``Chrome``        |  O  |  O  |  X  |     |     |     |     |
 |Google Docs              |``Docs``          |  X  |  X  |  X  |     |     |     |     |
 |Google Drive             |``Drive``         |  X  |  X  |  X  |     |     |     |     |
