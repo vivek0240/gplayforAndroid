@@ -8,9 +8,12 @@ In this package you will find the core Google system base, off-line speech files
 * Gmail _(replaces stock/AOSP Email)_
 * Google+
 * Google Apps Device Policy
+* Google Calculator _(replaces stock/AOSP Calculator)_
 * Google Calendar _(replaces stock/AOSP Calendar)_
 * Google Camera _(replaces stock/AOSP Camera)_
+* Google Contacts _(replaces stock/AOSP Contacts)_
 * Google Desk Clock _(replaces stock/AOSP Desk Clock)_
+* Google Dialer _(replaces stock/AOSP Dialer)_
 * Google Docs
 * Google Drive
 * Google Earth
