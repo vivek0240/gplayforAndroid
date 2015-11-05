@@ -7,6 +7,7 @@ In this package you will find the core Google system base, off-line speech files
 * Cloud Print
 * Gmail
 * Google+
+* Google Calculator _(replaces stock/AOSP Calculator)_
 * Google Calendar _(replaces stock/AOSP Calendar)_
 * Google Desk Clock _(replaces stock/AOSP Desk Clock)_
 * Google Docs
