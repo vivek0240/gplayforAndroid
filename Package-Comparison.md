@@ -1,6 +1,6 @@
 [[Details about the Aroma Package|Aroma Package]]
 
-|Application Name    |gapps-config<br>keyword|Super|Stock|Full |Mini |Micro|Nano |Pico |
+|Application Name    |gapps-config<br>keyword|[[Super|Super Package]]|[[Stock|Stock Package]]|[[Full|Full Package]]|[[Mini|Mini Package]]|[[Micro|Micro Package]]|[[Nano|Nano Package]]|[[Pico|Pico Package]]|
 |------------------------:|:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Google System Base       |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
@@ -18,6 +18,7 @@
 |Google Now Launcher²     |``GoogleNow``     |  O  |  O  |  X  |  X  |  X  |     |     |
 |Google Text-to-Speech    |``GoogleTTS``     |  O  |  O  |  X  |  X  |  X  |     |     |
 |Gmail                    |``Gmail``         |  O  |  O  |  X  |  X  |  X  |     |     |
+|Google Calculator¹       |``CalculatorGoogle``|  O  |  O  |  O  |  O  |     |     |     |
 |Google Desk Clock¹       |``ClockGoogle``   |  O  |  O  |  O  |  O  |     |     |     |
 |Hangouts                 |``Hangouts``      |  O  |  O  |  X  |  X  |     |     |     |
 |Google Maps              |``Maps``          |  X  |  X  |  X  |  X  |     |     |     |
@@ -42,13 +43,15 @@
 |Google Talkback          |``TalkBack``      |  X  |  X  |  X  |     |     |     |     |
 |Sound Search (for Play)  |``Ears``          |  X  |  X  |  X  |     |     |     |     |
 |Google Camera¹           |``CameraGoogle``  |  O  |  O  |     |     |     |     |     |
+|Google Contacts¹         |``ContactsGoogle``|  O  |  O  |     |     |     |     |     |
+|Google Dialer¹           |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
 |Messenger                |``Messenger``     |  O  |  O  |     |     |     |     |     |
 |Google Webview¹          |``WebviewGoogle`` |  O  |  O  |     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
 |Google Earth             |``Earth``         |  X  |     |     |     |     |     |     |
-|Google Indic Keyboard    |``Hindi``      |  X  |     |     |     |     |     |     | 
+|Google Indic Keyboard    |``Hindi``         |  X  |     |     |     |     |     |     | 
 |Google Japanese Input    |``Japanese``      |  X  |     |     |     |     |     |     |
 |Google Korean Input      |``Korean``        |  X  |     |     |     |     |     |     |
 |Google Pinyin Input      |``Pinyin``        |  X  |     |     |     |     |     |     |
