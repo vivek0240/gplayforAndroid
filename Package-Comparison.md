@@ -51,7 +51,7 @@
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
 |Google Earth             |``Earth``         |  X  |     |     |     |     |     |     |
-|Google Indic Keyboard    |``Hindi``         |  X  |     |     |     |     |     |     | 
+|Google Indic Keyboard    |``Indic``         |  X  |     |     |     |     |     |     | 
 |Google Japanese Input    |``Japanese``      |  X  |     |     |     |     |     |     |
 |Google Korean Input      |``Korean``        |  X  |     |     |     |     |     |     |
 |Google Pinyin Input      |``Pinyin``        |  X  |     |     |     |     |     |     |
