@@ -38,4 +38,4 @@ _http://opengapps.org/?download=true&arch=arm64&api=5.0&variant=aroma_
 
 ## Mirroring
 Please don't publicly mirror the prebuilt packages without explicit consent of @mfonville, to ensure that users will always be directed to the very latest version and the source code of the project.
-With our support for hotlinking outdated mirrors!
+With our support for hotlinking, there is no need for outdated mirrors!
