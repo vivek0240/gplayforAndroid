@@ -166,4 +166,4 @@ For example:
 
 * _"Protection from Stupidity"_ is built into the GApps Installer. To prevent you from accidentally leaving yourself with no keyboard, Launcher, or MMS app when you start your device, the installer WILL NOT ALLOW you to remove the Stock/AOSP Keyboard, Launcher, or MMS app if you are not also installing a Google version of these apps. You can, however, override this protection by adding the keyword `Override` to your gapps-config. Be very careful when using this option and make certain you have a replacement app already installed on your device before using this option.
 
-* Case, order, spaces, or using separate lines does not matter when using gapps-config.
+* Case, order, spaces, or using empty lines does not matter when using gapps-config.
