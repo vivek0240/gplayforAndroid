@@ -16,7 +16,7 @@
 |Google App (Search)      |``Search``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Google Calendar¹         |``CalendarGoogle``|  O  |  O  |  O  |  O  |  O  |     |     |
 |Google Now Launcher²     |``GoogleNow``     |  O  |  O  |  X  |  X  |  X  |     |     |
-|Google Text-to-Speech    |``GoogleTTS``     |  O  |  O  |  X  |  X  |  X  |     |     |
+|Google Text-to-Speech    |``GoogleTTS``     |  O  |  O  |  X  |  X  |  X  | 6.0 | 6.0 |
 |Gmail                    |``Gmail``         |  O  |  O  |  X  |  X  |  X  |     |     |
 |Google Calculator¹       |``CalculatorGoogle``|  O  |  O  |  O  |  O  |     |     |     |
 |Google Desk Clock¹       |``ClockGoogle``   |  O  |  O  |  O  |  O  |     |     |     |
@@ -65,3 +65,5 @@
 * X Installs application by default
 * O Replaces the Stock/AOSP version of the application by default
 * \+ Only installed if Google Calendar is NOT installed
+* 6.0 indicates that the application is also included in the Android 6.0 packages
+* Note that some applications are only available from certain higher Android versions
