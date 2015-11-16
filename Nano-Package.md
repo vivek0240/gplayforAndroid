@@ -2,3 +2,6 @@ This package is designed for users who want the smallest Google footprint possib
 
 * Google Play services
 * Google Search
+
+For 6.0 also:
+* Google Text-to-Speech
