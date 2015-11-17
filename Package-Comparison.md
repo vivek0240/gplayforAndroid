@@ -44,7 +44,7 @@
 |Sound Search (for Play)  |``Ears``          |  X  |  X  |  X  |     |     |     |     |
 |Google Camera¹           |``CameraGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Contacts¹         |``ContactsGoogle``|  O  |  O  |     |     |     |     |     |
-|Google Dialer¹           |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
+|~~Google Dialer¹~~           |~~``DialerGoogle``~~  |  ~~O~~  |  ~~O~~  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
 |Messenger                |``Messenger``     |  O  |  O  |     |     |     |     |     |
 |Google Webview¹          |``WebviewGoogle`` |  O  |  O  |     |     |     |     |     |
