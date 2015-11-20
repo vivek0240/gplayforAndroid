@@ -36,8 +36,18 @@ Also, since CWM is no longer being updated by its original developer (ClockWordM
 Error codes have been added to the installer since many users, apparently, don't know how to scroll back through the recovery window and read the actual error message that the installer provided. While there is also a detailed explanation of the error (along with a solution) provided in the log file (open_gapps_log.txt), Error Codes have been added as a final attempt to communicate the error with the user.
 
 Using the information below, you will find a current list of the Error Codes that that install may encounter - along with a recommended solution:
+ * `#10` - No XZ support: Your recovery does not support XZ decompression
+Solution: Please update your recovery to the latest version or switch to another one like TWRP
+ * `#11` - No TAR support:  Your recovery does not support TAR decompression
+Solution: Please update your recovery to the latest version or switch to another one like TWRP
+ * `#12` - No TAR stdin support: The TAR command in your recovery does not support stdin functionality
+Solution: Please update your recovery to the latest version or switch to another one like TWRP
  * `#20` - Incorrect (incompatible) ROM Version: ROM is not compatible with the Open GApps package
 Solution: Read your open_gapps_log.txt for details on the incompatibility
+ * `#25` - No build.prop or default.prop: ROM does miss this essential file
+Solution: Contact your ROM maintainer and ask to include this file
+ * `#30` - Your ROM uses transparent compression, but your recovery does not support this feature. This could result in corrupt files for anything you do in recovery
+Solution: Update your recovery before flashing ANY package in recovery to prevent data corruption
  * `#40` - NON-Open GApps Currently Installed: Your device has an incompatible GApps package currently installed
 Solution: Read FAQ #7 for an explanation and step by step instructions to fix
  * `#64` - Incompatible device architecture: Your device has been detected as having a different kind of architecture then the package used. Like _arm_ vs _arm64_ vs _x86_ etc. Install the correct Open GApps version for your device.
