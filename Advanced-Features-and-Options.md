@@ -153,8 +153,8 @@ For example to remove the Spare Parts app found in many ROMs, simply add `(Spare
 
 _**WARNING**: Because this feature gives you the ability to remove files that may be important to the proper function of your device, it is only recommended for very experienced users who know what they are doing._
 
-####Swype Libs
-The AOSP keyboard does normally not support gesture typing. This feature can be added on some ROMs by replacing the AOSP libs with Google's libs. Open GApps also supports these libs and they can optionally be installed using the `swypelibs` keyword in the gapps-config file. If a previous installation of these swypelibs are found on the device, then this option is automatically selected by the installer.
+####Keyboard Gesture Support
+The AOSP keyboard does normally not support gesture typing. This feature can be added on most ROMs by adding Google's  keyboard library files. Open GApps installs these libs if the stock AOSP keyboard is not being replaced by the Google Keyboard.
 ####Force DPI Setting
 Open GApps normally selects the correct the DPI-optimized app that suits your device, based on the information that is supplied by recovery and otherwise found in defeault.prop or build.prop. Sometimes one might want to override this DPI setting, e.g. for testing, in those situations the keyword `forcedpiXXX` can be used, where XXX is replaced with one of the valid default DPIs: 160, 240, 320, 480, 560 or 640.
 ####Force clean install Setting
