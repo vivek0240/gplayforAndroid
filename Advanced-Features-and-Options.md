@@ -38,10 +38,13 @@ Valid keyword options are:
 * `Books` - To Exclude/Include Google Play Books [Super/Stock/Full]
 * `CalendarGoogle` - To Exclude/Include Google Calendar [Super/Stock/Full/Mini/Micro]
 * `CalSync` - To Exclude/Include Google Calendar Sync _(installed by default when Google Calendar is NOT being installed)_ [Super/Stock/Full/Mini/Micro/Nano/Pico]
+* `CalculatorGoogle` - To Exclude/Include Google Calculator [Super/Stock/Full/Mini]
 * `CameraGoogle` - To Exclude/Include Google Camera [Super/Stock]
 * `Chrome` - To Exclude/Include Chrome Browser [Super/Stock/Full]
 * `ClockGoogle` - To Exclude/Include Google Desk Clock [Super/Stock/Full/Mini]
 * `CloudPrint` - To Exclude/Include Cloud Print [Super/Stock/Full]
+* `ContactsGoogle` - To Exclude/Include Google Dialer [Super/Stock]
+* ~~`DialerGoogle` - To Exclude/Include Google Dialer [Super/Stock]~~ 
 * `DMAgent` - To Exclude/Include Google Apps Device Policy [Super]
 * `Docs` - To Exclude/Include Google Docs [Super/Stock/Full]
 * `Drive` - To Exclude/Include Google Drive [Super/Stock/Full]
