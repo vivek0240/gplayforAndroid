@@ -43,7 +43,7 @@ Valid keyword options are:
 * `Chrome` - To Exclude/Include Chrome Browser [Super/Stock/Full]
 * `ClockGoogle` - To Exclude/Include Google Desk Clock [Super/Stock/Full/Mini]
 * `CloudPrint` - To Exclude/Include Cloud Print [Super/Stock/Full]
-* `ContactsGoogle` - To Exclude/Include Google Dialer [Super/Stock]
+* `ContactsGoogle` - To Exclude/Include Google Contacts [Super/Stock]
 * ~~`DialerGoogle` - To Exclude/Include Google Dialer [Super/Stock]~~ 
 * `DMAgent` - To Exclude/Include Google Apps Device Policy [Super]
 * `Docs` - To Exclude/Include Google Docs [Super/Stock/Full]
