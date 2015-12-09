@@ -2,3 +2,10 @@ The Aroma package is a special version of the regular [['Super'|Package-Comparis
 This package has a [dedicated thread at XDA](http://forum.xda-developers.com/android/general/open-gapps-aroma-installer-t3010798).
 
 Screenshots of each step of the installation process are located [here](https://imgur.com/a/c9Jir)
+
+# Issues
+AROMA has some known issue, which varies by device and recovery version.
+
+## OnePlus One (bacon)
+Known working TWRP versions: 2.8.4.0 
+Known broken TWRP versions: 2.8.7.0, 2.8.6.1
