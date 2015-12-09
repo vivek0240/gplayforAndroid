@@ -109,7 +109,7 @@ Valid keyword options are:
 * `ExchangeStock` - To remove the Stock/AOSP Exchange Services _(automatically removed when Google Exchange Services is installed)_
 * `FMRadio` - To remove the Stock FM Radio Application _(not found on all devices or ROMs)_
 * `Gallery` - To remove the Stock/AOSP/Moto Gallery Application
-* `Galaxy` - To remove the Stock Galaxy Wallpaper
+* `Galaxy` - To remove the Stock Galaxy (also known as BlackHole) Wallpaper
 * `HoloSpiral` - To remove the Stock Holo Spiral Wallpaper
 * `KeyboardStock` - To remove the Stock/AOSP Keyboard _(automatically removed when Google Keyboard is installed)_
 * `Launcher` - To remove the Stock/AOSP Launcher(s)
