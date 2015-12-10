@@ -1,7 +1,9 @@
-![OpenGapps](https://avatars1.githubusercontent.com/u/12238733?v=3&s=200)
-Welcome to the **opengapps** wiki!
+<div style="float: right">
+<img align="right" src="https://avatars.githubusercontent.com/u/12238733" alt="Open GApps" />
+</div>
+Welcome to the **Open GApps** wiki!
 
-### General Pages:
+### General
 
 * [Frequently asked question's (FAQ)](https://github.com/opengapps/opengapps/wiki/FAQ)
 * [Advanced Features and Options](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options)
@@ -9,7 +11,7 @@ Welcome to the **opengapps** wiki!
 
 ***
 
-### Package:
+### Package
 
 * [**Package Comparison**](https://github.com/opengapps/opengapps/wiki/Package-Comparison)
 * [Micro](https://github.com/opengapps/opengapps/wiki/Micro-Package)
@@ -23,7 +25,7 @@ Welcome to the **opengapps** wiki!
 
 ***
 
-### Android-Version
+### Notes for Android Versions
 
 * [Android 4.4](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-4.4)
 * [Android 5.0](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-5.0)
@@ -31,7 +33,7 @@ Welcome to the **opengapps** wiki!
 
 ***
 
-### Platform
+### Notes for Platforms
 
 * [x86](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-x86)
 
