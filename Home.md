@@ -14,14 +14,14 @@ Welcome to the **Open GApps** wiki!
 ### Package
 
 * [**Package Comparison**](https://github.com/opengapps/opengapps/wiki/Package-Comparison)
+* [Aroma](https://github.com/opengapps/opengapps/wiki/Aroma-Package)
+* [Pico](https://github.com/opengapps/opengapps/wiki/Pico-Package)
+* [Nano](https://github.com/opengapps/opengapps/wiki/Nano-Package)
 * [Micro](https://github.com/opengapps/opengapps/wiki/Micro-Package)
 * [Mini](https://github.com/opengapps/opengapps/wiki/Mini-Package)
-* [Nano](https://github.com/opengapps/opengapps/wiki/Nano-Package)
-* [Pico](https://github.com/opengapps/opengapps/wiki/Pico-Package)
+* [Full](https://github.com/opengapps/opengapps/wiki/Full-Package)
 * [Stock](https://github.com/opengapps/opengapps/wiki/Stock-Package)
 * [Super](https://github.com/opengapps/opengapps/wiki/Super-Package)
-* [Aroma](https://github.com/opengapps/opengapps/wiki/Aroma-Package)
-* [Full](https://github.com/opengapps/opengapps/wiki/Full-Package)
 
 ***
 
