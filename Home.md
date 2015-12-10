@@ -1,5 +1,5 @@
 <div style="float: right">
-<img align="right" src="https://avatars.githubusercontent.com/u/12238733" alt="Open GApps" />
+<img align="right" src="https://avatars.githubusercontent.com/u/12238733?s=400" alt="Open GApps" />
 </div>
 Welcome to the **Open GApps** wiki!
 
