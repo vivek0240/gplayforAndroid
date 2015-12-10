@@ -105,6 +105,7 @@ Valid keyword options are:
 * `CMSetupWizard` - To remove the Stock CM Setup Wizard Application
 * `CMWallpapers` - To remove the Stock CM Wallpapers
 * `DashClock` - To remove the Stock DashClock Application _(a widget found in certain ROMs)_
+* `DocumentsUI` - To remove the Documents Application
 * `Email` - To remove the Stock/AOSP Email Application _(automatically removed when Gmail is installed)_
 * `ExchangeStock` - To remove the Stock/AOSP Exchange Services _(automatically removed when Google Exchange Services is installed)_
 * `FMRadio` - To remove the Stock FM Radio Application _(not found on all devices or ROMs)_
