@@ -9,7 +9,7 @@ Welcome to the **opengapps** wiki!
 
 ***
 
-### Packages:
+### Package:
 
 * [**Package Comparison**](https://github.com/opengapps/opengapps/wiki/Package-Comparison)
 * [Micro](https://github.com/opengapps/opengapps/wiki/Micro-Package)
@@ -29,6 +29,15 @@ Welcome to the **opengapps** wiki!
 * [Android 5.0](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-5.0)
 * [Android 6.0](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-6.0)
 
-### Donation's
+***
+
+### Platform
+
+* [x86](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-x86)
+
+***
+
+
+### Donation
 
 * [Donate](https://github.com/opengapps/opengapps/wiki/Donate)
