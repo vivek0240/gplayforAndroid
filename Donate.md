@@ -6,4 +6,4 @@ Donations are **welcome** and help to keep this project alive.
 
 ### Methods:
 
-* [PayPal](https://www.paypal.com/nl/cgi-bin/webscr?cmd=_flow&SESSION=ZRCKHB9C-0QHVuWZcFyszhf_uvZWgqN5MpwutCiaMDqSe7bl0huwK9tJuOa&dispatch=5885d80a13c0db1f8e263663d3faee8d64ad11bbf4d2a5a1a0d303a50933f9b2)
+* [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=D3ZBN68EHH584&lc=US&item_name=The%20Open%20GApps%20Project&item_number=opengapps&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)
