@@ -28,3 +28,7 @@ Welcome to the **opengapps** wiki!
 * [Android 4.4](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-4.4)
 * [Android 5.0](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-5.0)
 * [Android 6.0](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-6.0)
+
+### Donation's
+
+* [Donate](https://github.com/opengapps/opengapps/wiki/Donate)
