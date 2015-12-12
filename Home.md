@@ -40,7 +40,7 @@ Welcome to the **Open GApps** wiki!
 ***
 
 
-### Help
+### Help Open GApps
 * [[Donate]]
 * [[Get Involved]]
 * Spread the word!
