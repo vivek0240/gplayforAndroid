@@ -11,7 +11,7 @@ Bugs, feature requests and wide array of issues are discussed in the [main threa
 Do you often get new APKs before they are included in Open GApps? Big chance that you have a device with a CPU, DPI and/or Android Version that no one on the Open GApps team has yet. You can help The Open GApps Project by becoming a team member and get those rare APKs to our repository as fast as possible! You can show your interest in the [XDA Forum](http://forum.xda-developers.com/android/software/Open-GApps-t3098071) and we will get back to you!
 
 ## Help documenting
-Most open source projects lack documentation, because developers often lack time to write it, when users also demand their time to fix bugs and add new features. For The Open GApps Project the same applies. Anyone is welcome to help and improve the documentation!
+Most open source projects lack documentation, because developers often lack time to write it, since users also demand bug fixes and new features. For The Open GApps Project the same applies. Anyone is welcome to help and improve the documentation!
 
 ## Write source code
 Probably the most difficult role of all, but it is very important that there are multiple developers busy with the source code. To improve the code quality, fix bugs faster and create more features. Also developers can often enhance each other's development process by sharing ideas and discussing design decisions. If you want to help, just start with writing code and give us a pull request for your favourite new feature or bug fix. We promise to respond and try to get your code mainlined if it meets the project's design goals and standards.
