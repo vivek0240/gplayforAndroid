@@ -5,41 +5,42 @@ Welcome to the **Open GApps** wiki!
 
 ### General
 
-* [Frequently asked question's (FAQ)](https://github.com/opengapps/opengapps/wiki/FAQ)
-* [Advanced Features and Options](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options)
-* [Hotlinking to OpenGApps.org](https://github.com/opengapps/opengapps/wiki/Hotlinking-to-OpenGApps.org)
+* [[Frequently asked question's (FAQ)|FAQ]]
+* [[Advanced Features and Options|Advanced Features and Options]]
+* [[Hotlinking to OpenGApps.org|Hotlinking to OpenGApps.org]]
 
 ***
 
 ### Package
 
-* [**Package Comparison**](https://github.com/opengapps/opengapps/wiki/Package-Comparison)
-* [Aroma](https://github.com/opengapps/opengapps/wiki/Aroma-Package)
-* [Pico](https://github.com/opengapps/opengapps/wiki/Pico-Package)
-* [Nano](https://github.com/opengapps/opengapps/wiki/Nano-Package)
-* [Micro](https://github.com/opengapps/opengapps/wiki/Micro-Package)
-* [Mini](https://github.com/opengapps/opengapps/wiki/Mini-Package)
-* [Full](https://github.com/opengapps/opengapps/wiki/Full-Package)
-* [Stock](https://github.com/opengapps/opengapps/wiki/Stock-Package)
-* [Super](https://github.com/opengapps/opengapps/wiki/Super-Package)
+* **[[Package Comparison|Package Comparison]]**
+* [[Aroma|Aroma Package]]
+* [[Pico|Pico Package]]
+* [[Nano|Nano Package]]
+* [[Micro|Micro Package]]
+* [[Mini|Mini Package]]
+* [[Full|Full Package]]
+* [[Stock|Stock Package]]
+* [[Super|Super Package]]
 
 ***
 
 ### Notes for Android Versions
 
-* [Android 4.4](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-4.4)
-* [Android 5.0](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-5.0)
-* [Android 6.0](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-6.0)
+* [[Android 4.4|Notes for Android 4.4]]
+* [[Android 5.0|Notes for Android 5.0]]
+* [[Android 6.0|Notes for Android 6.0]]
 
 ***
 
 ### Notes for Platforms
 
-* [x86](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-x86)
+* [[x86|Notes for Android x86]]
 
 ***
 
 
-### Donation
-
-* [Donate](https://github.com/opengapps/opengapps/wiki/Donate)
+### Help
+* [[Donate]]
+* [[Get Involved]]
+* Spread the word!
