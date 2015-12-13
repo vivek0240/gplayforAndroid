@@ -2,4 +2,6 @@ To install Open GApps on 6.0 your ROM needs the following patch to prevent Force
 
 This patch is included by default in Cyanogenmod sources, but not in AOSP.
 
+You need to flash Open GApps **directly** after flashing your ROM and **not** boot your device in between.
+
 For 6.0 the GoogleTTS is part of all the packages, because SetupWizard seems to demand this in some situations. If you use a [[gapps-config|Advanced-Features-and-Options#the-gapps-config-file]] file make sure to include it in your installation!
