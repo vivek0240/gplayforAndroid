@@ -46,7 +46,7 @@
 |Google Contacts¹         |``ContactsGoogle``|  O  |  O  |     |     |     |     |     |
 |~~Google Dialer¹~~           |~~``DialerGoogle``~~  |  ~~O~~  |  ~~O~~  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
-|Messenger                |``Messenger``     |  O  |  O  |     |     |     |     |     |
+|Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
 |Google Webview¹          |``WebviewGoogle`` |  O  |  O  |     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
