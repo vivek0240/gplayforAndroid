@@ -1,6 +1,6 @@
-The main purpose of this specific gapps-config for OnePlus X's OxygenOS is to remove the stock GApps and reinstall them using Open GApps packages (stock or higher) and also to offer you the chance to install only that GApps that you want.
+The main purpose of this specific gapps-config for OnePlus X's OxygenOS is to remove the stock GApps and reinstall them using Open GApps packages (stock or higher) and also to offer you the chance to install only those Google Apps that you want on your device.
 
-You personalize this gapps-config to meet your demands. To do so please read [Advanced Features and Options](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options).
+You can personalize this gapps-config to meet your demands. To do so please read [Advanced Features and Options](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options).
 
 This gapps-config is organized in 2 steps:
 
@@ -8,13 +8,13 @@ This gapps-config is organized in 2 steps:
 
 **\#2** - Install Open GApps (the exact same apps to replicate the stock installation)
 
-I highly suggest to don't remove any keywords from step #1. If you remove any of that, after installation may occur apk conflicts.
+I highly suggest to not remove any keywords from step #1. If you remove any of those, after the installation APK conflicts can occur.
 
-At step #2 you can remove the keywords corresponding to which GApps you don't want to install, or even add more keywords. The keywords tagged with _#Safe to remove_ are indeed safe to be removed(they are not essential apps). An example of essential app is Google Play Music app, it is essential because it is the only music player included as default in OxygenOS. Of course you can add, remove, replace any keyword to meet your demands .
+At step #2 you can remove the keywords corresponding to which Google Apps you don't want to be installed, or even add more keywords. The keywords tagged with _#Safe to remove_ are indeed safe to be removed (not essential apps). An example of an essential app is Google Play Music, because it is the only music player included as default in OxygenOS. Of course you can add, remove, replace any keyword to meet your demands.
 
 _gapps-config.txt_
 ```
-#ATENTION! This script is specific for OnePlus X's OxygenOS.
+#ATTENTION! This script is specific for OnePlus X's OxygenOS.
 #You are using this script on your own risk!
 #Requires Open GApps stock package or higher! Download it from here: http://opengapps.org/?arch=arm&api=5.1&variant=stock
 
@@ -97,12 +97,11 @@ YouTube
 
 **IMPORTANT**
 
-**!**This script **requires** at least the **stock package**! If you will use smaller packages you will have missing gapps!
+**!**This script **requires** at least the **stock package**! If you will use smaller packages you will miss some of the Google Apps!
 
-**!**Before flash you may want to backup your system partition in case that something goes wrong.
-I tested the config myself and it works as it should.
+**!**Before flashing you may want to backup your system partition in case something goes wrong.
 
-**!**This gapps-config was written specifically for OPX's OxygenOS to remove the stock gapps and reinstall them. On AOSP based ROMs you won't need this specific gapps-config!
+**!**This gapps-config was written specifically for OPX's OxygenOS to remove the stock gapps and reinstall them. On AOSP-based ROMs you won't need this specific gapps-config!
 
 **Download:**
 
