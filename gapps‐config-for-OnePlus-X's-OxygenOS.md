@@ -105,6 +105,6 @@ YouTube
 
 **Download:**
 
-[Open GApps arm 5.1 stock package](http://raulpetru.com/opx/gapps-config.txt)
+[Open GApps arm 5.1 stock package](http://opengapps.org/?arch=arm&api=5.1&variant=stock)
 
-[gapps-config.txt](https://www.androidfilehost.com/?fid=24269982087021492)
+[gapps-config.txt](http://raulpetru.com/opx/gapps-config.txt)
