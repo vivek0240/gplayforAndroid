@@ -131,12 +131,12 @@ Valid keyword options are:
 * `VisualizationWallpapers` - To remove the Stock Visualization Wallpapers
 * `WhisperPush`- To remove the Stock WhisperPush support
 <br><br>To prevent the default removal of the Stock/AOSP apps (listed below) when using the Open GApps stock package, type the keyword option preceded by a '+' as shown below:
-  * `+Browser` - To bypass the automatic removal of Stock/AOSP Browser [Stock ONLY]
-  * `+Email` - To bypass the automatic removal of Stock/AOSP Email Application [Stock ONLY]
-  * `+Gallery` - To bypass the automatic removal of Stock/AOSP/Moto Gallery Application [Stock ONLY]
-  * `+Launcher` - To bypass the automatic removal of Stock/AOSP Launcher(s) [Stock ONLY]
-  * `+MMS` - To bypass the automatic removal of Stock/AOSP SMS Application [Stock ONLY]
-  * `+PicoTTS` - To bypass the automatic removal of the Stock/AOSP PicoTTS app [Stock ONLY]
+  * `+Browser` - To bypass the automatic removal of Stock/AOSP Browser [Super/Stock]
+  * `+Email` - To bypass the automatic removal of Stock/AOSP Email Application [Super/Stock]
+  * `+Gallery` - To bypass the automatic removal of Stock/AOSP/Moto Gallery Application [Super/Stock]
+  * `+Launcher` - To bypass the automatic removal of Stock/AOSP Launcher(s) [Super/Stock]
+  * `+MMS` - To bypass the automatic removal of Stock/AOSP SMS Application [Super/Stock]
+  * `+PicoTTS` - To bypass the automatic removal of the Stock/AOSP PicoTTS app [Super/Stock]
 
 _**NOTE**: The installer will automatically NOT remove the Stock/AOSP application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera|Moto Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery|Moto Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, Google WebView|Stock WebView and Google Calendar|Stock Calendar._
 
