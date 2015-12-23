@@ -116,7 +116,7 @@ Valid keyword options are:
 * `Launcher` - To remove the Stock/AOSP Launcher(s)
 * `LiveWallpapers` - To remove the Stock Live Wallpapers
 * `LockClock` -  To remove the Stock Lock Clock Application
-* `MMS` - To remove the Stock/AOSP SMS Application
+* `MMS` - To remove the Stock/AOSP SMS Application _(automatically removed if Google Messenger and/or Hangouts is installed)_
 * `NoiseField` - To remove the Stock Noise Field Wallpaper
 * `Phasebeam` - To remove the Stock Phasebeam Wallpaper
 * `PhotoPhase` - To remove the Stock Photo Phase Wallpaper
