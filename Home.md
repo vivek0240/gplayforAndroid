@@ -5,7 +5,7 @@ Welcome to the **Open GApps** wiki!
 
 ### General
 
-* [[Frequently asked question's (FAQ)|FAQ]]
+* [[Frequently Asked Questions (FAQ)|FAQ]]
 * [[Advanced Features and Options|Advanced Features and Options]]
 * [[Hotlinking to OpenGApps.org|Hotlinking to OpenGApps.org]]
 
