@@ -126,7 +126,7 @@ Valid keyword options are:
 * `SykoPath` - To remove SykoPath OverlayManager _(found in certain ROMs)_
 * `TagStock` - To remove the Stock/AOSP NFC Tags Application _(automatically removed when Google NFC Tags is installed)_
 * `Terminal` - To remove the Stock Terminal Application
-* `Themes` - To remove the Stock Themes Application _(Will break the link in Settings to Themes)_
+* `Themes` - To remove the Stock Themes Application _(Will break the link in Settings to Themes and can cause unexpected reboots on some ROMs)_
 * `VisualizationWallpapers` - To remove the Stock Visualization Wallpapers
 * `WhisperPush`- To remove the Stock WhisperPush support
 <br><br>To prevent the default removal of the Stock/AOSP apps (listed below) when using the Open GApps stock package, type the keyword option preceded by a '+' as shown below:
