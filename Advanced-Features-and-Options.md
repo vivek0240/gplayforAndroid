@@ -101,6 +101,7 @@ Valid keyword options are:
 * `CMAudioFX` - To remove the Stock CM AudioFX Application
 * `CMEleven` - To remove the Stock CM Music Application
 * `CMFileManager` - To remove the Stock CM File Manager Application
+* `CMMusic` - To remove the Stock CM Music Application
 * `CMUpdater` - To remove the Stock CM Updater Application
 * `CMSetupWizard` - To remove the Stock CM Setup Wizard Application
 * `CMWallpapers` - To remove the Stock CM Wallpapers
