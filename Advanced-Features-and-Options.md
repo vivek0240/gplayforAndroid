@@ -141,7 +141,7 @@ Valid keyword options are:
 _**NOTE**: The installer will automatically NOT remove the Stock/AOSP application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera|Moto Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery|Moto Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, Google WebView|Stock WebView and Google Calendar|Stock Calendar._
 
 ####Universal Application Removals
-In addition to the Stock/AOSP Removals above, Universal Application Removals is available in the Open GApps installer. Universal Removals allow you to remove ANY system app on your device or ROM.
+In addition to the Stock/AOSP Removals above, Universal Application Removals is available in the Open GApps installer. Universal Removals allow you to remove ANY system app on your device or ROM, with the EXCEPTION of (core) apps that are part of Open GApps itself.
 To use this feature, enclose the name of the apk in parentheses inside your gapps-config file.
 See below for complete details:
 
