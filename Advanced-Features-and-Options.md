@@ -161,7 +161,7 @@ Open GApps normally selects the correct the DPI-optimized app that suits your de
 ####Skip Google's Swype Library Setting		
 Open GApps normally adds Google's swype gesture libraries to the Stock/AOSP keyboard. In some cases this behavior is unwanted (there are few reports that recent these can conflict with certain ROMs). In those situations use the `skipswypelibs` keyword to avoid the installation of these libraries.
 ####Force Clean Install Setting
-Open GApps normally detects if it's a clean install or an upgrade. This affects how installation of Google Camera is treated, it won't install those unless this is a clean install to avoid problems during upgrades. User might may add `forceclean` to ignore that detection. Note: this setting is untested widely and may cause problems.
+Open GApps normally detects if it's a clean install or an upgrade. This affects how installation of Google Camera is treated, it won't install those unless this is a clean install to avoid problems during upgrades. To ignore the detection and enforce clean install use `forceclean` keyword. Note: this setting is untested widely and may cause problems.
 ***
 Miscellaneous
 ---
