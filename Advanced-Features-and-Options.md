@@ -154,12 +154,10 @@ For example to remove the Spare Parts app found in many ROMs, simply add `(Spare
 
 _**WARNING**: Because this feature gives you the ability to remove files that may be important to the proper function of your device, it is only recommended for very experienced users who know what they are doing._
 
-####Keyboard Gesture Support
-The AOSP keyboard does normally not support gesture typing. This feature can be added on most ROMs by adding Google's  keyboard library files. Open GApps installs these libs if the stock AOSP keyboard is not being replaced by the Google Keyboard.
 ####Force DPI Setting
 Open GApps normally selects the correct the DPI-optimized app that suits your device, based on the information that is supplied by recovery and otherwise found in defeault.prop or build.prop. Sometimes one might want to override this DPI setting, e.g. for testing, in those situations the keyword `forcedpiXXX` can be used, where XXX is replaced with one of the [valid default DPIs](http://developer.android.com/reference/android/util/DisplayMetrics.html) including: 160, 240, 320, 480, 560 or 640.
 ####Skip Google's Swype Library Setting		
-Open GApps normally adds Google's swype gesture libraries to the Stock/AOSP keyboard. In some cases this behavior is unwanted (there are few reports that recent these can conflict with certain ROMs). In those situations use the `skipswypelibs` keyword to avoid the installation of these libraries.
+The Stock/AOSP keyboard does normally not support gesture typing. Open GApps normally adds Google's swype gesture libraries to the Stock/AOSP keyboard during installation. In some cases this behavior is unwanted (there are few reports that recent these can conflict with certain ROMs). In those situations use the `skipswypelibs` keyword to skip the install of these libraries (or remove them if previously installed).
 ####Force Clean Install Setting
 Open GApps normally detects if it's a clean install or an upgrade. This affects how installation of Google Camera is treated, it won't install those unless this is a clean install to avoid problems during upgrades. To ignore the detection and enforce clean install use `forceclean` keyword. Note: this setting is untested widely and may cause problems.
 ***
