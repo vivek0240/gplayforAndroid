@@ -5,6 +5,7 @@
 |Google System Base       |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  | \+  |  X  |  X  |
+|Google Package Installer |``PackageInstallerGoogle``|O|O|  O  |  O  |  O  |  O  |  O  |
 |Face Detection for Media |``FaceDetect``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Face Unlock              |``FaceUnlock``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
@@ -18,7 +19,7 @@
 |Google Now Launcher²     |``GoogleNow``     |  O  |  O  |  X  |  X  |  X  |     |     |
 |Google Text-to-Speech    |``GoogleTTS``     |  O  |  O  |  X  |  X  |  X  | 6.0 | 6.0 |
 |Gmail                    |``Gmail``         |  O  |  O  |  X  |  X  |  X  |     |     |
-|Google Calculator¹       |``CalculatorGoogle``|  O  |  O  |  O  |  O  |     |     |     |
+|Google Calculator¹       |``CalculatorGoogle``|O  |  O  |  O  |  O  |     |     |     |
 |Google Desk Clock¹       |``ClockGoogle``   |  O  |  O  |  O  |  O  |     |     |     |
 |Hangouts                 |``Hangouts``      |  O  |  O  |  X  |  X  |     |     |     |
 |Google Maps              |``Maps``          |  X  |  X  |  X  |  X  |     |     |     |
