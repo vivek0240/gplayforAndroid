@@ -72,6 +72,7 @@ Valid keyword options are:
 * `Music` - To Exclude/Include Google Play Music [Super/Stock/Full]
 * `NewsStand` - To Exclude/Include Google Play Newsstand [Super/Stock/Full]
 * `NewsWidget` - To Exclude/Include Google News & Weather [Super/Stock/Full]
+* `PackageInstallerGoogle` - To Exclude/Include Google Package Installer [Super/Stock/Full/Mini/Micro/Nano/Pico]
 * `Pinyin` - To Exclude/Include Google Pinyin Input [Super]
 * `Photos` - To Exclude/Include Photos [Super/Stock/Full/Mini]
 * `PlayGames` - To Exclude/Include Google Play Games [Super/Stock/Full]
