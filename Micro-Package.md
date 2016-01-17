@@ -3,6 +3,7 @@ In this package you will find the core Google system base, off-line speech files
 
 * Google Calendar _(replaces stock/AOSP Calendar)_
 * Google Now Launcher
+* Google Package Installer
 * Google Play services
 * Google Search
 * Google Text-to-Speech
