@@ -20,6 +20,7 @@ In this package you will find the core Google system base, off-line speech files
 * Google News & Weather
 * Google NFC Tags _(replaces stock/AOSP NFC Tags)_
 * Google Now Launcher _(replaces stock/AOSP Launcher)_
+* Google Package Installer
 * Google Play Books
 * Google Play Games
 * Google Play Movies & TV
