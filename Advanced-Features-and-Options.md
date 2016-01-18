@@ -100,7 +100,6 @@ Valid keyword options are:
 * `ClockStock` - To remove the Stock/AOSP Desk Clock Application _(automatically removed when Google Desk Clock is installed)_
 * `CMAccount` - TO remove the Stock CM Account Application
 * `CMAudioFX` - To remove the Stock CM AudioFX Application
-* `CMEleven` - To remove the Stock CM Music Application
 * `CMFileManager` - To remove the Stock CM File Manager Application
 * `CMMusic` - To remove the Stock CM Music Application
 * `CMUpdater` - To remove the Stock CM Updater Application
