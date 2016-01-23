@@ -1,4 +1,4 @@
-This package is for those who want to have all Google Applications. It includes includes all Google Apps that were ever shipped on a Google device. 
+This package is for those who want to have all Google Applications. It includes all Google Apps that were ever shipped on a Google device. 
 
 In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Android For Work, Google Connectivity Services, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_ and the following Play Store applications:
 
