@@ -96,7 +96,7 @@ Valid keyword options are:
 * `BasicDreams`- To remove the Stock Basic Dreams Wallpaper
 * `Browser` - To remove the Stock/AOSP Browser
 * `CalendarStock` - To remove the Stock/AOSP Calendar Application _(automatically removed when Google Calendar is installed)_
-* `CameraStock` - To remove the Stock/AOSP/CM(Snap)/Moto Camera Application _(automatically removed when Google Camera is installed)_
+* `CameraStock` - To remove the Stock/AOSP/CM(Snap)/Moto Camera Application
 * `ClockStock` - To remove the Stock/AOSP Desk Clock Application _(automatically removed when Google Desk Clock is installed)_
 * `CMAccount` - TO remove the Stock CM Account Application
 * `CMAudioFX` - To remove the Stock CM AudioFX Application
@@ -132,6 +132,7 @@ Valid keyword options are:
 * `WhisperPush`- To remove the Stock WhisperPush support
 <br><br>To prevent the default removal of the Stock/AOSP apps (listed below) when using the Open GApps stock package, type the keyword option preceded by a '+' as shown below:
   * `+Browser` - To bypass the automatic removal of Stock/AOSP Browser [Super/Stock]
+  * `+CameraStock` - To bypass the automatic removal of Stock/AOSP/(Snap)CM/Moto Camera [Super/Stock]
   * `+Email` - To bypass the automatic removal of Stock/AOSP Email Application [Super/Stock]
   * `+Gallery` - To bypass the automatic removal of Stock/AOSP/Moto Gallery Application [Super/Stock]
   * `+Launcher` - To bypass the automatic removal of Stock/AOSP Launcher(s) [Super/Stock]
