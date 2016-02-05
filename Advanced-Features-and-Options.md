@@ -37,7 +37,7 @@ Valid keyword options are:
 * `AndroidForWork` - To Exclude/Include Android For Work [Super]
 * `Books` - To Exclude/Include Google Play Books [Super/Stock/Full]
 * `CalendarGoogle` - To Exclude/Include Google Calendar [Super/Stock/Full/Mini/Micro]
-* `CalSync` - To Exclude/Include Google Calendar Sync _(installed by default when Google Calendar is NOT being installed)_ [Super/Stock/Full/Mini/Micro/Nano/Pico]
+* `CalSync` - To Exclude/Include Google Calendar Sync _(installed ONLY when Google Calendar is NOT being installed)_ [Super/Stock/Full/Mini/Micro/Nano/Pico]
 * `CalculatorGoogle` - To Exclude/Include Google Calculator [Super/Stock/Full/Mini]
 * `CameraGoogle` - To Exclude/Include Google Camera [Super/Stock]
 * `Chrome` - To Exclude/Include Chrome Browser [Super/Stock/Full]
