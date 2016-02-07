@@ -128,7 +128,7 @@ Valid keyword options are:
 * `PhotoPhase` - To remove the Photo Phase Wallpaper
 * `PhotoTable` - To remove the Photo Table Wallpaper
 * `PicoTTS` - To remove the Stock PicoTTS
-* `Provision` - To remove the Provision application (that *can* conflict with SetupWizard)
+* `Provision` - To remove the Provision application (that *can* conflict with SetupWizard) _(automatically selected on pre-Marshmallow installations)_
 * `SimToolKit` - To remove the Stock SimToolKit
 * `Studio` - To remove the Stock Movie Studio
 * `SykoPath` - To remove SykoPath Layers Manager _(found in certain ROMs)_
