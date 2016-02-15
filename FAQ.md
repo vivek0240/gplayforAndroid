@@ -39,7 +39,7 @@ Error codes have been added to the installer since many users, apparently, don't
 
 Using the information below, you will find a current list of the Error Codes that that install may encounter - along with a recommended solution:
  * `#10` - Failed to set-up busybox: Your recovery does not support setting up a busybox-environment for our installer
-   * Solution: Please update your recovery to the latest version or switch to another one like TWRP _(recommended)_
+   * Solution: Please update your recovery to the latest version or switch to another one like [TWRP](https://twrp.me/) _(recommended)_
    * Hint: If you are already using the latest version of your recovery but it still doesn't work, you should contact the developers of your recovery  about this issue. _(e.g. here for [CM Recovery](https://jira.cyanogenmod.org) or [TWRP](https://github.com/TeamWin/Team-Win-Recovery-Project/issues))_
  * `#20` - Incorrect (incompatible) ROM Version: ROM is not compatible with the Open GApps package
    * Solution: Read your open_gapps_log.txt for details on the incompatibility
