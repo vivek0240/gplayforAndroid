@@ -38,24 +38,21 @@ Also, since CWM is no longer being updated by its original developer (ClockWordM
 Error codes have been added to the installer since many users, apparently, don't know how to scroll back through the recovery window and read the actual error message that the installer provided. While there is also a detailed explanation of the error (along with a solution) provided in the log file (open_gapps_log.txt), Error Codes have been added as a final attempt to communicate the error with the user.
 
 Using the information below, you will find a current list of the Error Codes that that install may encounter - along with a recommended solution:
- * `#10` - No XZ support: Your recovery does not support XZ decompression
-Solution: Please update your recovery to the latest version or switch to another one like TWRP
- * `#11` - No TAR support:  Your recovery does not support TAR decompression
-Solution: Please update your recovery to the latest version or switch to another one like TWRP
- * `#12` - No TAR stdin support: The TAR command in your recovery does not support stdin functionality
-Solution: Please update your recovery to the latest version or switch to another one like TWRP
+ * `#10` - Failed to set-up busybox: Your recovery does not support setting up a busybox-environment for our installer
+   * Solution: Please update your recovery to the latest version or switch to another one like TWRP _(recommended)_
+   * Hint: If you are already using the latest version of your recovery but it still doesn't work, you should contact the developers of your recovery  about this issue. _(e.g. here for [CM Recovery](https://jira.cyanogenmod.org) or [TWRP](https://github.com/TeamWin/Team-Win-Recovery-Project/issues))_
  * `#20` - Incorrect (incompatible) ROM Version: ROM is not compatible with the Open GApps package
-Solution: Read your open_gapps_log.txt for details on the incompatibility
+   * Solution: Read your open_gapps_log.txt for details on the incompatibility
  * `#25` - No build.prop or default.prop: ROM does miss this essential file
-Solution: Contact your ROM maintainer and ask to include this file
+   * Solution: Contact your ROM maintainer and ask to include this file
  * `#30` - Your ROM uses transparent compression, but your recovery does not support this feature. This could result in corrupt files for anything you do in recovery
-Solution: Update your recovery before flashing ANY package in recovery to prevent data corruption
+   * Solution: Update your recovery before flashing ANY package in recovery to prevent data corruption
  * `#40` - NON-Open GApps Currently Installed: Your device has an incompatible GApps package currently installed
-Solution: Read FAQ #7 for an explanation and step by step instructions to fix
+   * Solution: Read FAQ #7 for an explanation and step by step instructions to fix
  * `#64` - Incompatible device architecture: Your device has been detected as having a different kind of architecture then the package used. Like _arm_ vs _arm64_ vs _x86_ etc. Install the correct Open GApps version for your device.
-Solution: Use a compatible version of the Open GApps package for your device's architecture.
+   * Solution: Use a compatible version of the Open GApps package for your device's architecture.
  * `#70` - Insufficient Space Available in System Partition: Your device does not have sufficient space available in the system partition to install the Open GApps package
-Solution: Read FAQ #6 for a detailed explanation and alternative options
+   * Solution: Read FAQ #6 for a detailed explanation and alternative options
 
 ####5. I read that 'Google Camera can only be installed during a Clean Install or as an update to an existing Open GApps Installation.' What does this mean?
 Experience has shown us that users who install this application FOR THE FIRST TIME during a 'Clean install' GApps installation almost never have issues or problems with these apps. However, there have been several reports of users experiencing FCs or other strange behavior when they have tried to install these apps later (with GApps), after their device has been set up.
