@@ -95,8 +95,10 @@ To manage the removal of certain Stock applications type the application keyword
 
 _**Stock**_ below means apps from AOSP or built-in to the device. Some manufacturers use different names so we have to add support for them:
 * BLU
-* Motorola
 * CyanogenMod
+* MoKee (Nox launcher)
+* Motorola
+* Lenovo (packageinstaller)
 
 Valid keyword options are:
 * `BasicDreams`- To remove the Basic Dreams Wallpaper
