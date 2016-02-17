@@ -43,7 +43,7 @@ Using the information below, you will find a current list of the Error Codes tha
    * Hint: If you are already using the latest version of your recovery but it still doesn't work, you should contact the developers of your recovery  about this issue. _(e.g. here for [CM Recovery](https://jira.cyanogenmod.org) or [TWRP](https://github.com/TeamWin/Team-Win-Recovery-Project/issues))_
  * `#20` - Incorrect (incompatible) ROM Version: ROM is not compatible with the Open GApps package
    * Solution: Read your open_gapps_log.txt for details on the incompatibility
- * `#25` - No build.prop or default.prop: ROM does miss this essential file
+ * `#25` - No build.prop or equivalent: ROM misses this essential file and/or any of the fallback .prop files
    * Solution: Contact your ROM maintainer and ask to include this file
  * `#30` - Your ROM uses transparent compression, but your recovery does not support this feature. This could result in corrupt files for anything you do in recovery
    * Solution: Update your recovery before flashing ANY package in recovery to prevent data corruption
