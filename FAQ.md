@@ -23,7 +23,7 @@ At a MINIMUM you will need to post your open_gapps_log.txt attached in the [XDA 
 
 As with most support forums, the more work you do up front and the more information you provide, the better the feedback you're likely to receive. If you're not willing to put any effort on your end, you'll likely receive nothing from the forum, either.
 
-Directly opening an issue on the Open GApps GitHub page without consulting the XDA Forum first is **NOT** appreciated for bugs in the Open GApps package and tends to only slow project development instead of helping it. If you experience a bug with a package please first post the the [XDA Forum](http://forum.xda-developers.com/android/software/Open-GApps-t3098071) for further investigation and feedback.
+Directly opening an issue on the Open GApps GitHub page without consulting the XDA Forum first is **NOT** appreciated for bugs in the pre-built OpenGApps.org package and tends to only slow project development instead of helping it. If you experience a bug with a package please first post the the [XDA Forum](http://forum.xda-developers.com/android/software/Open-GApps-t3098071) for further investigation and feedback.
 
 
 ####3. I'm getting a 'Status Error 6' when I try and install these GApps with CWM. What can I do to fix it?
