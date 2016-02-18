@@ -43,6 +43,7 @@ In this package you will find the core Google system base, off-line speech files
 * Google WebView _(replaces stock/AOSP WebView)_
 * Google Zhuyin Input
 * Hangouts _(replaces stock/AOSP SMS App)_
+* Hotword
 * Maps
 * Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_
 * Photos _(replaces stock/AOSP Gallery)_
