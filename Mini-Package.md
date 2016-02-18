@@ -12,6 +12,7 @@ In this package you will find the core Google system base, off-line speech files
 * Google Text-to-Speech
 * Gmail
 * Hangouts
+* Hotword
 * Maps
 * Photos
 * YouTube
