@@ -6,3 +6,4 @@ This package is designed for users who want the smallest Google footprint possib
 
 For 6.0 also:
 * Google Text-to-Speech
+* Hotword
