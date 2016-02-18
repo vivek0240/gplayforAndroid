@@ -9,6 +9,7 @@
 |Face Detection for Media |``FaceDetect``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Face Unlock              |``FaceUnlock``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
+|OK Google Hotword Enrollment|``Hotword``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Google Exchange Services¹|``ExchangeGoogle``|  O  |  O  |  O  |  O  |  O  |     |     |
 |Android For Work         |``AndroidForWork``|  X  |     |     |     |     |     |     |
 |Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
