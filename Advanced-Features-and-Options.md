@@ -81,7 +81,7 @@ Valid keyword options are:
 * `Sheets` - To Exclude/Include Google Sheets [Super/Stock/Full]
 * `Slides` - To Exclude/Include Google Slides [Super/Stock/Full]
 * `Search` - To Exclude BOTH Google Search AND Google Now Launcher [Super/Stock/Full/Mini/Micro/Nano]
-**OR** To Include Google Search [Super/Stock/Full/Mini/Micro/Nano]
+**OR** To Include Google Search AND OK Google Hotword Enrollment [Super/Stock/Full/Mini/Micro/Nano]
 * `Speech` - To Exclude/Include off-line Speech files _(For Voice Dictation Offline)_ [Super/Stock/Full/Mini/Micro/Nano]
 * `Street` - To Exclude/Include Google Street View [Super]
 * `TagGoogle` - To Exclude/Include Google NFC Tags [Super/Stock/Full/Mini]
