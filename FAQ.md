@@ -15,7 +15,7 @@ There are 2 things you can do that are almost always guaranteed to fix these typ
  5. Wipe the Dalvik & cache
  6. Reboot
 
-NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a nandroid backup prior in case you want to restore later.
+NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a [NANDroid backup](http://forum.xda-developers.com/wiki/NANDroid) prior in case you want to restore later.
 
 
 ####2. I'm having a problem with my Open GApps install. What information do you need to help me?
