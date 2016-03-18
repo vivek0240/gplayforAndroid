@@ -68,4 +68,4 @@
 * O Replaces the Stock/AOSP version of the application by default
 * \+ Only installed if Google Calendar is NOT installed
 * 6.0 indicates that the application is also included in the Android 6.0 packages
-* Note that some applications are only available from certain higher Android versions
+* Note that some applications are only available on higher Android versions or compatible hardware
