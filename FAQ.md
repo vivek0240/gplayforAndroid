@@ -19,11 +19,11 @@ NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method.
 
 
 ####2. I'm having a problem with my Open GApps install. What information do you need to help me?
-At a MINIMUM you will need to post your open_gapps_log.txt attached in the [XDA Q&A Forum](http://forum.xda-developers.com/showthread.php?t=3124506), where the community can try to answer your questions and help you resolve any problem. However, the best method to receive support would be to post your debug logs (open_gapps_debug_logs.tar.gz), using the same method. You will find both of these logs in the same folder as the Open GApps zip file, after the installer has completed.
+At a MINIMUM you will need to post your open_gapps_log.txt attached in the [XDA Q&A Forum](http://forum.xda-developers.com/showthread.php?t=3124506) or in our [Gitter channel](https://gitter.im/opengapps/general), where the community can try to answer your questions and help you resolve any problem. However, the best method to receive support would be to post your debug logs (open_gapps_debug_logs.tar.gz), using the same method. You will find both of these logs in the same folder as the Open GApps zip file, after the installer has completed.
 
 As with most support forums, the more work you do up front and the more information you provide, the better the feedback you're likely to receive. If you're not willing to put any effort on your end, you'll likely receive nothing from the forum, either.
 
-Directly opening an issue on the Open GApps GitHub page without consulting the XDA Forum first is **NOT** appreciated for bugs in the pre-built OpenGApps.org package and tends to only slow project development instead of helping it. If you experience a bug with a package please first post the the [XDA Forum](http://forum.xda-developers.com/android/software/Open-GApps-t3098071) for further investigation and feedback.
+Directly opening an issue on the Open GApps GitHub page without consulting the XDA Forum first is **NOT** appreciated for bugs in the pre-built OpenGApps.org package and tends to only slow project development instead of helping it. If you experience a bug with a package please first post the the [XDA Forum](http://forum.xda-developers.com/android/software/Open-GApps-t3098071) or on [Gitter](https://gitter.im/opengapps/general) for further investigation and feedback.
 
 
 ####3. I'm getting a 'Status Error 6' when I try and install these GApps with CWM. What can I do to fix it?
