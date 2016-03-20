@@ -112,7 +112,7 @@ Valid keyword options are:
 * `CMFileManager` - To remove CM File Manager
 * `CMMusic` - To remove CM Music
 * `CMUpdater` - To remove CM Updater
-* `CMSetupWizard` - To remove the CM Setup Wizard
+* `CMSetupWizard` - To remove the CM Setup Wizard (that *can* conflict with SetupWizard) _(automatically selected on Marshmallow+ installations)_
 * `CMWallpapers` - To remove the CM Wallpapers
 * `DashClock` - To remove DashClock Widget _(found in certain ROMs)_
 * `Email` - To remove the Stock Email Client _(automatically removed when Gmail is installed)_
