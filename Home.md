@@ -35,6 +35,7 @@ Welcome to the **Open GApps** wiki!
 
 ### Notes for Platforms
 
+* [[arm|Notes for Android arm]]
 * [[x86|Notes for Android x86]]
 
 ***
