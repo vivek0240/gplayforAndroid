@@ -107,7 +107,7 @@ Valid keyword options are:
 * `CalendarStock` - To remove the Stock Calendar _(automatically removed when Google Calendar is installed)_
 * `CameraStock` - To remove the Stock Camera
 * `ClockStock` - To remove the Stock Desk Clock _(automatically removed when Google Desk Clock is installed)_
-* `CMAccount` - TO remove the CM Account Application
+* `CMAccount` - To remove the CM Account Application
 * `CMAudioFX` - To remove CM AudioFX
 * `CMFileManager` - To remove CM File Manager
 * `CMMusic` - To remove CM Music
