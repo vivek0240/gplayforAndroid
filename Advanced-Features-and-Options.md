@@ -44,7 +44,7 @@ Valid keyword options are:
 * `ClockGoogle` - To Exclude/Include Google Desk Clock [Super/Stock/Full/Mini]
 * `CloudPrint` - To Exclude/Include Cloud Print [Super/Stock/Full]
 * `ContactsGoogle` - To Exclude/Include Google Contacts [Super/Stock]
-* ~~`DialerGoogle` - To Exclude/Include Google Dialer [Super/Stock]~~ 
+* `DialerGoogle` - ~~To Exclude/Include Google Dialer~~ TEMPORARILY ONLY TO INCLUDE; NOT SELECTED BY DEFAULT [Super/Stock]
 * `DMAgent` - To Exclude/Include Google Apps Device Policy [Super]
 * `Docs` - To Exclude/Include Google Docs [Super/Stock/Full]
 * `Drive` - To Exclude/Include Google Drive [Super/Stock/Full]
