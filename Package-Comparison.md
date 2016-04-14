@@ -1,4 +1,4 @@
-[[Details about the Aroma Package|Aroma Package]]
+Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]]
 
 |Application Name    |gapps-config<br>keyword|[[Super|Super Package]]|[[Stock|Stock Package]]|[[Full|Full Package]]|[[Mini|Mini Package]]|[[Micro|Micro Package]]|[[Nano|Nano Package]]|[[Pico|Pico Package]]|
 |------------------------:|:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
