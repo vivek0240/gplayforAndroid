@@ -11,8 +11,8 @@ Welcome to the **Open GApps** wiki!
 
 ***
 
-### Package
-
+### Variants
+##### Regular _(for Phone & Tablet)_
 * **[[Package Comparison|Package Comparison]]**
 * [[Aroma|Aroma Package]]
 * [[Pico|Pico Package]]
@@ -22,6 +22,9 @@ Welcome to the **Open GApps** wiki!
 * [[Full|Full Package]]
 * [[Stock|Stock Package]]
 * [[Super|Super Package]]
+
+##### TV _(for Android TV)_
+* [[TVStock|TVStock Package]]
 
 ***
 
