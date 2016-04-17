@@ -8,4 +8,4 @@ This package is designed for users who want the smallest Google footprint possib
 For 6.0 also:
 * Google Text-to-Speech
 
-Note: Non-bold apps are also in smaller packages.
+Note: Bold apps mark the difference to smaller packages.
