@@ -8,15 +8,15 @@ In this package you will find the core Google system base, off-line speech files
 * Google+
 * Google Calculator _(replaces stock/AOSP Calculator)_
 * Google Calendar _(replaces stock/AOSP Calendar)_
-* Google Camera _(replaces stock/AOSP Camera)_
-* Google Contacts _(replaces stock/AOSP Contacts)_
+* **Google Camera _(replaces stock/AOSP Camera)_**
+* **Google Contacts _(replaces stock/AOSP Contacts)_**
 * Google Desk Clock _(replaces stock/AOSP Desk Clock)_
 * Google Dialer _(replaces stock/AOSP Dialer)_
 * Google Docs
 * Google Drive
 * Google Fitness
 * Google Keep
-* Google Keyboard _(replaces stock/AOSP Keyboard)_
+* **Google Keyboard _(replaces stock/AOSP Keyboard)_**
 * Google News & Weather
 * Google NFC Tags _(replaces stock/AOSP NFC Tags)_
 * Google Now Launcher _(replaces stock/AOSP Launcher)_
@@ -31,12 +31,14 @@ In this package you will find the core Google system base, off-line speech files
 * Google Sheets
 * Google Slides
 * Google Text-to-Speech _(replaces stock/AOSP Pico TTS)_
-* Google WebView _(replaces stock/AOSP WebView)_
+* **Google WebView _(replaces stock/AOSP WebView)_**
 * Hangouts _(replaces stock/AOSP SMS App)_
 * Hotword
 * Maps
-* Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_
+* **Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_**
 * Photos _(replaces stock/AOSP Gallery)_
 * Sound Search for Google Play
 * TalkBack
 * YouTube
+
+Note: Bold apps mark the difference to smaller packages.
