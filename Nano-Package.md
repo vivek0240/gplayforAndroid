@@ -2,8 +2,10 @@ This package is designed for users who want the smallest Google footprint possib
 
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play services
-* Google Search
-* Hotword
+* **Google Search**
+* **Hotword**
 
 For 6.0 also:
 * Google Text-to-Speech
+
+Note: Non-bold apps are also in smaller packages.
