@@ -38,4 +38,6 @@ _http://opengapps.org/?download=true&arch=arm64&api=5.0&variant=aroma_
 
 # Mirroring
 Please don't publicly mirror the prebuilt packages without explicit consent of @mfonville, to ensure that users will always be directed to the very latest version and the source code of the project.
-With our support for hotlinking, there is no need for outdated mirrors!
+For more information see our [blog article about the no-mirror policy](http://opengapps.org/blog/post/2016/03/18/the-no-mirror-policy/)
+
+With hotlinking support provided by [OpenGApps.org](http://opengapps.org), there is no need for outdated mirrors!
