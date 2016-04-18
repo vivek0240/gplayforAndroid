@@ -73,7 +73,7 @@ NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method.
 Google Dialer is not compatible with most devices, only Nexus and Android One devices tend to work with it. That is why Open GApps has a whitelist of compatible devices. If your device is not n the whitelist, it will not be installed by default. You can override this behavior using the [`ForceDialer`-keyword](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options#force-dialer) but it is not supported by the developers.
 
 ####7. My device reboots when I receive or make a phone call. Why?
-If your device has Google Dialer installed, it requires to be set as the default *Phone* application. If not set, it will reboot your device. Go to 'Settings -> Apps -> "Gear Icon" upper right -> Default Apps -> Phone App' to set Google Dialer as your default.
+If your device has Google Dialer installed, it requires to be set as the default *Phone* application. If not set, it will reboot your device. Go to ['Settings -> Apps -> "Gear Icon" upper right -> Default Apps -> Phone App'](https://www.youtube.com/watch?v=ltR99A9CTBs) to set Google Dialer as your default.
 
 ####8. Open GApps install failed with the message 'Insufficient storage space available in System partition'. My device has 16GB (or more) of storage available. How can this be?
 
