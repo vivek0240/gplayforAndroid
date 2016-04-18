@@ -1,4 +1,4 @@
-This package is designed for users who want the smallest Google footprint possible while still enjoying native "Okay Google" and Google Search support. In this package you will find the core Google system base, off-line speech files, Google Play Store, Face Detection for Media, Face Unlock, and the following Play Store applications:
+This package is designed for users who want the smallest Google footprint possible while still enjoying native "Okay Google" and Google Search support. In this package you will find the core Google system base, off-line speech files, Google Play Store, Face Detection for Media, Face Unlock, Dialer Framework and the following Play Store applications:
 
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play services
