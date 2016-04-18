@@ -44,7 +44,8 @@ Valid keyword options are:
 * `ClockGoogle` - To Exclude/Include Google Desk Clock [Super/Stock/Full/Mini]
 * `CloudPrint` - To Exclude/Include Cloud Print [Super/Stock/Full]
 * `ContactsGoogle` - To Exclude/Include Google Contacts [Super/Stock]
-* `DialerGoogle` - ~~To Exclude/Include Google Dialer~~ TEMPORARILY ONLY TO INCLUDE; NOT SELECTED BY DEFAULT [Super/Stock]
+* `DialerFramework` - To Exclude/Include Dialer Framework [Super/Stock/Full/Mini/Micro/Nano/Pico]
+* `DialerGoogle` - To Exclude/Include Google Dialer [Super/Stock]
 * `DMAgent` - To Exclude/Include Google Apps Device Policy [Super]
 * `Docs` - To Exclude/Include Google Docs [Super/Stock/Full]
 * `Drive` - To Exclude/Include Google Drive [Super/Stock/Full]
@@ -59,7 +60,7 @@ Valid keyword options are:
 * `Gmail` - To Exclude/Include Gmail [Super/Stock/Full/Mini/Micro]
 * `GoogleNow` - To Exclude/Include Google Now Launcher [Super/Stock/Full/Mini/Micro]
 * `GooglePlus` - To Exclude/Include Google+ [Super/Stock/Full/Mini]
-* `GoogleTTS` - To Exclude/Include Google Text-to-Speech [Super/Stock/Full/Mini/Micro]
+* `GoogleTTS` - To Exclude/Include Google Text-to-Speech [Super/Stock/Full/Mini/Micro (6.0 also Nano/Pico)]
 * `Hangouts` - To Exclude/Include Hangouts [Super/Stock/Full/Mini]
 * `Hotword` - To Exclude/Include OK Google Hotword Enrollment [Super/Stock/Full/Mini/Micro/Nano]
 * `Indic` - To Exclude/Include Google Indic Keyboard [Super]
@@ -168,6 +169,8 @@ _**WARNING**: Because this feature gives you the ability to remove files that ma
 
 ####Force DPI Setting
 Open GApps normally selects the correct the DPI-optimized app that suits your device, based on the information that is supplied by recovery and otherwise found in defeault.prop or build.prop. Sometimes one might want to override this DPI setting, e.g. for testing, in those situations the keyword `forcedpiXXX` can be used, where XXX is replaced with one of the [valid default DPIs](http://developer.android.com/reference/android/util/DisplayMetrics.html) including: 160, 240, 320, 480, 560 or 640.
+####Force Dialer
+Open GApps normally detects if the device is deemed compatible with Google Dialer based on a whitelist. If not deemed compatible, Dialer Framework will by default not be installed (and neither will Google Dialer). To override this detection and the `forcedialer` keyword can be used. Note: Google Dialer does not work correctly on most non-Nexus devices and overriding it may cause problems.
 ####Skip Google's Swype Library Setting		
 The Stock keyboard does normally not support gesture typing. If Google Keyboard is not being installed, Open GApps installs by default Google's swype gesture libraries to the Stock keyboard. The libraries are installed in addition to the AOSP libraries. In some cases adding these libraries is unwanted behavior (there are few reports that recent these can conflict with certain ROMs). In those situations use the `skipswypelibs` keyword to skip the installation of these libraries (or remove them if previously installed).
 ####Substitute AOSP Library with Google's Swype Library Setting		

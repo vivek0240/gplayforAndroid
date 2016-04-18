@@ -6,6 +6,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  | \+  |  X  |  X  |
 |Google Package Installer |``PackageInstallerGoogle``|O|O|  O  |  O  |  O  |  O  |  O  |
+|Dialer Framework         |``DialerFramework``| X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Face Detection for Media |``FaceDetect``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Face Unlock              |``FaceUnlock``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
@@ -46,7 +47,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Sound Search (for Play)  |``Ears``          |  X  |  X  |  X  |     |     |     |     |
 |Google Camera¹           |``CameraGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Contacts¹         |``ContactsGoogle``|  O  |  O  |     |     |     |     |     |
-|Google Dialer¹           |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
+|Google Dialer¹²          |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
 |Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
 |Google Webview¹          |``WebviewGoogle`` |  O  |  O  |     |     |     |     |     |
@@ -63,7 +64,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Project Fi by Google²    |``ProjectFi``     |  X  |     |     |     |     |     |     |
 
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
-* ² Google Now depends on Search. Project Fi depends on GCS.
+* ² Google Dialer depends on Dialer Framework. Google Now depends on Search. Project Fi depends on GCS.
 * X Installs application by default
 * O Replaces the Stock/AOSP version of the application by default
 * \+ Only installed if Google Calendar is NOT installed
