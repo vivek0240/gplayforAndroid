@@ -12,7 +12,6 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |OK Google Hotword Enrollment|``Hotword``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Google Exchange Services¹|``ExchangeGoogle``|  O  |  O  |  O  |  O  |  O  |     |     |
-|Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
 |                         |                  |     |     |     |     |     |     |     |
 |Google Play Services     |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google App (Search)      |``Search``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
@@ -52,6 +51,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Webview¹          |``WebviewGoogle`` |  O  |  O  |     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
+|Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
 |Google Earth             |``Earth``         |  X  |     |     |     |     |     |     |
 |Google Indic Keyboard    |``Indic``         |  X  |     |     |     |     |     |     | 
 |Google Japanese Input    |``Japanese``      |  X  |     |     |     |     |     |     |
