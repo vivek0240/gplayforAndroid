@@ -1,6 +1,6 @@
 This package is for those who want to have all Google Applications. It includes all Google Apps that were ever shipped on a Google device. 
 
-In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Google Connectivity Services, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
+In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
 * **Android Pay**
 * Chrome Browser _(replaces stock/AOSP Browser)_
@@ -11,6 +11,7 @@ In this package you will find the core Google system base, off-line speech files
 * Google Calculator _(replaces stock/AOSP Calculator)_
 * Google Calendar _(replaces stock/AOSP Calendar)_
 * Google Camera _(replaces stock/AOSP Camera)_
+* Google Connectivity Services
 * Google Contacts _(replaces stock/AOSP Contacts)_
 * Google Desk Clock _(replaces stock/AOSP Desk Clock)_
 * Google Dialer _(replaces stock/AOSP Dialer)_
