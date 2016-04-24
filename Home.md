@@ -45,6 +45,6 @@ Welcome to the **Open GApps** wiki!
 
 
 ### Help Open GApps
-* [[Donate]]
+* [Donate](http://opengapps.org/donate)
 * [[Get Involved]]
 * Spread the word!
