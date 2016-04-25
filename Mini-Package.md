@@ -1,5 +1,5 @@
 This package is designed for those who use limited Google apps or prefer to install apps on their own.
-In this package you will find the core Google system base, off-line speech files, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Face Detection for Media, Face Unlock, Dialer Framework and the following Play Store applications:
+In this package you will find the core Google system base, off-line speech files, Google Play Store, Face Detection for Media, Face Unlock, Dialer Framework and the following Play Store applications:
 
 * **Clock _(replaces stock/AOSP Clock)_**
 * **Google Calculator _(replaces stock/AOSP Calculator)_**
