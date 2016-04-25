@@ -105,6 +105,7 @@ _**Stock**_ below means apps from AOSP or built-in to the device. Some manufactu
 Valid keyword options are:
 * `BasicDreams`- To remove the Basic Dreams Wallpaper
 * `Browser` - To remove the Stock Browser
+* `CalculatorStock` - To remove the Stock Calculator _(automatically removed when Google Calculator is installed)_
 * `CalendarStock` - To remove the Stock Calendar _(automatically removed when Google Calendar is installed)_
 * `CameraStock` - To remove the Stock Camera
 * `ClockStock` - To remove the Stock Desk Clock _(automatically removed when Google Desk Clock is installed)_
