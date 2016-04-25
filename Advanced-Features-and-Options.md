@@ -112,8 +112,9 @@ Valid keyword options are:
 * `CMAudioFX` - To remove CM AudioFX
 * `CMFileManager` - To remove CM File Manager
 * `CMMusic` - To remove CM Music
-* `CMUpdater` - To remove CM Updater
+* `CMScreenCast` - To remove the CM ScreenCast app
 * `CMSetupWizard` - To remove the CM Setup Wizard
+* `CMUpdater` - To remove CM Updater
 * `CMWallpapers` - To remove the CM Wallpapers
 * `DashClock` - To remove DashClock Widget _(found in certain ROMs)_
 * `Email` - To remove the Stock Email Client _(automatically removed when Gmail is installed)_
