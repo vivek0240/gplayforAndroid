@@ -1,7 +1,7 @@
 This package is similar to the Google Stock Package above except that it does NOT include Google Camera and Google Keyboard and will NOT remove your stock/AOSP Browser, Camera, Email, Gallery, Launcher, Keyboard, SMS App, Pico TTS or WebView.
 
 If you prefer the option use to use stock/AOSP apps, this package is designed for you.
-In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
+In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Dialer Framework and the following Play Store applications:
 
 * **Chrome Browser**
 * **Cloud Print**
