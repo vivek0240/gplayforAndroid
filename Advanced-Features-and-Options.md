@@ -118,7 +118,7 @@ Valid keyword options are:
 * `CMWallpapers` - To remove the CM Wallpapers
 * `DashClock` - To remove DashClock Widget _(found in certain ROMs)_
 * `Email` - To remove the Stock Email Client _(automatically removed when Gmail is installed)_
-* `ExchangeStock` - To remove Stock Exchange Services _(automatically removed when Gmail is installed)_
+* `ExchangeStock` - To remove Stock Exchange Services _(automatically removed when Email is being removed)_
 * `FMRadio` - To remove the Stock FM Radio _(not found on all devices or ROMs)_
 * `Gallery` - To remove the Stock Gallery
 * `Galaxy` - To remove the Galaxy (also known as BlackHole) Wallpaper
