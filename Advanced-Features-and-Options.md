@@ -117,7 +117,7 @@ Valid keyword options are:
 * `CMUpdater` - To remove CM Updater
 * `CMWallpapers` - To remove the CM Wallpapers
 * `DashClock` - To remove DashClock Widget _(found in certain ROMs)_
-* `Email` - To remove the Stock Email Client _(automatically removed when Gmail is installed)_
+* `Email` - To remove the Stock Email Client
 * `ExchangeStock` - To remove Stock Exchange Services _(automatically removed when Email is being removed)_
 * `FMRadio` - To remove the Stock FM Radio _(not found on all devices or ROMs)_
 * `Gallery` - To remove the Stock Gallery
