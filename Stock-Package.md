@@ -2,9 +2,9 @@ This package is recommended for most users of current generation devices (legacy
 
 In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Dialer Framework and the following Play Store applications:
 
-* Chrome Browser _(replaces stock/AOSP Browser)_
+* Chrome Browser **_(replaces stock/AOSP Browser)_**
 * Cloud Print
-* Gmail _(replaces stock/AOSP Email)_
+* Gmail **_(replaces stock/AOSP Email)_**
 * Google+
 * Google Calculator _(replaces stock/AOSP Calculator)_
 * Google Calendar _(replaces stock/AOSP Calendar)_
@@ -30,13 +30,13 @@ In this package you will find the core Google system base, off-line speech files
 * Google Search
 * Google Sheets
 * Google Slides
-* Google Text-to-Speech _(replaces stock/AOSP Pico TTS)_
+* Google Text-to-Speech **_(replaces stock/AOSP Pico TTS)_**
 * **Google WebView _(replaces stock/AOSP WebView)_**
-* Hangouts _(replaces stock/AOSP SMS App)_
+* Hangouts **_(replaces stock/AOSP SMS App)_**
 * Hotword
 * Maps
 * **Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_**
-* Photos _(replaces stock/AOSP Gallery)_
+* Photos **_(replaces stock/AOSP Gallery)_**
 * Sound Search for Google Play
 * TalkBack
 * YouTube
