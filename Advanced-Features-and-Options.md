@@ -116,6 +116,7 @@ Valid keyword options are:
 * `CMSetupWizard` - To remove the CM Setup Wizard
 * `CMUpdater` - To remove CM Updater
 * `CMWallpapers` - To remove the CM Wallpapers
+* `CMWeatherProvider` - To remove the CM Weather Underground
 * `DashClock` - To remove DashClock Widget _(found in certain ROMs)_
 * `Email` - To remove the Stock Email Client
 * `ExchangeStock` - To remove Stock Exchange Services _(automatically removed when Email is being removed)_
