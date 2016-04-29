@@ -50,6 +50,7 @@ Valid keyword options are:
 * `Drive` - To Exclude/Include Google Drive [Super/Stock/Full]
 * `Ears` - To Exclude/Include Sound Search for Google Play [Super/Stock/Full]
 * `Earth` - To Exclude/Include Google Earth [Super]
+* `ExchangeGoogle` - To Exclude/Include Google Exchange Services [Super/Stock/Full/Mini/Micro]
 * `FaceDetect` - To Exclude/Include FaceUnlock [Super/Stock/Full/Mini/Micro/Nano]
 * `FaceUnlock` - To Exclude/Include FaceUnlock [Super/Stock/Full/Mini/Micro/Nano]
 * `Fitness` - To Exclude/Include Google Fit [Super/Stock/Full]
@@ -119,7 +120,7 @@ Valid keyword options are:
 * `CMWeatherProvider` - To remove the CM Weather Underground
 * `DashClock` - To remove DashClock Widget _(found in certain ROMs)_
 * `Email` - To remove the Stock Email Client
-* `ExchangeStock` - To remove Stock Exchange Services _(automatically removed when Email is being removed)_
+* `ExchangeStock` - To remove Stock Exchange Services _(automatically removed when Google Exchange Services is installed)_
 * `FMRadio` - To remove the Stock FM Radio _(not found on all devices or ROMs)_
 * `Gallery` - To remove the Stock Gallery
 * `Galaxy` - To remove the Galaxy (also known as BlackHole) Wallpaper
@@ -152,7 +153,7 @@ Valid keyword options are:
   * `+MMS` - To bypass the automatic removal of Stock SMS [Super/Stock]
   * `+PicoTTS` - To bypass the automatic removal of the Stock PicoTTS app [Super/Stock]
 
-_**NOTE**: The installer will automatically NOT remove the Stock application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, Google WebView|Stock WebView and Google Calendar|Stock Calendar._
+_**NOTE**: The installer will automatically NOT remove the Stock application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, Google WebView|Stock WebView and Google Calendar|Stock Calendar._
 
 ####Universal Application Removals
 In addition to the Stock Removals above, Universal Application Removals is available in the Open GApps installer. Universal Removals allow you to remove ANY system app on your device or ROM, with the EXCEPTION of (core) apps that are part of Open GApps itself.
