@@ -1,6 +1,6 @@
 This package is recommended for most users of current generation devices (legacy device owners may want to use Mini or Micro Modular GApps due to the size of this package). It includes all the Google Apps that come standard on the latest Nexus Phone.
 
-In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Dialer Framework and the following Play Store applications:
+In this package you will find the core Google system base, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
 * Chrome Browser **_(replaces stock/AOSP Browser)_**
 * Cloud Print
