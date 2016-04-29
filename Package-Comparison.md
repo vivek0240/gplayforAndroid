@@ -11,6 +11,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Face Unlock              |``FaceUnlock``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |OK Google Hotword Enrollment|``Hotword``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
+|Google Exchange Services¹|``ExchangeGoogle``|  O  |  O  |  O  |  O  |  O  |     |     |
 |                         |                  |     |     |     |     |     |     |     |
 |Google Play Services     |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google App (Search)      |``Search``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
