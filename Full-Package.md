@@ -22,7 +22,7 @@ In this package you will find the core Google system base, off-line speech files
 * **Google Play Movies & TV**
 * **Google Play Music**
 * **Google Play Newsstand**
-* **Google Play services**
+* Google Play services
 * Google Search
 * **Google Sheets**
 * **Google Slides**
