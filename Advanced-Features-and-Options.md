@@ -171,8 +171,6 @@ _**WARNING**: Because this feature gives you the ability to remove files that ma
 
 ####Force DPI Setting
 Open GApps normally selects the correct the DPI-optimized app that suits your device, based on the information that is supplied by recovery and otherwise found in defeault.prop or build.prop. Sometimes one might want to override this DPI setting, e.g. for testing, in those situations the keyword `forcedpiXXX` can be used, where XXX is replaced with one of the [valid default DPIs](http://developer.android.com/reference/android/util/DisplayMetrics.html) including: 160, 240, 320, 480, 560 or 640.
-####Force Dialer
-Open GApps normally detects if the device is deemed compatible with Google Dialer based on a whitelist. If not deemed compatible, Dialer Framework will by default not be installed (and neither will Google Dialer). To override this detection the `forcedialer` keyword can be used. Note: Google Dialer does not work correctly on most non-Nexus devices and overriding it may cause problems.
 ####Force New Camera
 Open GApps normally detects if the device is deemed compatible with the _New Camera API_ based on fields specified in `build.prop` and a whitelist. If not deemed compatible, the newest Google Camera (version 3 and higher) will not be installed but the older version 2 instead (`googlecameralegacy`). To override this detection the `forcenewcamera` keyword can be used. Note: Google Camera version 3 does not work correctly on most non-Nexus devices.
 ####Skip Google's Swype Library Setting		
