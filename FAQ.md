@@ -77,6 +77,7 @@ NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method.
 
 ####8. My device reboots when I receive or make a phone call. Why?
 If your device has Google Dialer installed, it requires to be set as the default *Phone* application. If not set, it will reboot your device. Go to ['Settings -> Apps -> "Gear Icon" upper right -> Default Apps -> Phone App'](https://www.youtube.com/watch?v=BXg7k75sVc8) to set Google Dialer as your default.
+Another permission you can set for the Google Dialer is to [grant it access to system settings](https://www.youtube.com/watch?v=KkmddbxbZ8U). This will allow you to set ringtone related settings via the app.
 
 ####9. Open GApps install failed with the message 'Insufficient storage space available in System partition'. My device has 16GB (or more) of storage available. How can this be?
 
