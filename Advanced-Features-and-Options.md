@@ -99,6 +99,7 @@ _**Stock**_ below means apps from AOSP or built-in to the device. Some manufactu
 * CyanogenMod
 * Flux
 * FlymeOS (EasyLauncher, FlymeLauncher, MZInput)
+* Miui
 * MoKee (Nox launcher, YuBrowser)
 * Motorola
 * Lenovo (packageinstaller)
