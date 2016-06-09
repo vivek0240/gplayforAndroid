@@ -12,6 +12,8 @@ There are 2 things you can do that are almost always guaranteed to fix these typ
     - Other Recovery types are not officially supported
   2. Reinstall your ROM and GApps as part of a 'Clean' install
     - This will remove any data corruption that might be causing your issue
+  3. Make sure you **don't** have Xposed modules or other potential *low-level* interfering apps like Amplify installed.
+    - Applications that do *tweaks* or *hacks* on your system are potential cause of various issues and can only be resolved by the developers of those apps
 
 <u>A 'Clean' install consists of the following:</u>
  1. Factory Reset (or manually wipe (format) Data partition - Internal Storage wipe is NOT necessary)
