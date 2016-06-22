@@ -117,7 +117,7 @@ Valid keyword options are:
 * `CMFileManager` - To remove CM File Manager
 * `CMMusic` - To remove CM Music
 * `CMScreenCast` - To remove the CM ScreenCast app
-* `CMSetupWizard` - To remove the CM Setup Wizard
+* `CMSetupWizard` - To remove the CM Setup Wizard _(see [[Notes for CMSetupWizard]])_
 * `CMUpdater` - To remove CM Updater
 * `CMWallpapers` - To remove the CM Wallpapers
 * `CMWeatherProvider` - To remove the CM Weather Underground
