@@ -4,8 +4,8 @@ In this package you will find the core Google system base, off-line speech files
 * **Google Calculator _(replaces stock/AOSP Calculator)_**
 * Google Calendar _(replaces stock/AOSP Calendar)_
 * **Google Desk Clock _(replaces stock/AOSP Clock)_**
-* Google Now Launcher
 * **Google NFC Tags _(replaces stock/AOSP NFC Tags)_**
+* Google Now Launcher
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play services
 * Google Search
