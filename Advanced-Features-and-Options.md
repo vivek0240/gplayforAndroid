@@ -135,6 +135,7 @@ Valid keyword options are:
 * `LockClock` -  To remove the Stock Lockscreen Clock Widget
 * `MMS` - To remove the Stock SMS _(automatically removed if Google Messenger and/or Hangouts is installed)_
 * `NoiseField` - To remove the Noise Field Wallpaper
+* `OmniSwitch` - To remove the OmniSwitch recent apps switcher replacement
 * `Phasebeam` - To remove the Phasebeam Wallpaper
 * `PhotoPhase` - To remove the Photo Phase Wallpaper
 * `PhotoTable` - To remove the Photo Table Wallpaper
