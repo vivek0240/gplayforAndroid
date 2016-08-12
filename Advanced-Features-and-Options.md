@@ -128,6 +128,7 @@ Valid keyword options are:
 * `FMRadio` - To remove the Stock FM Radio _(not found on all devices or ROMs)_
 * `Gallery` - To remove the Stock Gallery
 * `Galaxy` - To remove the Galaxy (also known as BlackHole) Wallpaper
+* `Hexo` - To remove the Hexo Libre Theme
 * `HoloSpiral` - To remove the Holo Spiral Wallpaper
 * `KeyboardStock` - To remove the Stock Keyboard _(automatically removed when Google Keyboard is installed)_
 * `Launcher` - To remove the Stock Launcher(s)
