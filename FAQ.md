@@ -155,3 +155,6 @@ It is NOT recommended to use Titanium Backup to integrate GApps updates into the
 
 ####24. I'm stuck on "Checking Connection" in the welcome screen. (我的手机在欢迎页面上卡住了，总是在检查链接)
 The welcome screen will attempt to connect to Google, if you're in a country that blocks Google services or Google is having some issues it will get stuck here. To bypass this you need to tap each corner in a clockwise direction, going round a few times. You will then be dropped to the home screen where you can install the VPN of your choice to access Google. (as shown in http://pocketnow.com/how-to/android-quick-tip-how-to-bypass-touch-the-android-to-begin-video )
+
+####25. OpenGApps don't work after updating to CyanogenMod 13
+Warnings such as "Unfortunately, setup wizard has stopped working" won't disappear. You can use [this script](https://gist.github.com/jomo/0f8730fd53e98fee98e27a2a18142fef) to work around the issue. See also [[Notes for CMSetupWizard]]. If this doesn't help you can try uninstalling Google Apps and re-flash OpenGApps, or re-flash CM and OpenGApps. If that still doesn't help you'll need to do a clean re-install (i.e. wipe /data).
