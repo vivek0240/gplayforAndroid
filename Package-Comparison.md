@@ -4,6 +4,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |------------------------:|:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Google System Base       |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|Google Android Shared Services|             |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  | \+  |  X  |  X  |
 |Google Package Installer |``PackageInstallerGoogle``|O|O|  O  |  O  |  O  |  O  |  O  |
 |Dialer Framework         |``DialerFramework``| X  |  X  |  X  |  X  |  X  |  X  |  X  |
@@ -48,6 +49,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Dialer¹²          |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
 |Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
+|Google VR Services       |``VRService``     |  X  |  X  |     |     |     |     |     |
 |Google Webview¹          |``WebviewGoogle`` |  O  |  O  |     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
