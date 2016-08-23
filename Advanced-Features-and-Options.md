@@ -77,6 +77,7 @@ Valid keyword options are:
 * `Pinyin` - To Exclude/Include [Google Pinyin Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.pinyin) [Super]
 * `Photos` - To Exclude/Include [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) [Super/Stock/Full/Mini]
 * `PlayGames` - To Exclude/Include [Google Play Games](https://play.google.com/store/apps/details?id=com.google.android.play.games) [Super/Stock/Full]
+* `PrintService` - To Exclude/Include Print Service Recommendation Service [Super]
 * `ProjectFi` - To Exclude/Include [Project Fi by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) [Super]
 * `Sheets` - To Exclude/Include [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets) [Super/Stock/Full]
 * `Slides` - To Exclude/Include [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides) [Super/Stock/Full]
