@@ -87,6 +87,7 @@ Valid keyword options are:
 * `TagGoogle` - To Exclude/Include Google NFC Tags [Super/Stock/Full/Mini]
 * `Talkback` - To Exclude/Include [Google TalkBack](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback) [Super/Stock/Full]
 * `Translate` - To Exclude/Include [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) [Super]
+* `VRService` - To Exclude/Include Google VR Services [Super/Stock]
 * `WebviewGoogle` - To Exclude/Include [Google Webview](https://play.google.com/store/apps/details?id=com.google.android.webview) [Super/Stock]
 * `YouTube` - To Exclude/Include [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube) [Super/Stock/Full/Mini]
 * `Zhuyin` - To Exclude/Include [Google Zhuyin Input](https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.zhuyin) [Super]
