@@ -158,3 +158,12 @@ The welcome screen will attempt to connect to Google, if you're in a country tha
 
 ####25. OpenGApps don't work after updating to CyanogenMod 13
 Warnings such as "Unfortunately, setup wizard has stopped working" won't disappear. You can use [this script](https://gist.github.com/jomo/0f8730fd53e98fee98e27a2a18142fef) to work around the issue. See also [[Notes for CMSetupWizard]]. If this doesn't help you can try uninstalling Google Apps and re-flash OpenGApps, or re-flash CM and OpenGApps. If that still doesn't help you'll need to do a clean re-install (i.e. wipe /data).
+
+####26. "Ok Google" keyword recognition doesn't work in my language (e.g. non US English)
+As the code is closed source, it is hard to predict when the feature is going to work for language different to US English.
+The most clean solution is to go
+
+"Google Search" app > Settings (on the left side, press the 3 tiles buttons) > "Voice" > Language
+
+and choose "US English" as maing language and your native language as alternative one. This will make the trick.
+If voice recognition is still not working, you should try to use factory reset (described [[here|FAQ#3-im-having-problems-that-i-believe-are-open-gapps-related-what-can-i-do-to-fix-it]])
