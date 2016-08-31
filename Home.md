@@ -44,6 +44,11 @@ Welcome to the **Open GApps** wiki!
 
 ***
 
+### Notes for Keywords
+
+* [[CMSetupWizard|Notes for CMSetupWizard]]
+
+***
 
 ### Help Open GApps
 * [Donate](http://opengapps.org/donate)
