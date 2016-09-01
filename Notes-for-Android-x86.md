@@ -1,3 +1,3 @@
 Because not all Google Apps are available for x86, some applications that are in [[full|Full-Package]] and [[stock|Stock-Package]] are only provided using an ARM version.
-You need an Android ROM with [[libhoudini|https://commonsware.com/blog/2013/11/21/libhoudini-what-it-means-for-developers.html]] to be able to use those applications.
+You need an Android ROM with [[libhoudini|https://commonsware.com/blog/2013/11/21/libhoudini-what-it-means-for-developers.html]] or a Intel Atom CPU that can process _arm_ instructions to be able to use those applications.
 To prevent possible conflicting system library issues, these packages are not available x86 for Android 4.4.
