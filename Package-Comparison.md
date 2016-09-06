@@ -49,7 +49,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Dialer¹²          |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
 |Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
-|Print Service Recommendation Service|``PrintServiceGoogle``|X|||    |     |     |     |
+|Google Print Service Recommendation Service|``PrintServiceGoogle``|X|||    |     |     |     |
 |Google VR Services       |``VRService``     |  X  |  X  |     |     |     |     |     |
 |Google Webview¹          |``WebviewGoogle`` |  O  |  O  |     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
