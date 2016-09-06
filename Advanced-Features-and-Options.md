@@ -77,7 +77,7 @@ Valid keyword options are:
 * `Pinyin` - To Exclude/Include [Google Pinyin Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.pinyin) [Super]
 * `Photos` - To Exclude/Include [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) [Super/Stock/Full/Mini]
 * `PlayGames` - To Exclude/Include [Google Play Games](https://play.google.com/store/apps/details?id=com.google.android.play.games) [Super/Stock/Full]
-* `PrintService` - To Exclude/Include Print Service Recommendation Service [Super]
+* `PrintServiceGoogle` - To Exclude/Include Print Service Recommendation Service [Super/Stock]
 * `ProjectFi` - To Exclude/Include [Project Fi by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho) [Super]
 * `Sheets` - To Exclude/Include [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets) [Super/Stock/Full]
 * `Slides` - To Exclude/Include [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides) [Super/Stock/Full]
@@ -143,6 +143,7 @@ Valid keyword options are:
 * `PhotoPhase` - To remove the Photo Phase Wallpaper
 * `PhotoTable` - To remove the Photo Table Wallpaper
 * `PicoTTS` - To remove the Stock PicoTTS
+* `PrintServiceStock` - To remove the Stock Print Service Recommendation Service _(automatically removed when Google Print Service Recommendation Service is installed)_
 * `SimToolKit` - To remove the Stock SimToolKit
 * `Studio` - To remove the Stock Movie Studio
 * `SykoPath` - To remove SykoPath Layers Manager _(found in certain ROMs)_
