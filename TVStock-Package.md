@@ -1,6 +1,6 @@
 This package is for Android TV devices. It includes all the Google Apps that come standard on the Nexus Player.
 
-In this package you will find the core Google system base, Google Play Store together with the non-Play Store applications:
+In this package you will find the core Google system base, Google Android Shared Services, Google Play Store together with the non-Play Store applications:
 
 * Android TV Customization
 * Android TV Widget
