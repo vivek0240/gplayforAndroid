@@ -35,6 +35,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Play Music
 * Google Play Newsstand
 * Google Play services
+* Google Print Service Recommendation Service
 * Google Search
 * Google Sheets
 * Google Slides
@@ -49,7 +50,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Maps
 * Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_
 * Photos _(replaces stock/AOSP Gallery)_
-* **Print Service Recommendation Service**
 * **Project Fi by Google**
 * Sound Search for Google Play
 * TalkBack
