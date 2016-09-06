@@ -27,6 +27,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Play Music
 * Google Play Newsstand
 * Google Play services
+* **Google Print Service Recommendation Service**
 * Google Search
 * Google Sheets
 * Google Slides
