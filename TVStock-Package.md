@@ -26,4 +26,5 @@ and the following Play Store applications:
 * Google Webview
 * Live Channels
 * TalkBack
+* TV Recommendations
 * YouTube
