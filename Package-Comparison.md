@@ -49,6 +49,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Dialer¹²          |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
 |Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
+|Print Service Recommendation Service|``PrintServiceGoogle``|X|||    |     |     |     |
 |Google VR Services       |``VRService``     |  X  |  X  |     |     |     |     |     |
 |Google Webview¹          |``WebviewGoogle`` |  O  |  O  |     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
@@ -62,7 +63,6 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Street View       |``Street``        |  X  |     |     |     |     |     |     |
 |Google Translate         |``Translate``     |  X  |     |     |     |     |     |     |
 |Google Zhuyin Input      |``Zhuyin``        |  X  |     |     |     |     |     |     |
-|Print Service Recommendation Service|``PrintServiceGoogle``|X|||    |     |     |     |
 |Project Fi by Google²    |``ProjectFi``     |  X  |     |     |     |     |     |     |
 
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
