@@ -43,7 +43,6 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Sheets            |``Sheets``        |  X  |  X  |  X  |     |     |     |     |
 |Google Slides            |``Slides``        |  X  |  X  |  X  |     |     |     |     |
 |Google Talkback          |``TalkBack``      |  X  |  X  |  X  |     |     |     |     |
-|Sound Search (for Play)  |``Ears``          |  X  |  X  |  X  |     |     |     |     |
 |Google Camera¹           |``CameraGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Contacts¹         |``ContactsGoogle``|  O  |  O  |     |     |     |     |     |
 |Google Dialer¹²          |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
