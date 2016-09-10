@@ -31,7 +31,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Hotword
 * Maps
 * Photos
-* **Sound Search for Google Play**
 * **TalkBack**
 * YouTube
 
