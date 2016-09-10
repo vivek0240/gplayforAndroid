@@ -48,7 +48,6 @@ Valid keyword options are:
 * `DMAgent` - To Exclude/Include [Google Apps Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.enterprise.dmagent) [Super]
 * `Docs` - To Exclude/Include [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs) [Super/Stock/Full]
 * `Drive` - To Exclude/Include [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs) [Super/Stock/Full]
-* `Ears` - To Exclude/Include [Sound Search for Google Play](https://play.google.com/store/apps/details?id=com.google.android.ears) [Super/Stock/Full]
 * `Earth` - To Exclude/Include [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) [Super]
 * `ExchangeGoogle` - To Exclude/Include Google Exchange Services [Super/Stock/Full/Mini/Micro]
 * `FaceDetect` - To Exclude/Include FaceUnlock [Super/Stock/Full/Mini/Micro/Nano]
