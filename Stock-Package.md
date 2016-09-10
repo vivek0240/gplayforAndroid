@@ -39,7 +39,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Maps
 * **Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_**
 * Photos **_(replaces stock/AOSP Gallery)_**
-* Sound Search for Google Play
 * TalkBack
 * YouTube
 
