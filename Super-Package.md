@@ -51,7 +51,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_
 * Photos _(replaces stock/AOSP Gallery)_
 * **Project Fi by Google**
-* Sound Search for Google Play
 * TalkBack
 * YouTube
 
