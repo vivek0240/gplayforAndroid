@@ -6,7 +6,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Android TV Widget
 * Gamepad Pairing Service
 * Global Key Interceptor
-* Landschap Wallpaper
+* Landscape Wallpaper
 * Leanback Keyboard
 * Overscan Calibrator
 * Pairing Tutorial
