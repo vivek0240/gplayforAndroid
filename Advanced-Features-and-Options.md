@@ -136,6 +136,11 @@ Valid keyword options are:
 * `LiveWallpapers` - To remove the Stock Live Wallpapers
 * `LockClock` -  To remove the Stock Lockscreen Clock Widget
 * `MMS` - To remove the Stock SMS _(automatically removed if Google Messenger and/or Hangouts is installed)_
+* `MzFileManager` - To remove the Stock FlymeOS File Manager
+* `MzPay` - To remove the Stock FlymeOS Pay system _(because MzPay services works only in China)_
+* `MzSetupWizard` - To remove the Stock FlymeOS SetupWizard
+* `MzUpdater` - To remove the Stock FlymeOS Updaters
+* `MzWeather` - To remove the Stock FlymeOS Weather _(because MzWeather service work only in China)_
 * `NoiseField` - To remove the Noise Field Wallpaper
 * `OmniSwitch` - To remove the OmniSwitch recent apps switcher replacement
 * `Phasebeam` - To remove the Phasebeam Wallpaper
