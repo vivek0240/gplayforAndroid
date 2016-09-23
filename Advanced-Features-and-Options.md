@@ -99,7 +99,7 @@ _**Stock**_ below means apps from AOSP or built-in to the device. Some manufactu
 * BLU
 * CyanogenMod
 * Flux
-* FlymeOS (BrowserIntl, Browser, EasyLauncher, FlymeLauncherIntl, FlymeLauncher, MZInput)
+* FlymeOS (BrowserIntl, Browser, CustomizeCenter, EasyLauncher, FileManager, FlymeLauncherIntl, FlymeLauncher, MzMPay, MzPay, MzInput, MzSetupWizard, MzUpdate, SystemUpdate, SystemUpdateAssistant, Weather)
 * Lenovo (packageinstaller)
 * Miui
 * MoKee (Nox launcher, YuBrowser)
