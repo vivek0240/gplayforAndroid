@@ -9,3 +9,6 @@ AROMA has some known issue, which varies by device and recovery version.
 ## OnePlus One (bacon)
 * Known working TWRP versions: 2.8.4.0 
 * Known broken TWRP versions: 2.8.7.0, 2.8.6.1, 3.0.0.1
+
+## OnePlus X (onyx)
+* Known broken TWRP versions: 3.0.2-2
