@@ -88,7 +88,8 @@ Valid keyword options are:
 * `Talkback` - To Exclude/Include [Google TalkBack](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback) [Super/Stock/Full]
 * `Translate` - To Exclude/Include [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) [Super]
 * `VRService` - To Exclude/Include Google VR Services [Super/Stock]
-* `WebviewGoogle` - To Exclude/Include [Google Webview](https://play.google.com/store/apps/details?id=com.google.android.webview) [Super/Stock]
+* `WebViewGoogle` - To Exclude/Include [Google Webview](https://play.google.com/store/apps/details?id=com.google.android.webview) [Super/Stock]
+* `WebViewStub` - To Exclude/Include [Google Webview Stub](https://play.google.com/store/apps/details?id=com.google.android.webview) [Super/Stock] _(Placeholder for Google WebView, on 7.0+ automatically used instead of `WebViewGoogle` if `Chrome` is installed)_ 
 * `YouTube` - To Exclude/Include [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube) [Super/Stock/Full/Mini]
 * `Zhuyin` - To Exclude/Include [Google Zhuyin Input](https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.zhuyin) [Super]
 
@@ -165,7 +166,7 @@ Valid keyword options are:
   * `+MMS` - To bypass the automatic removal of Stock SMS [Super/Stock]
   * `+PicoTTS` - To bypass the automatic removal of the Stock PicoTTS app [Super/Stock]
 
-_**NOTE**: The installer will automatically NOT remove the Stock application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, Google WebView|Stock WebView and Google Calendar|Stock Calendar._
+_**NOTE**: The installer will automatically NOT remove the Stock application if its Google counterpart is NOT being installed. For example, if you are NOT installing Hangouts or Messenger, then the Stock MMS app will NOT automatically be removed (although you can still force its removal by adding it to your gapps-config). The same is true for Google Camera|Stock Camera, Gmail|Stock Email, Google Exchange Services|Stock Exchange Services, Google Keyboard|Stock Keyboard, Photos|Stock Gallery, Google Now Launcher|Stock Launcher, GoogleTTS|PicoTTS, Google WebView(or Stub)|Stock WebView and Google Calendar|Stock Calendar.
 
 ####Universal Application Removals
 In addition to the Stock Removals above, Universal Application Removals is available in the Open GApps installer. Universal Removals allow you to remove ANY system app on your device or ROM, with the EXCEPTION of (core) apps that are part of Open GApps itself.
@@ -205,6 +206,6 @@ For example:
   * `# Exclude Search` would be completely ignored
   * While `Search # Exclude Search` would process the first `Search` keyword (since it appeared BEFORE the '#')
 
-* _"Protection from Stupidity"_ is built into the GApps Installer. To prevent you from accidentally leaving yourself with no keyboard, Launcher, or MMS app when you start your device, the installer WILL NOT ALLOW you to remove the Stock Keyboard, Launcher, or MMS app if you are not also installing a Google version of these apps. You can, however, override this protection by adding the keyword `Override` to your gapps-config. Be very careful when using this option and make certain you have a replacement app already installed on your device before using this option.
+* _"Protection from Stupidity"_ is built into the GApps Installer. To prevent you from accidentally leaving yourself with no keyboard, Launcher, or MMS app when you start your device, the installer WILL NOT ALLOW you to remove the Stock Keyboard, Launcher, or MMS app if you are not also installing a Google version of these apps. You can, however, override this protection by adding the keyword `Override` to your gapps-config. Be very careful when using this option and make certain you have a replacement app already installed on your device before using this option. This keyword can also be used to override the automatic selection of `WebViewStub` over `WebViewGoogle` if `Chrome` is being installed.
 
 * Case, order, spaces, or using empty lines does not matter when using gapps-config.
