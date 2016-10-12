@@ -66,7 +66,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
 * ² Google Dialer depends on Dialer Framework. Google Now depends on Search. Project Fi depends on GCS.
-* ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function.
+* ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
 * X Installs application by default
 * O Replaces the Stock/AOSP version of the application by default
 * \+ Only installed if Google Calendar is NOT installed
