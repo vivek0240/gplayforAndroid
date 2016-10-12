@@ -50,7 +50,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
 |Google Print Service Recommendation Service|``PrintServiceGoogle``|O|O||| |     |     |
 |Google VR Services       |``VRService``     |  X  |  X  |     |     |     |     |     |
-|Google WebView¹|``WebViewGoogle`` ``WebViewStub``|O|O|     |     |     |     |     |
+|Google WebView¹|``WebViewGoogle`` ``WebViewStub``³|O|O  |     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
 |Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
@@ -66,6 +66,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
 * ² Google Dialer depends on Dialer Framework. Google Now depends on Search. Project Fi depends on GCS.
+* ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function.
 * X Installs application by default
 * O Replaces the Stock/AOSP version of the application by default
 * \+ Only installed if Google Calendar is NOT installed
