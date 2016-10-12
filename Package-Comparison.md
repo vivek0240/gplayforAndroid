@@ -48,9 +48,9 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Dialer¹²          |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
 |Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
-|Google Print Service Recommendation Service|``PrintServiceGoogle``|O|O||    |     |     |     |
+|Google Print Service Recommendation Service|``PrintServiceGoogle``|O|O||| |     |     |
 |Google VR Services       |``VRService``     |  X  |  X  |     |     |     |     |     |
-|Google Webview¹          |``WebviewGoogle`` |  O  |  O  |     |     |     |     |     |
+|Google WebView¹|``WebViewGoogle`` ``WebViewStub``|O|O|     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
 |Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
