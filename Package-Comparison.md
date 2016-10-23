@@ -51,6 +51,10 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Print Service Recommendation Service|``PrintServiceGoogle``|O|O||| |     |     |
 |Google VR Services       |``VRService``     |  X  |  X  |     |     |     |     |     |
 |Google WebView¹|``WebViewGoogle`` ``WebViewStub``³|O|O  |     |     |     |     |     |
+|Pixel Icons              |``PixelIcons``    |  X  |  X  |     |     |     |     |     |
+|Pixel Launcher²          |``PixelLauncher`` |  O  |  O  |     |     |     |     |     |
+|Storage Manager          |``StorageManager``|  X  |  X  |     |     |     |     |     |
+|Wallpapers               |``Wallpapers``    |  X  |  X  |     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
 |Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
@@ -65,7 +69,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Project Fi by Google²    |``ProjectFi``     |  X  |     |     |     |     |     |     |
 
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
-* ² Google Dialer depends on Dialer Framework. Google Now depends on Search. Project Fi depends on GCS.
+* ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
 * X Installs application by default
 * O Replaces the Stock/AOSP version of the application by default
