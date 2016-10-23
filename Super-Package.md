@@ -49,9 +49,13 @@ In this package you will find the core Google system base, Google Android Shared
 * Hotword
 * Maps
 * Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_
+* Pixel Icons
+* Pixel Launcher _(replaces stock/AOSP Launcher)_
 * Photos _(replaces stock/AOSP Gallery)_
 * **Project Fi by Google**
+* Storage Manager
 * TalkBack
+* Wallpapers
 * YouTube
 
 Note: Bold apps mark the difference to smaller packages.
