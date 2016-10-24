@@ -39,6 +39,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Search
 * Google Sheets
 * Google Slides
+* Google Storage Manager _(replaces stock/AOSP Storage Manager)_
 * **Google Street View**
 * Google Text-to-Speech _(replaces stock/AOSP Pico TTS)_
 * Google VR Services
@@ -53,7 +54,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Pixel Launcher _(replaces stock/AOSP Launcher)_
 * Photos _(replaces stock/AOSP Gallery)_
 * **Project Fi by Google**
-* Storage Manager
 * TalkBack
 * Wallpapers
 * YouTube
