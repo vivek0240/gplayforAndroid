@@ -49,11 +49,11 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
 |Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
 |Google Print Service Recommendation Service|``PrintServiceGoogle``|O|O||| |     |     |
+|Google Storage Manager   |``StorageManagerGoogle``|O|O  |     |     |     |     |     |
 |Google VR Services       |``VRService``     |  X  |  X  |     |     |     |     |     |
 |Google WebView¹|``WebViewGoogle`` ``WebViewStub``³|O|O  |     |     |     |     |     |
 |Pixel Icons              |``PixelIcons``    |  X  |  X  |     |     |     |     |     |
 |Pixel Launcher²          |``PixelLauncher`` |  O  |  O  |     |     |     |     |     |
-|Storage Manager          |``StorageManager``|  X  |  X  |     |     |     |     |     |
 |Wallpapers               |``Wallpapers``    |  X  |  X  |     |     |     |     |     |
 |Android Pay              |``AndroidPay``    |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
