@@ -85,7 +85,7 @@ Valid keyword options are:
 * `Search` - To Exclude [Google Search](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) AND [Google Now Launcher](https://play.google.com/store/apps/details?id=com.google.android.launcher) AND [Pixel Launcher](https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher) [Super/Stock/Full/Mini/Micro/Nano]
 **OR** To Include [Google Search](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) AND OK Google Hotword Enrollment [Super/Stock/Full/Mini/Micro/Nano]
 * `Speech` - To Exclude/Include off-line Speech files _(For Voice Dictation Offline)_ [Super/Stock/Full/Mini/Micro/Nano]
-* `StorageManager` - To Exclude/Include Storage Manager [Super/Stock]
+* `StorageManagerGoogle` - To Exclude/Include Google Storage Manager [Super/Stock]
 * `Street` - To Exclude/Include [Google Street View](https://play.google.com/store/apps/details?id=com.google.android.street) [Super]
 * `TagGoogle` - To Exclude/Include Google NFC Tags [Super/Stock/Full/Mini]
 * `Talkback` - To Exclude/Include [Google TalkBack](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback) [Super/Stock/Full]
@@ -154,6 +154,7 @@ Valid keyword options are:
 * `PicoTTS` - To remove the Stock PicoTTS
 * `PrintServiceStock` - To remove the Stock Print Service Recommendation Service _(automatically removed when Google Print Service Recommendation Service is installed)_
 * `SimToolKit` - To remove the Stock SimToolKit
+* `StorageManagerStock` - To remove the Stock Storage Manager _(automatically removed when Google Storage Manager is installed)_
 * `Studio` - To remove the Stock Movie Studio
 * `SykoPath` - To remove SykoPath Layers Manager _(found in certain ROMs)_
 * `TagStock` - To remove the Stock NFC Tags _(automatically removed when Google NFC Tags is installed)_
