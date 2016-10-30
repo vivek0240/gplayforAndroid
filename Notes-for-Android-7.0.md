@@ -4,6 +4,7 @@ Since Android Nougat 7.0 the flexibility and amount of WebViewProviders has been
 For ROM developers it is a necessity to include a list of valid WebView Providers. I.e. on Google's Nexus devices this list consists of Google Chrome variants and Google WebView.
 In the upstream AOSP code only AOSP WebView is defined by default. **ROM developers should apply [this patch](https://github.com/AOSPA/android_frameworks_base/commit/d36582165d4694da101cc65755af0841d443c80e) to their source tree** to add Google WebView and Google Chrome (plus its variants) as valid WebView providers and achieve functional equivalence with stock ROMs.
 
+Additionally there was a security fix for above patch deployed. **It is recommended to apply [this patch](https://github.com/AOSPA/android_frameworks_base/commit/b70f5994464cf6b3b29cedcc4efdd73807a27b0f) as well.**
 
 ***
 
