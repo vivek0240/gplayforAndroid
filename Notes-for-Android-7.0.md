@@ -6,7 +6,7 @@ In the upstream AOSP code only AOSP WebView is defined by default. **ROM develop
 
 Additionally there was a security fix for above patch deployed. **It is recommended to apply [this patch](https://github.com/AOSPA/android_frameworks_base/commit/b70f5994464cf6b3b29cedcc4efdd73807a27b0f) as well.**
 
-Later a mistake in the generation of the signatures was discovered, which would break Chrome Stable and Google Webview to be recognized as Webview Providers on "user" builds. **As a fix [this patch](https://github.com/AOSPA/android_frameworks_base/commit/1be596db4a70d5f0b11d3e4d32ebd997d24ac16d) should be applied on top of the other two patches.**
+Later a mistake in the generation of the signatures was discovered, which would break Chrome Stable and Google Webview to be recognized as Webview Providers on "user" builds. **As a fix [this patch](https://github.com/AOSPA/android_frameworks_base/commit/0b18d8bac487a367f6a1d985fd72dc4582f8ddaa) should be applied on top of the other two patches.**
 
 ***
 
