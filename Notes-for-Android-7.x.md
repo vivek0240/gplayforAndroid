@@ -11,8 +11,8 @@ Later a mistake in the generation of the signatures was discovered, which would 
 ***
 
 ### APK Signature Scheme v2
-According to Google's documentation, the new [APK Signature Scheme v2](https://source.android.com/security/apksigning/v2.html) could give problems for any GApps package on Android Nougat.
-**At the moment no impact is known yet, and there is doubt whether implementation is really as strict as their documentation suggests.**
+With Android Nougat, Google introduced the new [APK Signature Scheme v2](https://source.android.com/security/apksigning/v2.html).
+This new signature scheme could pose problems for GApps packages in future versions of Android. But luckily for [Nougat there is still an exception for system apps](https://android.googlesource.com/platform/frameworks/base/+/nougat-release/core/java/android/content/pm/PackageParser.java#1204).
 
 If a Google app receives an update from the Play Store, the libraries in its APK are usually compressed. But the libraries need to be stored in a decompressed manner within the APK to make them install-able on the `/system` partition. This results in Open GApps having to re-package the APK which changes its *outside*. This did not intervene with the original signature scheme (that only verified the *inside* of the APK), but does not pass the v2 scheme's check anymore.
 
