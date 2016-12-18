@@ -14,6 +14,8 @@ Setting the android version is via the ```api``` variable, valid values are:
 * 5.0
 * 5.1
 * 6.0
+* 7.0
+* 7.1
 
 ## Variant
 Setting the package variant is via the ```variant``` variable, valid values are:
@@ -24,6 +26,7 @@ Setting the package variant is via the ```variant``` variable, valid values are:
 * micro
 * nano
 * pico
+* tvstock
 
 ## Example
 An example URL with some pre-selections could be:
