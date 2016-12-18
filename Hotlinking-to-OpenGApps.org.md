@@ -1,5 +1,5 @@
 # Pre-selection
-If you are a e.g. a ROM developer and want to hotlink to certain pre-select choices, you can pass some extra parameters to the opengapps.org website. These passed parameters will then be selected by the radio buttons. Fields that are not specified will be set to their default (currently those are: _arm_, _5.1_ and _stock_).
+If you are a e.g. a ROM developer and want to hotlink to certain pre-select choices, you can pass some extra parameters to the opengapps.org website. These passed parameters will then be selected by the radio buttons. Fields that are not specified will be set to their default (currently those are: _arm_, _6.0_ and _stock_).
 
 ## Platform
 Setting the platform architecture is via the ```arch``` variable, valid values are:
