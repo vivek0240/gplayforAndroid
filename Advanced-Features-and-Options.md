@@ -200,58 +200,58 @@ Here are the vendors we support. Since different vendors use different names for
  - Omni (Apollo, Omni Deskclock2, OmniSwitch)
  - Paranoid Android
 
-To use this feature, add the the keyword for each stock app you want removed, within parentheses, inside your gapps-config file. The following is a sample gapps-config that contains all available stock removal keywords -- using this gapps-config without modifications won't remove anything (that is not automatically removed, see below). You can start with this file and uncomment the apps you want removed:
+To use this feature, add the the keyword for each stock app you want removed, inside your gapps-config file. The following is a sample gapps-config that contains all available stock removal keywords -- using this gapps-config without modifications won't remove anything (that is not automatically removed, see below). You can start with this file and uncomment the apps you want removed:
 
 ```sh
 # Remove apps (uncomment a line to remove the app)
-# (BasicDreams)             # Remove Basic Dreams Wallpaper
-# (CMAccount)               # Remove CM Account Application
-# (CMAudioFX)               # Remove CM AudioFX
-# (CMFileManager)           # Remove CM File Manager
-# (CMMusic)                 # Remove CM Music
-# (CMScreenCast)            # Remove CM ScreenCast app
-# (CMSetupWizard)           # Remove CM Setup Wizard (see Notes for CMSetupWizard)
-# (CMUpdater)               # Remove CM Updater
-# (CMWallpapers)            # Remove CM Wallpapers
-# (CMWeatherProvider)       # Remove CM Weather Underground
-# (DashClock)               # Remove DashClock Widget (found in certain ROMs)
-# (Galaxy)                  # Remove Galaxy (also known as BlackHole) Wallpaper
-# (Hexo)                    # Remove Hexo Libre Theme
-# (HoloSpiral)              # Remove Holo Spiral Wallpaper
-# (NoiseField)              # Remove Noise Field Wallpaper
-# (OmniSwitch)              # Remove OmniSwitch recent apps switcher replacement
-# (Phasebeam)               # Remove Phasebeam Wallpaper
-# (PhotoPhase)              # Remove Photo Phase Wallpaper
-# (PhotoTable)              # Remove Photo Table Wallpaper
-# (Browser)                 # Remove Stock Browser
-# (CalculatorStock)         # Remove Stock Calculator (automatically removed when Google Calculator is installed)
-# (CalendarStock)           # Remove Stock Calendar (automatically removed when Google Calendar is installed)
-# (CameraStock)             # Remove Stock Camera
-# (ClockStock)              # Remove Stock Desk Clock (automatically removed when Google Clock is installed)
-# (Email)                   # Remove Stock Email Client
-# (ExchangeStock)           # Remove Stock Exchange Services (automatically removed when Google Exchange Services is installed)
-# (MzFileManager)           # Remove Stock FlymeOS File Manager
-# (MzPay)                   # Remove Stock FlymeOS Pay system (because MzPay services works only in China)
-# (MzSetupWizard)           # Remove Stock FlymeOS SetupWizard
-# (MzUpdater)               # Remove Stock FlymeOS Updaters
-# (MzWeather)               # Remove Stock FlymeOS Weather (because MzWeather service work only in China)
-# (FMRadio)                 # Remove Stock FM Radio (not found on all devices or ROMs)
-# (Gallery)                 # Remove Stock Gallery
-# (KeyboardStock)           # Remove Stock Keyboard (automatically removed when Google Keyboard is installed)
-# (Launcher)                # Remove Stock Launcher(s)
-# (LiveWallpapers)          # Remove Stock Live Wallpapers
-# (LockClock)               # Remove Stock Lockscreen Clock Widget
-# (Studio)                  # Remove Stock Movie Studio
-# (TagStock)                # Remove Stock NFC Tags (automatically removed when Google NFC Tags is installed)
-# (PicoTTS)                 # Remove Stock PicoTTS
-# (PrintServiceStock)       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
-# (SimToolKit)              # Remove Stock SimToolKit
-# (MMS)                     # Remove Stock SMS (automatically removed if Google Messenger and/or Hangouts is installed)
-# (StorageManagerStock)     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
-# (Terminal)                # Remove Stock Terminal
-# (Themes)                  # Remove Stock Theme Engine (will break the Settings Entry and can cause unexpected reboots on some ROMs)
-# (VisualizationWallpapers) # Remove Stock Visualization Wallpapers
-# (WhisperPush)             # Remove Stock WhisperPush support
+# BasicDreams             # Remove Basic Dreams Wallpaper
+# CMAccount               # Remove CM Account Application
+# CMAudioFX               # Remove CM AudioFX
+# CMFileManager           # Remove CM File Manager
+# CMMusic                 # Remove CM Music
+# CMScreenCast            # Remove CM ScreenCast app
+# CMSetupWizard           # Remove CM Setup Wizard (see Notes for CMSetupWizard)
+# CMUpdater               # Remove CM Updater
+# CMWallpapers            # Remove CM Wallpapers
+# CMWeatherProvider       # Remove CM Weather Underground
+# DashClock               # Remove DashClock Widget (found in certain ROMs)
+# Galaxy                  # Remove Galaxy (also known as BlackHole) Wallpaper
+# Hexo                    # Remove Hexo Libre Theme
+# HoloSpiral              # Remove Holo Spiral Wallpaper
+# NoiseField              # Remove Noise Field Wallpaper
+# OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
+# Phasebeam               # Remove Phasebeam Wallpaper
+# PhotoPhase              # Remove Photo Phase Wallpaper
+# PhotoTable              # Remove Photo Table Wallpaper
+# Browser                 # Remove Stock Browser
+# CalculatorStock         # Remove Stock Calculator (automatically removed when Google Calculator is installed)
+# CalendarStock           # Remove Stock Calendar (automatically removed when Google Calendar is installed)
+# CameraStock             # Remove Stock Camera
+# ClockStock              # Remove Stock Desk Clock (automatically removed when Google Clock is installed)
+# Email                   # Remove Stock Email Client
+# ExchangeStock           # Remove Stock Exchange Services (automatically removed when Google Exchange Services is installed)
+# MzFileManager           # Remove Stock FlymeOS File Manager
+# MzPay                   # Remove Stock FlymeOS Pay system (because MzPay services works only in China)
+# MzSetupWizard           # Remove Stock FlymeOS SetupWizard
+# MzUpdater               # Remove Stock FlymeOS Updaters
+# MzWeather               # Remove Stock FlymeOS Weather (because MzWeather service work only in China)
+# FMRadio                 # Remove Stock FM Radio (not found on all devices or ROMs)
+# Gallery                 # Remove Stock Gallery
+# KeyboardStock           # Remove Stock Keyboard (automatically removed when Google Keyboard is installed)
+# Launcher                # Remove Stock Launcher(s)
+# LiveWallpapers          # Remove Stock Live Wallpapers
+# LockClock               # Remove Stock Lockscreen Clock Widget
+# Studio                  # Remove Stock Movie Studio
+# TagStock                # Remove Stock NFC Tags (automatically removed when Google NFC Tags is installed)
+# PicoTTS                 # Remove Stock PicoTTS
+# PrintServiceStock       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
+# SimToolKit              # Remove Stock SimToolKit
+# MMS                     # Remove Stock SMS (automatically removed if Google Messenger and/or Hangouts is installed)
+# StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
+# Terminal                # Remove Stock Terminal
+# Themes                  # Remove Stock Theme Engine (will break the Settings Entry and can cause unexpected reboots on some ROMs)
+# VisualizationWallpapers # Remove Stock Visualization Wallpapers
+# WhisperPush             # Remove Stock WhisperPush support
 ```
 
 In addition to the Stock Removals above, you can remove ANY system app on your device or ROM, with the EXCEPTION of (core) apps that are part of Open GApps itself. To use this feature, enclose the name of the apk in parentheses inside your gapps-config file.
