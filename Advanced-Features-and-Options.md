@@ -37,6 +37,15 @@ Device-specific config files will take precedence over the non-device-specific o
 
 ## Writing and testing the gapps-config file
 
+The gapps-config file consists of one keyword per line. The available keywords are categorized in the sections below.
+
+
+### Comments and whitespace
+
+You can add notes or comments to your gapps-config using a `#`. Anything following a `#` will be ignored until the end of that line. For example, `# Exclude Search` would be completely ignored, while `Search # Exclude Search` would process the first `Search` keyword (since it appeared BEFORE the `#`).
+
+Case, order, spaces, and empty lines are ignored in the gapps-config file.
+
 
 ### Testing
 
@@ -48,21 +57,13 @@ To perform a test installation that will only simulate an install, add the keywo
 By default, the installer will generate Debug Logs that can help the devs troubleshoot any problems you might experience with the install. The logs are compressed and stored in a file named `open_gapps_debug_logs.tar.gz` in the same folder as the `open_apps_log.txt` file. This file can be easily attached to any bugreport on GitHub or post on XDA, making it easy for you to provide the devs important information to help troubleshoot any issues you're having. You may disable this feature by adding the keyword `NoDebug` to your gapps-config.
 
 
-### Comments and whitespace
-
-You can add notes or comments to your gapps-config using a `#`. Anything following a `#` will be ignored until the end of that line. For example, `# Exclude Search` would be completely ignored, while `Search # Exclude Search` would process the first `Search` keyword (since it appeared BEFORE the `#`).
-
-Case, order, spaces, and empty lines are ignored in the gapps-config file.
-
-
 ## Configuring your installation
 
 
 ### Downsizing
 
-You can transform any GApps package into one of its "little brothers" by adding one of the following keywords to your gapps-config. This will transform ALL INSTALLER BEHAVIOR (including default removals AND applications available for install) -- effectively turning it into the smaller GApps package.
+You can transform any GApps package into one of its "little brothers" by adding one of the following keywords to your gapps-config. This will transform ALL INSTALLER BEHAVIOR (including default removals AND applications available for install) -- effectively turning it into the smaller GApps package. Valid keyword options are:
 
-Valid keyword options are:
   * `StockGApps` [Super+]
   * `FullGApps` [Stock+]
   * `MiniGApps` [Full+]
@@ -161,6 +162,26 @@ ProjectFi              # Install Project Fi by Google
 ```
 
 
+### Prevent automatic Stock removals
+
+When installing a Google app that can replace a stock app, the stock app is automatically removed. For example, if you are installing Hangouts or Messenger, then the Stock SMS app will automatically be removed.
+
+To prevent the automatic removal of the stock apps when using the Open GApps Super/Stock package, type the keyword option preceded by a '+' as shown below:
+
+```sh
++Browser       # Don't remove Stock Browser, even if Google Chrome is being installed
++CalendarStock # Don't remove Stock Calendar, even if Google Calendar is being installed
++CameraStock   # Don't remove Stock Camera, even if Google Camera is being installed
++Email         # Don't remove Stock Email, even if Gmail is being installed
++ExchangeStock # Don't remove Stock Exchange services, even if Google Exchange Services is being installed
++Gallery       # Don't remove Stock Gallery, even if Google Photos is being installed
++KeyboardStock # Don't remove Stock Keyboard, even if Google Keyboard is being installed
++Launcher      # Don't remove Stock Launchers, even if Google Now Launcher is being installed
++MMS           # Don't remove Stock SMS app, even if Hangouts or Messenger is being installed
++PicoTTS       # Don't remove PicoTTS, even if GoogleTTS is being installed
+```
+
+
 ### Remove Stock apps
 
 You can specify built-in (stock) apps you want removed. Stock removals function the same regardless of whether you're doing an "Include" or "Exclude" install.
@@ -179,7 +200,7 @@ Here are the vendors we support. Since different vendors use different names for
  - Omni (Apollo, Omni Deskclock2, OmniSwitch)
  - Paranoid Android
 
-To use this feature, add the the keyword for each stock app you want removed, within parentheses, inside your gapps-config file. The following is a sample gapps-config that contains all available stock remove keywords -- using this gapps-config without modifications will remove nothing that is not automatically removed (see below). You can start with this file and uncomment the apps you want removed:
+To use this feature, add the the keyword for each stock app you want removed, within parentheses, inside your gapps-config file. The following is a sample gapps-config that contains all available stock removal keywords -- using this gapps-config without modifications won't remove anything (that is not automatically removed, see below). You can start with this file and uncomment the apps you want removed:
 
 ```sh
 # Remove apps (uncomment a line to remove the app)
@@ -232,26 +253,6 @@ To use this feature, add the the keyword for each stock app you want removed, wi
 # (VisualizationWallpapers) # Remove Stock Visualization Wallpapers
 # (WhisperPush)             # Remove Stock WhisperPush support
 ```
-
-When installing a Google app that can replace a stock app, the stock app is automatically removed. For example, if you are installing Hangouts or Messenger, then the Stock MMS app will automatically be removed.
-
-To prevent the automatic removal of the stock apps when using the Open GApps Super/Stock package, type the keyword option preceded by a '+' as shown below:
-
-```sh
-+Browser       # Don't remove Stock Browser, even if Google Chrome is being installed
-+CalendarStock # Don't remove Stock Calendar, even if Google Calendar is being installed
-+CameraStock   # Don't remove Stock Camera, even if Google Camera is being installed
-+Email         # Don't remove Stock Email, even if Gmail is being installed
-+ExchangeStock # Don't remove Stock Exchange services, even if Google Exchange Services is being installed
-+Gallery       # Don't remove Stock Gallery, even if Google Photos is being installed
-+KeyboardStock # Don't remove Stock Keyboard, even if Google Keyboard is being installed
-+Launcher      # Don't remove Stock Launchers, even if Google Now Launcher is being installed
-+MMS           # Don't remove Stock SMS app, even if Hangouts or Messenger is being installed
-+PicoTTS       # Don't remove PicoTTS, even if GoogleTTS is being installed
-```
-
-
-### Remove other stock apps
 
 In addition to the Stock Removals above, you can remove ANY system app on your device or ROM, with the EXCEPTION of (core) apps that are part of Open GApps itself. To use this feature, enclose the name of the apk in parentheses inside your gapps-config file.
 
