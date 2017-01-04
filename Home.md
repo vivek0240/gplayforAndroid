@@ -33,7 +33,7 @@ Welcome to the **Open GApps** wiki!
 * [[Android 4.4|Notes for Android 4.4]]
 * [[Android 5.0|Notes for Android 5.0]]
 * [[Android 6.0|Notes for Android 6.0]]
-* [[Android 7.0|Notes for Android 7.0]]
+* [[Android 7.x|Notes for Android 7.x]]
 
 ***
 
