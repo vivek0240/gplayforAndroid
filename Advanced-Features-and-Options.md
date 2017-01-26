@@ -206,6 +206,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # Remove apps (uncomment a line to remove the app)
 # BasicDreams             # Remove Basic Dreams Wallpaper
 # CMAccount               # Remove CM Account Application
+# CMBugReport             # Remove CM Bug Report Application
 # CMAudioFX               # Remove CM AudioFX
 # CMFileManager           # Remove CM File Manager
 # CMMusic                 # Remove CM Music
@@ -246,6 +247,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # PicoTTS                 # Remove Stock PicoTTS
 # PrintServiceStock       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
 # SimToolKit              # Remove Stock SimToolKit
+# SoundRecorder           # Remove Stock Sound Recorder
 # MMS                     # Remove Stock SMS (automatically removed if Google Messenger and/or Hangouts is installed)
 # StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
 # Terminal                # Remove Stock Terminal
