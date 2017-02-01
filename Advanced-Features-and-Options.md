@@ -204,26 +204,30 @@ To use this feature, add the the keyword for each stock app you want removed, in
 
 ```sh
 # Remove apps (uncomment a line to remove the app)
-# BasicDreams             # Remove Basic Dreams Wallpaper
-# CMAccount               # Remove CM Account Application
-# CMBugReport             # Remove CM Bug Report Application
+# CMAccount               # Remove CM Account
+# CMBugReport             # Remove CM Bug Report
 # CMAudioFX               # Remove CM AudioFX
 # CMFileManager           # Remove CM File Manager
 # CMMusic                 # Remove CM Music
-# CMScreenCast            # Remove CM ScreenCast app
+# CMScreenCast            # Remove CM ScreenCast
 # CMSetupWizard           # Remove CM Setup Wizard (see Notes for CMSetupWizard)
 # CMUpdater               # Remove CM Updater
 # CMWallpapers            # Remove CM Wallpapers
 # CMWeatherProvider       # Remove CM Weather Underground
+
 # DashClock               # Remove DashClock Widget (found in certain ROMs)
+# Hexo                    # Remove Hexo Libre CM Theme
+# LRecorder               # Remove LineageOS Recorder
+# OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
+
+# BasicDreams             # Remove Basic Dreams Wallpaper
 # Galaxy                  # Remove Galaxy (also known as BlackHole) Wallpaper
-# Hexo                    # Remove Hexo Libre Theme
 # HoloSpiral              # Remove Holo Spiral Wallpaper
 # NoiseField              # Remove Noise Field Wallpaper
-# OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
 # Phasebeam               # Remove Phasebeam Wallpaper
 # PhotoPhase              # Remove Photo Phase Wallpaper
 # PhotoTable              # Remove Photo Table Wallpaper
+
 # Browser                 # Remove Stock Browser
 # CalculatorStock         # Remove Stock Calculator (automatically removed when Google Calculator is installed)
 # CalendarStock           # Remove Stock Calendar (automatically removed when Google Calendar is installed)
