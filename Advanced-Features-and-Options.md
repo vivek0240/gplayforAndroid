@@ -273,9 +273,14 @@ For example, to remove the Spare Parts app found in many ROMs, simply add `(Spar
 _**WARNING**: Because this feature gives you the ability to remove files that may be important to the proper function of your device, it is only recommended for very experienced users who know what they are doing._
 
 
+### Enable Google Assistant
+Open GApps can add `ro.opa.eligible_device=true` to the build.prop file, to enable Google Assistant. By default this feature is not enabled, but it can be activated by adding the `GoogleAssistant` keyword.
+If there is any line with `ro.opa.eligible_device` already in the build.prop it will NOT be overwritten.
+
+
 ### Force DPI Setting
 
-Open GApps normally selects the correct DPI-optimized app that suits your device, based on the information that is supplied by recovery and otherwise found in default.prop or build.prop. Sometimes one might want to override this DPI setting, e.g. for testing, in those situations the keyword `forcedpiXXX` can be used, where XXX is replaced with one of the [valid default DPIs](http://developer.android.com/reference/android/util/DisplayMetrics.html) including: 160, 240, 320, 480, 560 or 640.
+Open GApps normally selects the correct DPI-optimized app that suits your device, based on the information that is supplied by recovery and otherwise found in default.prop or build.prop. Sometimes one might want to override this DPI setting, e.g. for testing, in those situations the keyword `forcedpiXXX` can be used, where XXX is replaced with one of the [valid default DPIs](http://developer.android.com/reference/android/util/DisplayMetrics.html) including: 120, 160, 213, 240, 260, 280, 300, 320, 340, 360, 400, 420, 480, 560, 640 or nodpi.
 
 
 ### Force New Camera
