@@ -54,3 +54,7 @@ Welcome to the **Open GApps** wiki!
 * [Donate](http://opengapps.org/donate)
 * [[Get Involved]]
 * Spread the word!
+
+***
+
+###### Credit and Thanks to TKruzze @ xda-developers for his PA GApps and TK GApps OPs, upon which many of these wiki pages were originally built
