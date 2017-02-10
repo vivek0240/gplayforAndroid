@@ -251,6 +251,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # PicoTTS                 # Remove Stock PicoTTS
 # PrintServiceStock       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
 # SimToolKit              # Remove Stock SimToolKit
+# SnapdragonCamera        # Remove CAF Camera App, Snap
 # SoundRecorder           # Remove Stock Sound Recorder
 # MMS                     # Remove Stock SMS (automatically removed if Google Messenger and/or Hangouts is installed)
 # StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
