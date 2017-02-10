@@ -231,7 +231,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # Browser                 # Remove Stock Browser
 # CalculatorStock         # Remove Stock Calculator (automatically removed when Google Calculator is installed)
 # CalendarStock           # Remove Stock Calendar (automatically removed when Google Calendar is installed)
-# CameraStock             # Remove Stock Camera
+# CameraStock             # Remove Stock Camera (Including CAF's camera application, Snap)
 # ClockStock              # Remove Stock Desk Clock (automatically removed when Google Clock is installed)
 # Email                   # Remove Stock Email Client
 # ExchangeStock           # Remove Stock Exchange Services (automatically removed when Google Exchange Services is installed)
@@ -251,7 +251,6 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # PicoTTS                 # Remove Stock PicoTTS
 # PrintServiceStock       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
 # SimToolKit              # Remove Stock SimToolKit
-# SnapdragonCamera        # Remove CAF Camera App, Snap
 # SoundRecorder           # Remove Stock Sound Recorder
 # MMS                     # Remove Stock SMS (automatically removed if Google Messenger and/or Hangouts is installed)
 # StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
