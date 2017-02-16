@@ -218,6 +218,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # DashClock               # Remove DashClock Widget (found in certain ROMs)
 # Hexo                    # Remove Hexo Libre CM Theme
 # LRecorder               # Remove LineageOS Recorder
+# LSetupWizard            # Remove LineageOS Setup Wizard
 # OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
 
 # BasicDreams             # Remove Basic Dreams Wallpaper
