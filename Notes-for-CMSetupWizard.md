@@ -18,6 +18,10 @@ CyanogenMod 13 and LineageOS 13 or those based on them (the CM14+ codebase used 
 #### Patch
 *TODO*
 
+As for now LineageOS removed this in flavor of USER_SETUP_COMPLETE
+
+https://review.lineageos.org/#/q/branch:cm-14.1+CM_SETUP_WIZARD_COMPLETED
+
 ***
 #### References
 * [Discussion about not making CMSetupWizard removed by Open GApps default anymore](https://github.com/opengapps/opengapps/commit/ca0704182ac3c9f47d1ad4c5494500866ba42665)
