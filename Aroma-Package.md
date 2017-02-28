@@ -16,5 +16,8 @@ AROMA has some known issue, which varies by device and recovery version.
 ## OnePlus X (onyx)
 * Known broken TWRP versions: 3.0.2-0
 
+## Moto X 2014 (victara)
+* Known broken TWRP versions: 3.0.2-2 (crashes TWRP and forces reboot into system)
+
 ## Moto G (falcon)
 * Known broken TWRP versions: 3.0.0.1
