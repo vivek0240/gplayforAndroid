@@ -5,7 +5,7 @@ This package is designed for users who want the smallest Google footprint possib
 * **Google Search**
 * **Hotword**
 
-For 6.0 also:
+For +6.0 also:
 * Google Text-to-Speech
 
 Note: Bold apps mark the difference to smaller packages.
