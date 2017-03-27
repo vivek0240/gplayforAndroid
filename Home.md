@@ -1,6 +1,7 @@
 <div style="float: right">
 <img align="right" src="https://avatars.githubusercontent.com/u/12238733?s=400" alt="Open GApps" />
 </div>
+
 Welcome to the **Open GApps** wiki!
 
 ### General
@@ -57,4 +58,4 @@ Welcome to the **Open GApps** wiki!
 
 ***
 
-###### Credit and Thanks to TKruzze @ xda-developers for his PA GApps and TK GApps OPs, upon which many of these wiki pages were originally built
+###### Credit and Thanks to TKruzze @ xda-developers for his PA GApps OP, upon which many of these wiki pages were originally built
