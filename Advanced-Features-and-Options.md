@@ -26,6 +26,7 @@ The gapps-config file must be placed in one of the following folders:
  - the folder containing the Open GApps installer (takes precedence)
  - `/sdcard/Open-GApps`
  - `/persist`
+ - `/tmp/install`
 
 You can have a device-specific gapps-config file. You will need your device name, which you can find in `open_apps_log.txt` or in the name of your ROM download. The gapps-config file must be named one of the following:
 
