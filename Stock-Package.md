@@ -4,6 +4,7 @@ In this package you will find the core Google system base, Google Android Shared
 
 * Chrome Browser **_(replaces stock/AOSP Browser)_**
 * Cloud Print
+* Device Health Services
 * Gmail **_(replaces stock/AOSP Email)_**
 * Google+
 * Google Calculator _(replaces stock/AOSP Calculator)_
