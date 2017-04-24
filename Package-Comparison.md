@@ -8,6 +8,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  | \+  |  X  |  X  |
 |Google Package Installer |``PackageInstallerGoogle``|O|O|  O  |  O  |  O  |  O  |  O  |
 |Dialer Framework         |``DialerFramework``| X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|Device Health Services   |``BatteryUsage``  |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Face Detection for Media |``FaceDetect``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Face Unlock              |``FaceUnlock``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Off-line Speech Files    |``Speech``        |  X  |  X  |  X  |  X  |  X  |  X  |     |
@@ -74,5 +75,5 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 * X Installs application by default
 * O Replaces the Stock/AOSP version of the application by default
 * \+ Only installed if Google Calendar is NOT installed
-* 6.0 indicates that the application is also included in this Android 6.0 package
+* 6.0 indicates that the application is also included in this Android 6.0 and higher packages by default
 * Note that some applications are only available on higher Android versions or compatible hardware
