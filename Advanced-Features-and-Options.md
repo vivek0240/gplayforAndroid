@@ -93,7 +93,8 @@ GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on
 PackageInstallerGoogle # Install Google Package Installer
 
 # Nano+
-FaceDetect             # Install FaceUnlock
+BatteryUsage           # Install Device Health Services (7.1+)
+FaceDetect             # Install Face Detect library for photo apps
 FaceUnlock             # Install FaceUnlock
 Search                 # Install Google Search (including includes Hotword, excluding excludes GoogleNow and PixelLauncher)
 Speech                 # Install Offline Speech Files
