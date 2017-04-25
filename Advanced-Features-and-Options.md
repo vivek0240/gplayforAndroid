@@ -172,16 +172,15 @@ To prevent the automatic removal of the stock apps when using the Open GApps Sup
 
 ```sh
 +Browser       # Don't remove Stock Browser, even if Google Chrome is being installed
-+CalendarStock # Don't remove Stock Calendar, even if Google Calendar is being installed
 +CameraStock   # Don't remove Stock Camera, even if Google Camera is being installed
 +Email         # Don't remove Stock Email, even if Gmail is being installed
-+ExchangeStock # Don't remove Stock Exchange services, even if Google Exchange Services is being installed
 +Gallery       # Don't remove Stock Gallery, even if Google Photos is being installed
-+KeyboardStock # Don't remove Stock Keyboard, even if Google Keyboard is being installed
 +Launcher      # Don't remove Stock Launchers, even if Google Now Launcher is being installed
 +MMS           # Don't remove Stock SMS app, even if Hangouts or Messenger is being installed
 +PicoTTS       # Don't remove PicoTTS, even if GoogleTTS is being installed
 ```
+
+*(At the moment these are the only apps on which this feature works.)*
 
 
 ### Remove Stock apps
