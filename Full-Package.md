@@ -29,7 +29,6 @@ In this package you will find the core Google system base, Google Android Shared
 * **Google Slides**
 * Google Text-to-Speech
 * Hangouts
-* Hotword
 * Maps
 * Photos
 * **TalkBack**
