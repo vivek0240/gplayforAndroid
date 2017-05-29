@@ -9,6 +9,5 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Search
 * Google Text-to-Speech
 * **Gmail**
-* Hotword
 
 Note: Bold apps mark the difference to smaller packages.
