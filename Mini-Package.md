@@ -13,7 +13,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Text-to-Speech
 * Gmail
 * **Hangouts**
-* Hotword
 * **Maps**
 * **Photos**
 * **YouTube**
