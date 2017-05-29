@@ -96,9 +96,8 @@ PackageInstallerGoogle # Install Google Package Installer
 BatteryUsage           # Install Device Health Services (7.1+)
 FaceDetect             # Install Face Detect library for photo apps
 FaceUnlock             # Install FaceUnlock
-Search                 # Install Google Search (including includes Hotword, excluding excludes GoogleNow and PixelLauncher)
+Search                 # Install Google Search (excluding excludes GoogleNow and PixelLauncher)
 Speech                 # Install Offline Speech Files
-Hotword                # Install OK Google Hotword Enrollment
 
 # Micro+
 Gmail                  # Install Gmail
