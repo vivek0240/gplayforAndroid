@@ -37,7 +37,6 @@ In this package you will find the core Google system base, Google Android Shared
 * **Google VR Services**
 * **Google WebView _(replaces stock/AOSP WebView)_**
 * Hangouts **_(replaces stock/AOSP SMS App)_**
-* Hotword
 * Maps
 * **Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_**
 * **Pixel Icons**
