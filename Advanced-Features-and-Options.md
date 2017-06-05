@@ -137,6 +137,7 @@ Talkback               # Install Google TalkBack
 CameraGoogle           # Install Google Camera
 ContactsGoogle         # Install Google Contacts
 DialerGoogle           # Install Google Dialer
+Duo                    # Install Google Duo
 KeyboardGoogle         # Install Google Keyboard
 Messenger              # Install Google Messenger (except on tablet devices)
 PixelIcons             # Install Google Pixel Icons
