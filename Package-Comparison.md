@@ -46,6 +46,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Camera¹           |``CameraGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Contacts¹         |``ContactsGoogle``|  O  |  O  |     |     |     |     |     |
 |Google Dialer¹²          |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
+|Google Duo               |``Duo``           |  X  |  X  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
 |Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
 |Google Print Service Recommendation Service|``PrintServiceGoogle``|O|O||| |     |     |
