@@ -15,6 +15,7 @@ In this package you will find the core Google system base, Google Android Shared
 * **Google Dialer _(replaces stock/AOSP Dialer)_**
 * Google Docs
 * Google Drive
+* **Google Duo**
 * Google Fitness
 * Google Keep
 * **Google Keyboard _(replaces stock/AOSP Keyboard)_**
