@@ -1,6 +1,7 @@
 This package is designed for those who use limited Google apps or prefer to install apps on their own.
 In this package you will find the core Google system base, Google Android Shared Services, off-line speech files, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Face Detection for Media, Face Unlock, Dialer Framework and the following Play Store applications:
 
+* **Android Messages _(not installed on tablet devices) (replaces stock/AOSP SMS App)_**
 * Device Health Services
 * **Google Calculator _(replaces stock/AOSP Calculator)_**
 * Google Calendar _(replaces stock/AOSP Calendar)_
@@ -12,7 +13,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Search
 * Google Text-to-Speech
 * Gmail
-* **Hangouts**
 * **Maps**
 * **Photos**
 * **YouTube**
