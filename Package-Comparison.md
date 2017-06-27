@@ -20,9 +20,9 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Now Launcher²     |``GoogleNow``     |  O  |  O  |  X  |  X  |  X  |     |     |
 |Google Text-to-Speech    |``GoogleTTS``     |  O  |  O  |  X  |  X  |  X  | 6.0 | 6.0 |
 |Gmail                    |``Gmail``         |  O  |  O  |  X  |  X  |  X  |     |     |
+|Android Messages¹        |``Messenger``     |  X  |  X  |  O  |  O  |     |     |     |
 |Google Calculator¹       |``CalculatorGoogle``|O  |  O  |  O  |  O  |     |     |     |
 |Google Desk Clock¹       |``ClockGoogle``   |  O  |  O  |  O  |  O  |     |     |     |
-|Hangouts                 |``Hangouts``      |  O  |  O  |  X  |  X  |     |     |     |
 |Google Maps              |``Maps``          |  X  |  X  |  X  |  X  |     |     |     |
 |Google Photos            |``Photos``        |  O  |  O  |  X  |  X  |     |     |     |
 |Google NFC Tags¹         |``TagGoogle``     |  O  |  O  |  O  |  O  |     |     |     |
@@ -48,11 +48,11 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Dialer¹²          |``DialerGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Duo               |``Duo``           |  X  |  X  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
-|Messenger¹               |``Messenger``     |  O  |  O  |     |     |     |     |     |
 |Google Print Service Recommendation Service|``PrintServiceGoogle``|O|O||| |     |     |
 |Google Storage Manager   |``StorageManagerGoogle``|O|O  |     |     |     |     |     |
 |Google VR Services       |``VRService``     |  X  |  X  |     |     |     |     |     |
 |Google WebView¹|``WebViewGoogle`` ``WebViewStub``³|O|O  |     |     |     |     |     |
+|Hangouts                 |``Hangouts``      |  O  |  O  |     |     |     |     |     |
 |Pixel Icons              |``PixelIcons``    |  X  |  X  |     |     |     |     |     |
 |Pixel Launcher²          |``PixelLauncher`` |  O  |  O  |     |     |     |     |     |
 |Wallpapers               |``Wallpapers``    |  X  |  X  |     |     |     |     |     |
