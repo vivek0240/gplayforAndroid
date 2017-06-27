@@ -110,10 +110,10 @@ GoogleNow              # Install Google Now Launcher (requires Search)
 CalculatorGoogle       # Install Google Calculator
 ClockGoogle            # Install Google Clock
 Maps                   # Install Google Maps
+Messenger              # Install Android Messages (except on tablet devices)
 TagGoogle              # Install Google NFC Tags
 Photos                 # Install Google Photos
 GooglePlus             # Install Google+
-Hangouts               # Install Hangouts
 YouTube                # Install YouTube
 
 # Full+
@@ -138,8 +138,8 @@ CameraGoogle           # Install Google Camera
 ContactsGoogle         # Install Google Contacts
 DialerGoogle           # Install Google Dialer
 Duo                    # Install Google Duo
+Hangouts               # Install Hangouts
 KeyboardGoogle         # Install Google Keyboard
-Messenger              # Install Google Messenger (except on tablet devices)
 PixelIcons             # Install Google Pixel Icons
 StorageManagerGoogle   # Install Google Storage Manager
 VRService              # Install Google VR Services
@@ -166,7 +166,7 @@ ProjectFi              # Install Project Fi by Google
 
 ### Prevent automatic Stock removals
 
-When installing a Google app that can replace a stock app, the stock app is automatically removed. For example, if you are installing Hangouts or Messenger, then the Stock SMS app will automatically be removed.
+When installing a Google app that can replace a stock app, the stock app is automatically removed. For example, if you are installing Android Messages, then the Stock SMS app will automatically be removed.
 
 To prevent the automatic removal of the stock apps when using the Open GApps Super/Stock package, type the keyword option preceded by a '+' as shown below:
 
@@ -176,7 +176,7 @@ To prevent the automatic removal of the stock apps when using the Open GApps Sup
 +Email         # Don't remove Stock Email, even if Gmail is being installed
 +Gallery       # Don't remove Stock Gallery, even if Google Photos is being installed
 +Launcher      # Don't remove Stock Launchers, even if Google Now Launcher is being installed
-+MMS           # Don't remove Stock SMS app, even if Hangouts or Messenger is being installed
++MMS           # Don't remove Stock SMS app, even if Android Messages is being installed
 +PicoTTS       # Don't remove PicoTTS, even if GoogleTTS is being installed
 ```
 
@@ -254,7 +254,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # PrintServiceStock       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
 # SimToolKit              # Remove Stock SimToolKit
 # SoundRecorder           # Remove Stock Sound Recorder
-# MMS                     # Remove Stock SMS (automatically removed if Google Messenger and/or Hangouts is installed)
+# MMS                     # Remove Stock SMS (automatically removed if Android Messages is installed)
 # StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
 # Terminal                # Remove Stock Terminal
 # Themes                  # Remove Stock Theme Engine (will break the Settings Entry and can cause unexpected reboots on some ROMs)
@@ -329,6 +329,7 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
 
 ## Links to GApps on the Play Store
 
+ - [Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
  - [Android Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
  - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
  - [Google Apps Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.enterprise.dmagent)
@@ -351,7 +352,6 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
  - [Google Korean Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.korean)
  - [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
- - [Google Messenger](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
  - [Google News & Weather](https://play.google.com/store/apps/details?id=com.google.android.apps.genie.geniewidget)
  - [Google Now Launcher](https://play.google.com/store/apps/details?id=com.google.android.launcher)
  - [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
