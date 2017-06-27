@@ -2,6 +2,7 @@ This package is recommended for most users of current generation devices (legacy
 
 In this package you will find the core Google system base, Google Android Shared Services, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
+* Android Messages _(not installed on tablet devices) **(replaces stock/AOSP SMS App)**_
 * Chrome Browser **_(replaces stock/AOSP Browser)_**
 * Cloud Print
 * Device Health Services
@@ -37,7 +38,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Text-to-Speech **_(replaces stock/AOSP Pico TTS)_**
 * **Google VR Services**
 * **Google WebView _(replaces stock/AOSP WebView)_**
-* Hangouts **_(replaces stock/AOSP SMS App)_**
+* **Hangouts**
 * Maps
 * **Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_**
 * **Pixel Icons**
