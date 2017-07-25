@@ -28,7 +28,7 @@ The gapps-config file must be placed in one of the following folders:
  - `/persist`
  - `/tmp/install`
 
-You can have a device-specific gapps-config file. You will need your device name, which you can find in `open_apps_log.txt` or in the name of your ROM download. The gapps-config file must be named one of the following:
+You can have a device-specific gapps-config file. You will need your device name, which you can find in `open_gapps_log.txt` or in the name of your ROM download. The gapps-config file must be named one of the following:
 
  - `.gapps-config-DEVICENAME`
  - `gapps-config-DEVICENAME.txt`
