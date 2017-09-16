@@ -4,7 +4,7 @@ This package has a [dedicated thread at XDA](http://forum.xda-developers.com/and
 Screenshots of each step of the installation process are located [here](http://imgur.com/a/gBfR6)
 
 # Issues
-AROMA has some known issue, which varies by device and recovery version.
+AROMA has some known issues, which vary by device and recovery version.
 
 ## Galaxy S5 (ktle)
 * Known broken TWRP versions: 3.0.2-2 (Crashes TWRP), 2.8.4.0 (Doesn't install everything you select)
