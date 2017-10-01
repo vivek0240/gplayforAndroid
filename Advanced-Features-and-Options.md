@@ -331,6 +331,7 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
 
  - [Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
  - [Android Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
+ - [Exchange Services](https://play.google.com/store/apps/details?id=com.google.android.gm.exchange)
  - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
  - [Google Apps Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.enterprise.dmagent)
  - [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)
@@ -342,6 +343,7 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google Connectivity Services](https://play.google.com/store/apps/details?id=com.google.android.apps.gcs)
  - [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
  - [Google Dialer](https://play.google.com/store/apps/details?id=com.google.android.dialer)
+ - [Google Duo](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon)
  - [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
  - [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
  - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth)
@@ -368,6 +370,7 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google TalkBack](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)
  - [Google Text-to-Speech](https://play.google.com/store/apps/details?id=com.google.android.tts)
  - [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+ - [Google VR Services](https://play.google.com/store/apps/details?id=com.google.vr.vrcore)
  - [Google Webview Stub](https://play.google.com/store/apps/details?id=com.google.android.webview)
  - [Google Webview](https://play.google.com/store/apps/details?id=com.google.android.webview)
  - [Google Zhuyin Input](https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.zhuyin)
