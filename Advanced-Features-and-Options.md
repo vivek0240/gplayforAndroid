@@ -220,6 +220,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # Hexo                    # Remove Hexo Libre CM Theme
 # LRecorder               # Remove LineageOS Recorder
 # LSetupWizard            # Remove LineageOS Setup Wizard
+# LUpdater                # Remove LineageOS Updater
 # OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
 
 # BasicDreams             # Remove Basic Dreams Wallpaper
