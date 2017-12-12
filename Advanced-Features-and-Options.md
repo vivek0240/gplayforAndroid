@@ -195,6 +195,7 @@ Here are the vendors we support. Since different vendors use different names for
  - Flux
  - FlymeOS (BrowserIntl, Browser, CustomizeCenter, EasyLauncher, FileManager, FlymeLauncherIntl, FlymeLauncher, MzMPay, MzPay, MzInput, MzSetupWizard, MzUpdate, SystemUpdate, SystemUpdateAssistant, Weather)
  - Lenovo (packageinstaller)
+ - LineageOS
  - Miui
  - MoKee (Nox launcher, YuBrowser)
  - Motorola
