@@ -56,7 +56,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Pixel Icons              |``PixelIcons``    |  X  |  X  |     |     |     |     |     |
 |Pixel Launcher²          |``PixelLauncher`` |  O  |  O  |     |     |     |     |     |
 |Wallpapers               |``Wallpapers``    |  X  |  X  |     |     |     |     |     |
-|Google Pay               |``Google Pay``    |  X  |     |     |     |     |     |     |
+|Google Pay               |``GooglePay``     |  X  |     |     |     |     |     |     |
 |Google Apps Device Policy|``DMAgent``       |  X  |     |     |     |     |     |     |
 |Google Connectivity Services|``GCS``        |  X  |     |     |     |     |     |     |
 |Google Earth             |``Earth``         |  X  |     |     |     |     |     |     |
