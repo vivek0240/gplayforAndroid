@@ -149,7 +149,7 @@ PrintServiceGoogle     # Install Print Service Recommendation Service
 Wallpapers             # Install Wallpapers
 
 # Super+
-AndroidPay             # Install Android Pay
+GooglePay              # Install Google Pay
 DMAgent                # Install Google Apps Device Policy
 GCS                    # Install Google Connectivity Services (excluding also excludes ProjectFi)
 Earth                  # Install Google Earth
@@ -223,6 +223,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # LSetupWizard            # Remove LineageOS Setup Wizard
 # LUpdater                # Remove LineageOS Updater
 # OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
+# Logcat                  # Remove OmniROM MatLog
 
 # BasicDreams             # Remove Basic Dreams Wallpaper
 # Galaxy                  # Remove Galaxy (also known as BlackHole) Wallpaper
