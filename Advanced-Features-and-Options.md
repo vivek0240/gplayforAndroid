@@ -333,7 +333,6 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
 ## Links to GApps on the Play Store
 
  - [Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
- - [Android Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
  - [Exchange Services](https://play.google.com/store/apps/details?id=com.google.android.gm.exchange)
  - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
  - [Google Apps Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.enterprise.dmagent)
@@ -359,6 +358,7 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
  - [Google News & Weather](https://play.google.com/store/apps/details?id=com.google.android.apps.genie.geniewidget)
  - [Google Now Launcher](https://play.google.com/store/apps/details?id=com.google.android.launcher)
+ - [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
  - [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
  - [Google Pinyin Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.pinyin)
  - [Google Play Books](https://play.google.com/store/apps/details?id=com.google.android.apps.books)
