@@ -149,6 +149,7 @@ PrintServiceGoogle     # Install Print Service Recommendation Service
 Wallpapers             # Install Wallpapers
 
 # Super+
+CarrierServices        # Install Carrier Services
 GooglePay              # Install Google Pay
 DMAgent                # Install Google Apps Device Policy
 GCS                    # Install Google Connectivity Services (excluding also excludes ProjectFi)
