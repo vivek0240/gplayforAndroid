@@ -335,6 +335,7 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
 
  - [Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
  - [Exchange Services](https://play.google.com/store/apps/details?id=com.google.android.gm.exchange)
+ - [Carrier Services] (https://play.google.com/store/apps/details?id=com.google.android.ims)
  - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
  - [Google Apps Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.enterprise.dmagent)
  - [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)
