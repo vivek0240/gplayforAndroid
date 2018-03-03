@@ -259,6 +259,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # SoundRecorder           # Remove Stock Sound Recorder
 # StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
 # Studio                  # Remove Stock Movie Studio
+# SykoPath                # Remove SykoPath Layers Manager (found in certain ROMs)
 # TagStock                # Remove Stock NFC Tags (automatically removed when Google NFC Tags is installed)
 # Terminal                # Remove Stock Terminal
 # Themes                  # Remove Stock Theme Engine (will break the Settings Entry and can cause unexpected reboots on some ROMs)
