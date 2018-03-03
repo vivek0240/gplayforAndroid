@@ -87,8 +87,8 @@ To use this feature, add the the keyword for each app you want to Include/Exclud
 Include
 
 # Pico+
-DialerFramework        # Install Dialer Framework
 CalSync                # Install Google Calendar Sync (except if Google Calendar is being installed)
+DialerFramework        # Install Dialer Framework
 GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on 6.0+)
 PackageInstallerGoogle # Install Google Package Installer
 
@@ -100,35 +100,35 @@ Search                 # Install Google Search (excluding excludes GoogleNow and
 Speech                 # Install Offline Speech Files
 
 # Micro+
-Gmail                  # Install Gmail
 CalendarGoogle         # Install Google Calendar
 ExchangeGoogle         # Install Google Exchange Services
+Gmail                  # Install Gmail
 GoogleNow              # Install Google Now Launcher (requires Search)
 # GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on 6.0+)
 
 # Mini+
 CalculatorGoogle       # Install Google Calculator
 ClockGoogle            # Install Google Clock
+GooglePlus             # Install Google+
 Maps                   # Install Google Maps
 Messenger              # Install Android Messages (except on tablet devices)
-TagGoogle              # Install Google NFC Tags
 Photos                 # Install Google Photos
-GooglePlus             # Install Google+
+TagGoogle              # Install Google NFC Tags
 YouTube                # Install YouTube
 
 # Full+
+Books                  # Install Google Play Books
 Chrome                 # Install Google Chrome Browser
 CloudPrint             # Install Google Cloud Print
 Docs                   # Install Google Docs
 Drive                  # Install Google Drive
 Fitness                # Install Google Fit
 Keep                   # Install Google Keep
-NewsWidget             # Install Google News & Weather
-Books                  # Install Google Play Books
-PlayGames              # Install Google Play Games
 Movies                 # Install Google Play Movies & TV
 Music                  # Install Google Play Music
 NewsStand              # Install Google Play Newsstand
+NewsWidget             # Install Google News & Weather
+PlayGames              # Install Google Play Games
 Sheets                 # Install Google Sheets
 Slides                 # Install Google Slides
 Talkback               # Install Google TalkBack
@@ -141,27 +141,27 @@ Duo                    # Install Google Duo
 Hangouts               # Install Hangouts
 KeyboardGoogle         # Install Google Keyboard
 PixelIcons             # Install Google Pixel Icons
-StorageManagerGoogle   # Install Google Storage Manager
-VRService              # Install Google VR Services
-WebViewGoogle          # Install Google Webview
 PixelLauncher          # Install Pixel Launcher (requires Search and Wallpapers)
 PrintServiceGoogle     # Install Print Service Recommendation Service
+StorageManagerGoogle   # Install Google Storage Manager
+VRService              # Install Google VR Services
 Wallpapers             # Install Wallpapers
+WebViewGoogle          # Install Google Webview
 
 # Super+
 CarrierServices        # Install Carrier Services
-GooglePay              # Install Google Pay
 DMAgent                # Install Google Apps Device Policy
-GCS                    # Install Google Connectivity Services (excluding also excludes ProjectFi)
 Earth                  # Install Google Earth
+GCS                    # Install Google Connectivity Services (excluding also excludes ProjectFi)
+GooglePay              # Install Google Pay
 Indic                  # Install Google Indic Keyboard
 Japanese               # Install Google Japanese Input
 Korean                 # Install Google Korean Input
 Pinyin                 # Install Google Pinyin Input
+ProjectFi              # Install Project Fi by Google
 Street                 # Install Google Street View
 Translate              # Install Google Translate
 Zhuyin                 # Install Google Zhuyin Input
-ProjectFi              # Install Project Fi by Google
 ```
 
 
@@ -208,8 +208,8 @@ To use this feature, add the the keyword for each stock app you want removed, in
 ```sh
 # Remove apps (uncomment a line to remove the app)
 # CMAccount               # Remove CM Account
-# CMBugReport             # Remove CM Bug Report
 # CMAudioFX               # Remove CM AudioFX
+# CMBugReport             # Remove CM Bug Report
 # CMFileManager           # Remove CM File Manager
 # CMMusic                 # Remove CM Music
 # CMScreenCast            # Remove CM ScreenCast
@@ -223,8 +223,8 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # LRecorder               # Remove LineageOS Recorder
 # LSetupWizard            # Remove LineageOS Setup Wizard
 # LUpdater                # Remove LineageOS Updater
-# OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
 # Logcat                  # Remove OmniROM MatLog
+# OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
 
 # BasicDreams             # Remove Basic Dreams Wallpaper
 # Galaxy                  # Remove Galaxy (also known as BlackHole) Wallpaper
@@ -241,25 +241,25 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # ClockStock              # Remove Stock Desk Clock (automatically removed when Google Clock is installed)
 # Email                   # Remove Stock Email Client
 # ExchangeStock           # Remove Stock Exchange Services (automatically removed when Google Exchange Services is installed)
-# MzFileManager           # Remove Stock FlymeOS File Manager
-# MzPay                   # Remove Stock FlymeOS Pay system (because MzPay services works only in China)
-# MzSetupWizard           # Remove Stock FlymeOS SetupWizard
-# MzUpdater               # Remove Stock FlymeOS Updaters
-# MzWeather               # Remove Stock FlymeOS Weather (because MzWeather service work only in China)
 # FMRadio                 # Remove Stock FM Radio (not found on all devices or ROMs)
 # Gallery                 # Remove Stock Gallery
 # KeyboardStock           # Remove Stock Keyboard (automatically removed when Google Keyboard is installed)
 # Launcher                # Remove Stock Launcher(s)
 # LiveWallpapers          # Remove Stock Live Wallpapers
 # LockClock               # Remove Stock Lockscreen Clock Widget
-# Studio                  # Remove Stock Movie Studio
-# TagStock                # Remove Stock NFC Tags (automatically removed when Google NFC Tags is installed)
+# MMS                     # Remove Stock SMS (automatically removed if Android Messages is installed)
+# MzFileManager           # Remove Stock FlymeOS File Manager
+# MzPay                   # Remove Stock FlymeOS Pay system (because MzPay services works only in China)
+# MzSetupWizard           # Remove Stock FlymeOS SetupWizard
+# MzUpdater               # Remove Stock FlymeOS Updaters
+# MzWeather               # Remove Stock FlymeOS Weather (because MzWeather service work only in China)
 # PicoTTS                 # Remove Stock PicoTTS
 # PrintServiceStock       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
 # SimToolKit              # Remove Stock SimToolKit
 # SoundRecorder           # Remove Stock Sound Recorder
-# MMS                     # Remove Stock SMS (automatically removed if Android Messages is installed)
 # StorageManagerStock     # Remove Stock Storage Manager (automatically removed when Google Storage Manager is installed)
+# Studio                  # Remove Stock Movie Studio
+# TagStock                # Remove Stock NFC Tags (automatically removed when Google NFC Tags is installed)
 # Terminal                # Remove Stock Terminal
 # Themes                  # Remove Stock Theme Engine (will break the Settings Entry and can cause unexpected reboots on some ROMs)
 # VisualizationWallpapers # Remove Stock Visualization Wallpapers
