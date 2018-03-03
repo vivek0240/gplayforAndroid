@@ -242,17 +242,17 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # Email                   # Remove Stock Email Client
 # ExchangeStock           # Remove Stock Exchange Services (automatically removed when Google Exchange Services is installed)
 # FMRadio                 # Remove Stock FM Radio (not found on all devices or ROMs)
-# Gallery                 # Remove Stock Gallery
+# Gallery                 # Remove Stock Gallery (automatically removed when Google Photos is installed)
 # KeyboardStock           # Remove Stock Keyboard (automatically removed when Google Keyboard is installed)
 # Launcher                # Remove Stock Launcher(s)
 # LiveWallpapers          # Remove Stock Live Wallpapers
 # LockClock               # Remove Stock Lockscreen Clock Widget
 # MMS                     # Remove Stock SMS (automatically removed if Android Messages is installed)
 # MzFileManager           # Remove Stock FlymeOS File Manager
-# MzPay                   # Remove Stock FlymeOS Pay system (because MzPay services works only in China)
+# MzPay                   # Remove Stock FlymeOS Pay system (this service is only available in China)
 # MzSetupWizard           # Remove Stock FlymeOS SetupWizard
-# MzUpdater               # Remove Stock FlymeOS Updaters
-# MzWeather               # Remove Stock FlymeOS Weather (because MzWeather service work only in China)
+# MzUpdater               # Remove Stock FlymeOS Updater
+# MzWeather               # Remove Stock FlymeOS Weather (this service is only available in China)
 # PicoTTS                 # Remove Stock PicoTTS
 # PrintServiceStock       # Remove Stock Print Service Recommendation Service (automatically removed when Google Print Service Recommendation Service is installed)
 # SimToolKit              # Remove Stock SimToolKit
