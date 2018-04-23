@@ -43,7 +43,7 @@ In this package you will find the core Google system base, Google Android Shared
 * **Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_**
 * **Pixel Icons**
 * **Pixel Launcher _(replaces stock/AOSP Launcher)_**
-* Photos **_(replaces stock/AOSP Gallery)_**
+* Google Photos **_(replaces stock/AOSP Gallery)_**
 * TalkBack
 * **Wallpapers**
 * YouTube
