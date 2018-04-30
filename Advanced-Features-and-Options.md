@@ -14,8 +14,6 @@ The gapps-config file allows for these kinds of customizations and more:
 
 ## gapps-config file location
 
-You can place the gapps-config file in `/sdcard/Open-GApps/gapps-config.txt`, or in 11 other locations as follows.
-
 The gapps-config file must be named one of the following:
 
  - `.gapps-config` (takes precedence)
