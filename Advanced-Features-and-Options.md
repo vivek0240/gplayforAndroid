@@ -57,11 +57,11 @@ By default, the installer will generate Debug Logs that can help the devs troubl
 
 
 ## Configuring your installation
-By default (without a config file), the installation script will first install all previously installed Google Apps and then install every app in the GApps package that is installed. In addition, the installation will remove stock apps that are replaced by the installed GApps. There are several options available to alter and extend this behaviour.
+By default (without a config file), the installation script will first remove all previously installed Google Apps and then install every app that is to be installed from the GApps package . In addition, the installation will remove the stock apps that are replaced by their GApp-counterpart, unless configured not to. There are several options available to alter and extend this behaviour.
 
 ### Downsizing
 
-You can transform any GApps package into one of its "little brothers" by adding one of the following keywords to your gapps-config. This will transform ALL INSTALLER BEHAVIOUR (including default removals AND applications available for install) -- effectively turning it into the smaller GApps package. **[TODO: Add here whether or not you can still use other entries in the config file] **
+You can transform any GApps package into one of its "little brothers" by adding one of the following keywords to your gapps-config. This will transform ALL INSTALLER BEHAVIOUR (including default removals AND applications available for install) -- effectively turning it into the smaller GApps package. **[TODO: Add here whether or not you can still use other entries in the config file after downsizing] **
 
 Valid keyword options are:
 
