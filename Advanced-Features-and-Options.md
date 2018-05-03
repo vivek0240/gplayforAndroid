@@ -109,7 +109,6 @@ GoogleNow              # Install Google Now Launcher (requires Search)
 # Mini+
 CalculatorGoogle       # Install Google Calculator
 ClockGoogle            # Install Google Clock
-GooglePlus             # Install Google+
 Maps                   # Install Google Maps
 Messenger              # Install Android Messages (except on tablet devices)
 Photos                 # Install Google Photos
@@ -123,6 +122,7 @@ CloudPrint             # Install Google Cloud Print
 Docs                   # Install Google Docs
 Drive                  # Install Google Drive
 Fitness                # Install Google Fit
+GooglePlus             # Install Google+
 Keep                   # Install Google Keep
 Movies                 # Install Google Play Movies & TV
 Music                  # Install Google Play Music
