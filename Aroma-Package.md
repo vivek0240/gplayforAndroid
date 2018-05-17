@@ -6,8 +6,8 @@ Screenshots of each step of the installation process are located [here](http://i
 # Issues
 AROMA has some known issues, which vary by device and recovery version.
 
-## Galaxy S5 (ktle)
-* Known broken TWRP versions: 3.0.2-2 (Crashes TWRP), 2.8.4.0 (Doesn't install everything you select)
+## Galaxy S5 (klte)
+* Known broken TWRP versions: 3.2.1 (Crashes TWRP), 3.0.2-2 (Crashes TWRP), 2.8.4.0 (Doesn't install everything you select)
 
 ## OnePlus One (bacon)
 * Known working TWRP versions: 2.8.4.0 
