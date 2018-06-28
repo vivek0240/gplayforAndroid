@@ -1,6 +1,6 @@
 Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]]
 
-|Application Name    |gapps-config keyword|[[Super\|Super Package]]|[[Stock\|Stock Package]]|[[Full\|Full Package]]|[[Mini\|Mini Package]]|[[Micro\|Micro Package]]|[[Nano\|Nano Package]]|[[Pico\|Pico Package]]|
+|Application Name    |gapps-config keyword|s<br>u<br>p<br>e<br>r|s<br>t<br>o<br>c<br>k|f<br>u<br>l<br>l|m<br>i<br>n<br>i|m<br>i<br>c<br>r<br>o|n<br>a<br>n<br>o|p<br>i<br>c<br>o|
 |------------------------:|:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Google System Base       |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
