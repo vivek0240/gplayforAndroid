@@ -1,6 +1,6 @@
 Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]]
 
-|Application Name    |gapps-config keyword|[[s<br>u<br>p<br>e<br>r\|Super Package]]|s<br>t<br>o<br>c<br>k|f<br>u<br>l<br>l|m<br>i<br>n<br>i|m<br>i<br>c<br>r<br>o|n<br>a<br>n<br>o|p<br>i<br>c<br>o|
+|Application Name    |gapps-config keyword|s<br>u<br>p<br>e<br>r[[link\|Super Package]]|s<br>t<br>o<br>c<br>k|f<br>u<br>l<br>l|m<br>i<br>n<br>i|m<br>i<br>c<br>r<br>o|n<br>a<br>n<br>o|p<br>i<br>c<br>o|
 |------------------------:|:-----------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |Google System Base       |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Play Store        |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
