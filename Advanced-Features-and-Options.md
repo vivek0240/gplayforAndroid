@@ -174,6 +174,7 @@ To prevent the automatic removal of the stock apps when using the Open GApps Sup
 ```sh
 +Browser       # Don't remove Stock Browser, even if Google Chrome is being installed
 +CameraStock   # Don't remove Stock Camera, even if Google Camera is being installed
++DialerStock   # Don't remove Stock Dialer, even if Google Dialer is being installed
 +Email         # Don't remove Stock Email, even if Gmail is being installed
 +Gallery       # Don't remove Stock Gallery, even if Google Photos is being installed
 +Launcher      # Don't remove Stock Launchers, even if Google Now Launcher is being installed
