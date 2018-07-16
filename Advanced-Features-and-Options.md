@@ -163,7 +163,7 @@ Street                 # Install Google Street View
 Translate              # Install Google Translate
 Zhuyin                 # Install Google Zhuyin Input
 ```
-**WARNING:** By default, installing `DialerGoogle` will remove the stock Dialer app and render the UI when placing emergency calls to not show on Android 8.0+ custom ROMs. To fix this, add `+DialerStock` to your gapps-config file to prevent the stock Dialer from being removed, even when installing Google Dialer. See [Prevent Automatic Stock Removals](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options#prevent-automatic-stock-removals) for more details.
+**WARNING:** By default, installing `DialerGoogle` will remove the stock Dialer app and render the UI when placing emergency calls to not show on Android 8.0+ custom ROMs. **Starting with builds newer than July 6th, 2018**, to fix this issue, add `+DialerStock` to your gapps-config file to prevent the stock Dialer from being removed, even when installing Google Dialer. See [Prevent Automatic Stock Removals](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options#prevent-automatic-stock-removals) for more details.
 
 ### Prevent automatic Stock removals
 
