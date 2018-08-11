@@ -104,7 +104,7 @@ CalendarGoogle         # Install Google Calendar
 ExchangeGoogle         # Install Google Exchange Services
 Gmail                  # Install Gmail
 GoogleNow              # Install Google Now Launcher (requires Search)
-# GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on 6.0+)
+GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on 6.0+)
 
 # Mini+
 CalculatorGoogle       # Install Google Calculator
