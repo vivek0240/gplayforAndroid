@@ -1,1 +1,0 @@
-https://github.com/opengapps/opengapps.wiki.git
