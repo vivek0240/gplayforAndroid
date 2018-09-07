@@ -149,6 +149,8 @@ Wallpapers             # Install Wallpapers
 WebViewGoogle          # Install Google Webview
 
 # Super+
+ActionsServices        # Install Actions Services (9.0+)
+BetterTogether         # Install Better Together (9.0+)
 CarrierServices        # Install Carrier Services
 DMAgent                # Install Google Apps Device Policy
 Earth                  # Install Google Earth
