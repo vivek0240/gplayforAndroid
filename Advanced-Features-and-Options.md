@@ -223,16 +223,12 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # CMWallpapers            # Remove CM Wallpapers
 # CMWeatherProvider       # Remove CM Weather Underground
 
-# Bolt                    # Remove CypherOS Bolt Browser
-# CameraX                 # Remove CypherOS Camera
 # DashClock               # Remove DashClock Widget (found in certain ROMs)
-# GalleryX                # Remove CypherOS Gallery
 # Hexo                    # Remove Hexo Libre CM Theme
 # LRecorder               # Remove LineageOS Recorder
 # LSetupWizard            # Remove LineageOS Setup Wizard
 # LUpdater                # Remove LineageOS Updater
 # Logcat                  # Remove OmniROM MatLog
-# MusicX                  # Remove CypherOS Music Player
 # OmniSwitch              # Remove OmniSwitch recent apps switcher replacement
 
 # BasicDreams             # Remove Basic Dreams Wallpaper
