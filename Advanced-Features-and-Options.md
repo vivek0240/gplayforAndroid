@@ -182,6 +182,7 @@ To prevent the automatic removal of the stock apps when using the Open GApps Sup
 +Launcher      # Don't remove Stock Launchers, even if Google Now Launcher is being installed
 +MMS           # Don't remove Stock SMS app, even if Android Messages is being installed
 +PicoTTS       # Don't remove PicoTTS, even if GoogleTTS is being installed
++WebViewStock  # Don't remove Stock WebView
 ```
 
 *(At the moment these are the only apps on which this feature works.)*
