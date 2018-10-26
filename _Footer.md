@@ -1,3 +1,4 @@
 ***
--- [DOWNLOAD](https://opengapps.org/#downloadsection) -- [SUPPORT](https://opengapps.org/#supportsection) -- [ABOUT](https://opengapps.org/#aboutsection) --
+### OpenGApps
+[**Download**](https://opengapps.org/#downloadsection) / [**Support**](https://opengapps.org/#supportsection) / [**About**](https://opengapps.org/#aboutsection)
 ***
