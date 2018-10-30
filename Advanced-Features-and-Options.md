@@ -128,7 +128,6 @@ Keep                   # Install Google Keep
 Movies                 # Install Google Play Movies & TV
 Music                  # Install Google Play Music
 NewsStand              # Install Google News
-NewsWidget             # Install Google News & Weather
 PlayGames              # Install Google Play Games
 Sheets                 # Install Google Sheets
 Slides                 # Install Google Slides
