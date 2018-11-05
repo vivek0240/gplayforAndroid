@@ -88,82 +88,85 @@ To use this feature, add the the keyword for each app you want to Include/Exclud
 Include
 
 # Pico+
-CalSync                # Install Google Calendar Sync (except if Google Calendar is being installed)
-DialerFramework        # Install Dialer Framework
-GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on 6.0+)
-PackageInstallerGoogle # Install Google Package Installer
+CalSync                 # Install Google Calendar Sync (if Google Calendar is being installed)
+DialerFramework         # Install Dialer Framework (Android 6.0+)
+GoogleTTS               # Install Google Text-to-Speech Engine (Micro+ on 5.0-, Pico+ on 6.0+)
+PackageInstallerGoogle  # Install Package Installer (Android 6.0 only & Android 8.0+)
 
 # Nano+
-BatteryUsage           # Install Device Health Services (7.1+)
-FaceDetect             # Install Face Detect library for photo apps
-FaceUnlock             # Install FaceUnlock
-Search                 # Install Google Search (excluding excludes GoogleNow and PixelLauncher)
-Speech                 # Install Offline Speech Files
+BatteryUsage            # Install Device Health Services (Android 7.1+)
+FaceDetect              # Install Face Detect Library
+FaceUnlock              # Install Trusted Face
+Markup                  # Install Markup (ARM64 + Android 9.0+)
+Search                  # Install Google App (excluding excludes GoogleNow/PixelLauncher)
+Speech                  # Install Offline Speech Files
+Wellbeing               # Install Digital Wellbeing (Android 9.0+)
 
 # Micro+
-CalendarGoogle         # Install Google Calendar
-ExchangeGoogle         # Install Google Exchange Services
-Gmail                  # Install Gmail
-GoogleNow              # Install Google Now Launcher (requires Search)
-GoogleTTS              # Install Google Text-to-Speech (Micro+ on 5.0-, Pico+ on 6.0+)
+CalendarGoogle          # Install Google Calendar
+ExchangeGoogle          # Install Exchange Services
+Gmail                   # Install Gmail
+GoogleNow               # Install Google Now Launcher (Android 4.4 only) (requires Search)
+PixelIcons              # Install Pixel Icons (Android 7.1 only)
+PixelLauncher           # Install Pixel Launcher (Android 5.0+) (requires Search and Wallpapers)
+Wallpapers              # Install Google Wallpapers (Android 5.0+)
 
 # Mini+
-CalculatorGoogle       # Install Google Calculator
-ClockGoogle            # Install Google Clock
-Maps                   # Install Google Maps
-Messenger              # Install Android Messages (except on tablet devices)
-Photos                 # Install Google Photos
-TagGoogle              # Install Google NFC Tags
-YouTube                # Install YouTube
+CalculatorGoogle        # Install Google Calculator (Android 5.0+)
+CarrierServices         # Install Carrier Services (Android 6.0+) (required for Google Messages)
+ClockGoogle             # Install Google Clock
+DialerGoogle            # Install Google Phone (Android 6.0+) (see warning about DialerGoogle below)
+Maps                    # Install Google Maps
+Messenger               # Install Google Messages (except on tablet devices) (requires Carrier Services)
+Photos                  # Install Google Photos
+TagGoogle               # Install Google Tags (Android 5.0+)
+YouTube                 # Install YouTube
 
 # Full+
-Books                  # Install Google Play Books
-Chrome                 # Install Google Chrome Browser
-CloudPrint             # Install Google Cloud Print
-Docs                   # Install Google Docs
-Drive                  # Install Google Drive
-Fitness                # Install Google Fit
-GooglePlus             # Install Google+
-Keep                   # Install Google Keep
-Movies                 # Install Google Play Movies & TV
-Music                  # Install Google Play Music
-NewsStand              # Install Google News
-PlayGames              # Install Google Play Games
-Sheets                 # Install Google Sheets
-Slides                 # Install Google Slides
-Talkback               # Install Google TalkBack
+Books                   # Install Google Play Books
+Chrome                  # Install Chrome
+CloudPrint              # Install Cloud Print
+Drive                   # Install Google Drive
+Keep                    # Install Keep Notes
+Movies                  # Install Google Play Movies & TV
+Music                   # Install Google Play Music
+NewsStand               # Install Google News
+PlayGames               # Install Google Play Games
+Talkback                # Install Android Accessibility Suite
 
 # Stock+
-CameraGoogle           # Install Google Camera
-ContactsGoogle         # Install Google Contacts
-DialerGoogle           # Install Google Dialer (see warning about DialerGoogle below)
-Duo                    # Install Google Duo
-Hangouts               # Install Hangouts
-KeyboardGoogle         # Install Google Keyboard
-PixelIcons             # Install Google Pixel Icons
-PixelLauncher          # Install Pixel Launcher (requires Search and Wallpapers)
-PrintServiceGoogle     # Install Print Service Recommendation Service
-StorageManagerGoogle   # Install Google Storage Manager
-VRService              # Install Google VR Services
-Wallpapers             # Install Wallpapers
-WebViewGoogle          # Install Google Webview
+AndroidAuto             # Install Android Auto (Android 5.0+)
+CameraGoogle            # Install Google Camera (Android 6.0+)
+ContactsGoogle          # Install Google Contacts (Android 5.1+)
+Duo                     # Install Duo
+GooglePay               # Install Google Pay
+KeyboardGoogle          # Install Gboard
+PrintServiceGoogle      # Install Print Service Recommendation Service (Android 7.0+)
+StorageManagerGoogle    # Install Smart Storage (Android 7.0+)
+Translate               # Install Google Translate
+VRService               # Install Google VR Services (Android 7.0+)
+WebViewGoogle           # Install Android System Webview (Android 5.1+) (WebViewStub is installed on Android 7.0+)
+WebViewStub             # Install Android System Webview (Stub) (Android 7.0+) (See note with WebViewGoogle)
 
 # Super+
-ActionsServices        # Install Actions Services (9.0+)
-BetterTogether         # Install Better Together (9.0+)
-CarrierServices        # Install Carrier Services
-DMAgent                # Install Google Apps Device Policy
-Earth                  # Install Google Earth
-GCS                    # Install Google Connectivity Services (excluding also excludes ProjectFi)
-GooglePay              # Install Google Pay
-Indic                  # Install Google Indic Keyboard
-Japanese               # Install Google Japanese Input
-Korean                 # Install Google Korean Input
-Pinyin                 # Install Google Pinyin Input
-ProjectFi              # Install Project Fi by Google
-Street                 # Install Google Street View
-Translate              # Install Google Translate
-Zhuyin                 # Install Google Zhuyin Input
+ActionsServices         # Install Actions Services (Android 9.0+)
+BetterTogether          # Install Better Together (Android 9.0+)
+DMAgent                 # Install Google Apps Device Policy
+Docs                    # Install Google Docs
+Earth                   # Install Google Earth
+Fitness                 # Install Google Fit
+GCS                     # Install Google Connectivity Services (Android 5.1+) (excluding also excludes ProjectFi)
+GooglePlus              # Install Google+
+Hangouts                # Install Hangouts
+Indic                   # Install Google Indic Keyboard
+Japanese                # Install Google Japanese Input
+Korean                  # Install Google Korean Input
+Pinyin                  # Install Google Pinyin Input
+ProjectFi               # Install Project Fi (Android 5.1+)
+Sheets                  # Install Google Sheets
+Slides                  # Install Google Slides
+Street                  # Install Google Street View
+Zhuyin                  # Install Google Zhuyin Input
 ```
 **WARNING:** By default, installing `DialerGoogle` will remove the stock Dialer app and render the UI when placing emergency calls to not show on Android 8.0+ custom ROMs. **Starting with builds newer than July 6th, 2018**, to fix this issue, add `+DialerStock` to your gapps-config file to prevent the stock Dialer from being removed, even when installing Google Dialer. See [Prevent Automatic Stock Removals](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options#prevent-automatic-stock-removals) for more details.
 
@@ -339,9 +342,11 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
 
 ## Links to GApps on the Play Store
 
- - [Android Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
+ - [Android Auto](https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead)
+ - [Android Accessibility Suite (Talkback)](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)
  - [Exchange Services](https://play.google.com/store/apps/details?id=com.google.android.gm.exchange)
  - [Carrier Services](https://play.google.com/store/apps/details?id=com.google.android.ims)
+ - [Gboard (Google Keyboard)](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
  - [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
  - [Google Apps Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.enterprise.dmagent)
  - [Google Calculator](https://play.google.com/store/apps/details?id=com.google.android.calculator)
@@ -353,6 +358,7 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google Connectivity Services](https://play.google.com/store/apps/details?id=com.google.android.apps.gcs)
  - [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
  - [Google Dialer](https://play.google.com/store/apps/details?id=com.google.android.dialer)
+ - [Google Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
  - [Google Duo](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon)
  - [Google Docs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
  - [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
@@ -360,11 +366,11 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness)
  - [Google Indic Keyboard](https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi)
  - [Google Japanese Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.japanese)
- - [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
- - [Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
+ - [Google Keep Notes](https://play.google.com/store/apps/details?id=com.google.android.keep)
  - [Google Korean Input](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.korean)
  - [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
- - [Google News & Weather](https://play.google.com/store/apps/details?id=com.google.android.apps.genie.geniewidget)
+ - [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
+ - [Google News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
  - [Google Now Launcher](https://play.google.com/store/apps/details?id=com.google.android.launcher)
  - [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
  - [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
@@ -373,12 +379,10 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google Play Games](https://play.google.com/store/apps/details?id=com.google.android.play.games)
  - [Google Play Movies & TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
  - [Google Play Music](https://play.google.com/store/apps/details?id=com.google.android.music)
- - [Google Play Newsstand](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines)
  - [Google Search](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox)
  - [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
  - [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
  - [Google Street View](https://play.google.com/store/apps/details?id=com.google.android.street)
- - [Google TalkBack](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)
  - [Google Text-to-Speech](https://play.google.com/store/apps/details?id=com.google.android.tts)
  - [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
  - [Google VR Services](https://play.google.com/store/apps/details?id=com.google.vr.vrcore)
@@ -388,6 +392,6 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google+](https://play.google.com/store/apps/details?id=com.google.android.apps.plus)
  - [Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk)
  - [Pixel Launcher](https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher)
- - [Project Fi by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho)
+ - [Project Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho)
  - [Wallpapers](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
  - [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
