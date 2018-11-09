@@ -17,6 +17,7 @@ In this package you will find the core Google system base, Google Android Shared
 * **Google Duo**
 * Google Keep Notes
 * **Google Keyboard _(replaces stock/AOSP Keyboard)_**
+* Google Maps
 * Google Messages _(not installed on tablet devices) (replaces stock/AOSP SMS app)_
 * Google News
 * Google Now Launcher _(replaces stock/AOSP Launcher)_
@@ -35,7 +36,6 @@ In this package you will find the core Google system base, Google Android Shared
 * **Google VR Services**
 * **Google Wallpapers**
 * **Google WebView _(replaces stock/AOSP WebView)_**
-* Maps
 * **Pixel Icons**
 * **Pixel Launcher _(replaces stock/AOSP Launcher)_**
 * YouTube
