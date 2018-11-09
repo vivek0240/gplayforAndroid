@@ -2,6 +2,7 @@ This package is recommended for most users of current generation devices (legacy
 
 In this package you will find the core Google system base, Google Android Shared Services, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
+* **Android Auto**
 * Cloud Print
 * Device Health Services
 * Gmail _(replaces stock/AOSP Email)_
@@ -22,6 +23,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Google News
 * Google Now Launcher _(replaces stock/AOSP Launcher)_
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
+* **Google Pay**
 * **Google Phone _(replaces stock/AOSP Phone)_**
 * Google Photos _(replaces stock/AOSP Gallery)_
 * Google Play Books
