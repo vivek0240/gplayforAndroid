@@ -7,7 +7,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Cloud Print
 * Device Health Services
 * Gmail **_(replaces stock/AOSP Email)_**
-* Google+
 * Google Calculator _(replaces stock/AOSP Calculator)_
 * Google Calendar _(replaces stock/AOSP Calendar)_
 * **Google Camera _(replaces stock/AOSP Camera)_**
@@ -17,7 +16,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Docs
 * Google Drive
 * **Google Duo**
-* Google Fitness
 * Google Keep
 * **Google Keyboard _(replaces stock/AOSP Keyboard)_**
 * Google News & Weather
@@ -38,7 +36,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Text-to-Speech **_(replaces stock/AOSP Pico TTS)_**
 * **Google VR Services**
 * **Google WebView _(replaces stock/AOSP WebView)_**
-* **Hangouts**
 * Maps
 * **Messenger _(not installed on tablet devices) (replaces stock/AOSP SMS App)_**
 * **Pixel Icons**
