@@ -2,7 +2,6 @@ This package is recommended for most users of current generation devices (legacy
 
 In this package you will find the core Google system base, Google Android Shared Services, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
-* Chrome Browser **_(replaces stock/AOSP Browser)_**
 * Cloud Print
 * Device Health Services
 * Gmail **_(replaces stock/AOSP Email)_**
@@ -11,6 +10,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Calculator _(replaces stock/AOSP Calculator)_
 * Google Calendar _(replaces stock/AOSP Calendar)_
 * **Google Camera _(replaces stock/AOSP Camera)_**
+* Google Chrome **_(replaces stock/AOSP Browser)_**
 * Google Clock _(replaces stock/AOSP Clock)_
 * **Google Contacts _(replaces stock/AOSP Contacts)_**
 * Google Drive
