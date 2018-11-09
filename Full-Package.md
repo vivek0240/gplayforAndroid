@@ -3,35 +3,30 @@ This package is similar to the Google Stock Package above except that it does NO
 If you prefer the option use to use stock/AOSP apps, this package is designed for you.
 In this package you will find the core Google system base, Google Android Shared Services, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
-* Android Messages _(not installed on tablet devices)_
-* **Chrome Browser**
-* **Cloud Print**
 * Device Health Services
+* **Cloud Print**
 * Gmail
-* **Google+**
+* **Google Accessibility Suite (TalkBack)**
+* Google App (Search)
 * Google Calculator _(replaces stock/AOSP Calculator)_
 * Google Calendar _(replaces stock/AOSP Calendar)_
-* Google Desk Clock _(replaces stock/AOSP Desk Clock)_
-* **Google Docs**
+* **Google Chrome _(replaces stock/AOSP Browser)_**
+* Google Clock _(replaces stock/AOSP Clock)_
 * **Google Drive**
-* **Google Fitness**
-* **Google Keep**
-* **Google News & Weather**
+* **Google Keep Notes**
+* Google Maps
+* Google Messages _(not installed on tablet devices)_ _(replaces stock/AOSP SMS app)_
+* **Google News**
 * Google NFC Tags _(replaces stock/AOSP NFC Tags)_
 * Google Now Launcher
+* Google Package Installer _(replaces stock/AOSP Package Installer)_
+* Google Photos _(replaces stock/AOSP Gallery)_
 * **Google Play Books**
 * **Google Play Games**
 * **Google Play Movies & TV**
 * **Google Play Music**
-* **Google Play Newsstand**
 * Google Play services
-* Google Search
-* **Google Sheets**
-* **Google Slides**
 * Google Text-to-Speech
-* Maps
-* Photos
-* **TalkBack**
 * YouTube
 
 Note: Bold apps mark the difference to smaller packages.
