@@ -7,7 +7,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Calendar Sync     |``CalSync``       | \+  | \+  | \+  | \+  | \+  |  X  |  X  |
 |Dialer Framework         |``DialerFramework``| X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Google Text-to-Speech    |``GoogleTTS``     |  O  |  O  |  X  |  X  |  X  |  X  |  X  |
-|Google Package Installer |``PackageInstallerGoogle``|O|O|  O  |  O  |  O  |  O  |  O  |
+|Google Package Installer |``GooglePackageInstaller``|O|O|  O  |  O  |  O  |  O  |  O  |
 |Google Play Services     |                  |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |Device Health Services   |``BatteryUsage``  |  X  |  X  |  X  |  X  |  X  |  X  |     |
 |Face Detect Library      |``FaceDetect``    |  X  |  X  |  X  |  X  |  X  |  X  |     |
