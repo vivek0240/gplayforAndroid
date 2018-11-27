@@ -31,6 +31,7 @@ The gapps-config file must be placed in one of the following folders:
  - the folder containing the Open GApps installer (takes precedence)
  - `/data`
  - `/persist`
+ - `/sdcard`
  - `/sdcard/Open-GApps`
  - `/tmp/install`
 
