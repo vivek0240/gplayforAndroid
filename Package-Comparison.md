@@ -26,7 +26,6 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Calculator¹       |``CalculatorGoogle``|O  |  O  |  O  |  O  |     |     |     |
 |Carrier Services         |``CarrierServices`` |X  |  X  |  X  |  X  |     |     |     |
 |Google Clock¹            |``ClockGoogle``   |  O  |  O  |  O  |  O  |     |     |     |
-|Google Phone²            |``DialerGoogle``  |  X  |  X  |  X  |  X  |     |     |     |
 |Google Maps              |``Maps``          |  X  |  X  |  X  |  X  |     |     |     |
 |Google Messages¹         |``Messenger``     |  O  |  O  |  O  |  O  |     |     |     |
 |Google Photos            |``Photos``        |  O  |  O  |  X  |  X  |     |     |     |
@@ -35,6 +34,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Play Books        |``Books``         |  X  |  X  |  X  |     |     |     |     |
 |Google Chrome            |``Chrome``        |  O  |  O  |  X  |     |     |     |     |
 |Cloud Print              |``CloudPrint``    |  X  |  X  |  X  |     |     |     |     |
+|Google Phone²            |``DialerGoogle``  |  X  |  X  |  X  |     |     |     |     |
 |Google Drive             |``Drive``         |  X  |  X  |  X  |     |     |     |     |
 |Google Keep Notes        |``Keep``          |  X  |  X  |  X  |     |     |     |     |
 |Google Play Movies & TV  |``Movies``        |  X  |  X  |  X  |     |     |     |     |
