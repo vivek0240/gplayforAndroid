@@ -26,7 +26,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Calculator¹       |``CalculatorGoogle``|O  |  O  |  O  |  O  |     |     |     |
 |Carrier Services         |``CarrierServices`` |X  |  X  |  X  |  X  |     |     |     |
 |Google Clock¹            |``ClockGoogle``   |  O  |  O  |  O  |  O  |     |     |     |
-|Google Phone¹²           |``DialerGoogle``  |  X  |  X  |  X  |  X  |     |     |     |
+|Google Phone²            |``DialerGoogle``  |  X  |  X  |  X  |  X  |     |     |     |
 |Google Maps              |``Maps``          |  X  |  X  |  X  |  X  |     |     |     |
 |Google Messages¹         |``Messenger``     |  O  |  O  |  O  |  O  |     |     |     |
 |Google Photos            |``Photos``        |  O  |  O  |  X  |  X  |     |     |     |
