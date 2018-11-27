@@ -34,7 +34,6 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Google Play Books        |``Books``         |  X  |  X  |  X  |     |     |     |     |
 |Google Chrome            |``Chrome``        |  O  |  O  |  X  |     |     |     |     |
 |Cloud Print              |``CloudPrint``    |  X  |  X  |  X  |     |     |     |     |
-|Google Phone²            |``DialerGoogle``  |  X  |  X  |  X  |     |     |     |     |
 |Google Drive             |``Drive``         |  X  |  X  |  X  |     |     |     |     |
 |Google Keep Notes        |``Keep``          |  X  |  X  |  X  |     |     |     |     |
 |Google Play Movies & TV  |``Movies``        |  X  |  X  |  X  |     |     |     |     |
@@ -45,6 +44,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |Android Auto             |``AndroidAuto``   |  X  |  X  |     |     |     |     |     |
 |Google Camera¹           |``CameraGoogle``  |  O  |  O  |     |     |     |     |     |
 |Google Contacts¹         |``ContactsGoogle``|  O  |  O  |     |     |     |     |     |
+|Google Phone²            |``DialerGoogle``  |  X  |  X  |     |     |     |     |     |
 |Google Duo               |``Duo``           |  X  |  X  |     |     |     |     |     |
 |Google Pay               |``GooglePay``     |  X  |  X  |     |     |     |     |     |
 |Google Keyboard¹         |``KeyboardGoogle``|  O  |  O  |     |     |     |     |     |
