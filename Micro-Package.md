@@ -9,5 +9,8 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play services
 * Google Text-to-Speech
+* Google Wallpapers
+* Pixel Icons
+* Pixel Launcher
 
 Note: Bold apps mark the difference to smaller packages.
