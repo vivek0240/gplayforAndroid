@@ -25,7 +25,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Now Launcher _(replaces stock/AOSP Launcher)_
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * **Google Pay**
-* **Google Phone _(replaces stock/AOSP Phone)_**
+* Google Phone
 * Google Photos _(replaces stock/AOSP Gallery)_
 * Google Play Books
 * Google Play Games
