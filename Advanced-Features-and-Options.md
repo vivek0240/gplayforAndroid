@@ -116,7 +116,7 @@ Wallpapers              # Install Google Wallpapers (Android 5.0+)
 CalculatorGoogle        # Install Google Calculator (Android 5.0+)
 CarrierServices         # Install Carrier Services (Android 6.0+) (required for Google Messages)
 ClockGoogle             # Install Google Clock
-DialerGoogle            # Install Google Phone (Android 6.0+) (see warning about DialerGoogle below)
+DialerGoogle            # Install Google Phone (Android 6.0+)
 Maps                    # Install Google Maps
 Messenger               # Install Google Messages (except on tablet devices) (requires Carrier Services)
 Photos                  # Install Google Photos
@@ -169,8 +169,6 @@ Slides                  # Install Google Slides
 Street                  # Install Google Street View
 Zhuyin                  # Install Google Zhuyin Input
 ```
-**WARNING:** By default, installing `DialerGoogle` will remove the stock Dialer app and render the UI when placing emergency calls to not show on Android 8.0+ custom ROMs. **Starting with builds newer than July 6th, 2018**, to fix this issue, add `+DialerStock` to your gapps-config file to prevent the stock Dialer from being removed, even when installing Google Dialer. See [Prevent Automatic Stock Removals](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options#prevent-automatic-stock-removals) for more details.
-
 ### Prevent automatic Stock removals
 
 When installing a Google app that can replace a stock app, the stock app is automatically removed. For example, if you are installing Android Messages, then the Stock SMS app will automatically be removed.
