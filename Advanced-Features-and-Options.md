@@ -116,7 +116,6 @@ Wallpapers              # Install Google Wallpapers (Android 5.0+)
 CalculatorGoogle        # Install Google Calculator (Android 5.0+)
 CarrierServices         # Install Carrier Services (Android 6.0+) (required for Google Messages)
 ClockGoogle             # Install Google Clock
-DialerGoogle            # Install Google Phone (Android 6.0+)
 Maps                    # Install Google Maps
 Messenger               # Install Google Messages (except on tablet devices) (requires Carrier Services)
 Photos                  # Install Google Photos
@@ -139,6 +138,7 @@ Talkback                # Install Android Accessibility Suite
 AndroidAuto             # Install Android Auto (Android 5.0+)
 CameraGoogle            # Install Google Camera (Android 6.0+)
 ContactsGoogle          # Install Google Contacts (Android 5.1+)
+DialerGoogle            # Install Google Phone (Android 6.0+)
 Duo                     # Install Duo
 GooglePay               # Install Google Pay
 KeyboardGoogle          # Install Gboard
