@@ -75,7 +75,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
 * ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
-* ⁴ Google Digital Wellbeing is currently in a beta phase. You will need to register for the beta here: [Join the Digital Wellbeing Beta](https://www.android.com/versions/pie-9-0/digital-wellbeing-beta/), selecting Yes under "Do you have Android 9 Pie on your Pixel?" opting into the beta at the link below on that page, then update from the Play Store when the update is available.
+* ⁴ Google Digital Wellbeing requieres Android 9.0 Pie.
 * X Installs application by default
 * O Replaces the Stock/AOSP version of the application by default
 * \+ Only installed if Google Calendar is NOT installed
