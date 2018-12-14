@@ -9,7 +9,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |7.1   | Application is installed on Android 7.1 only |
 
 |Application Name    |gapps-config keyword|[[pico\|Pico Package]]|[[nano\|Nano Package]]|[[micro\|Micro Package]]|[[mini\|Mini Package]]|[[full\|Full Package]]|[[stock\|Stock Package]]|[[super\|Super Package]]|
-|:------------------------:|:-----------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:-----------------:|:-------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |             Google System Base              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |              Google Play Store              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Calendar Sync             |            ``CalSync``            |  X  |  X  | \+  | \+  | \+  | \+  | \+  |
@@ -56,7 +56,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |                 Google Duo                  |              ``Duo``              |     |     |     |     |     |  X  |  X  |
 |                 Google Pay                  |           ``GooglePay``           |     |     |     |     |     |  X  |  X  |
 |              Google Keyboard¹               |        ``KeyboardGoogle``         |     |     |     |     |     |  O  |  O  |
-| Google Print Service Recommendation Service |      ``PrintServiceGoogle``       |     |     |     |     |     |  O  |  O  |
+| Google Print Recommendation Service |      ``PrintServiceGoogle``       |     |     |     |     |     |  O  |  O  |
 |            Google Smart Storage             |     ``StorageManagerGoogle``      |     |     |     |     |     |  O  |  O  |
 |              Google Translate               |           ``Translate``           |     |     |     |     |     |  X  |  X  |
 |             Google VR Services              |           ``VRService``           |     |     |     |     |     |  X  |  X  |
