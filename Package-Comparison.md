@@ -8,7 +8,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |4.4   | Application is installed on Android 4.4 only |
 |7.1   | Application is installed on Android 7.1 only |
 
-|Application Name    |gapps-config keyword|[[pico\|Pico Package]]|[[nano\|Nano Package]]|[[micro\|Micro Package]]|[[mini\|Mini Package]]|[[full\|Full Package]]|[[stock\|Stock Package]]|[[super\|Super Package]]|
+|Application Name    |gapps-config keyword|p<br>i<br>c<br>o|n<br>a<br>n<br>o|m<br>i<br>c<br>r<br>o|m<br>i<br>n<br>i|f<br>u<br>l<br>l|s<br>t<br>o<br>c<br>k|s<br>u<br>p<br>e<br>r|
 |:-----------------:|:-------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |             Google System Base              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |              Google Play Store              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
