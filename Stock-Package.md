@@ -22,7 +22,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Maps
 * Google Messages _(not installed on tablet devices) (replaces stock/AOSP SMS app)_
 * Google News
-* Google Now Launcher _(replaces stock/AOSP Launcher)_
+* Google Nexus Launcher _(replaces stock/AOSP Launcher)_
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * **Google Pay**
 * Google Phone
