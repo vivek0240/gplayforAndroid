@@ -5,7 +5,7 @@ In this package you will find the core Google system base, Google Android Shared
 * **Gmail**
 * Google App (Search)
 * **Google Calendar _(replaces stock/AOSP Calendar)_**
-* **Google Nexus Launcher**
+* **Google Pixel Launcher**
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play services
 * Google Text-to-Speech
