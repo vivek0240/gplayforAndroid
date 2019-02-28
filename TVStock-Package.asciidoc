@@ -1,1 +1,1 @@
- 
+ Package for Google TV devices, includes all Google apps that come standard on the latest Nexus player
