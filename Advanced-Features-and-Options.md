@@ -157,7 +157,6 @@ Docs                    # Install Google Docs
 Earth                   # Install Google Earth
 Fitness                 # Install Google Fit
 GCS                     # Install Google Connectivity Services (Android 5.1+) (excluding also excludes ProjectFi)
-GooglePlus              # Install Google+
 Hangouts                # Install Hangouts
 Indic                   # Install Google Indic Keyboard
 Japanese                # Install Google Japanese Input

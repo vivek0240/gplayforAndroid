@@ -76,7 +76,6 @@ ExchangeGoogle
 FaceDetect
 FaceUnlock
 Gmail
-GooglePlus #Safe to remove
 GoogleTTS
 Hangouts #Safe to remove
 Keep #Safe to remove
