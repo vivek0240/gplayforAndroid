@@ -68,7 +68,6 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |                Google Earth                 |             ``Earth``             |     |     |     |     |     |     |  X  |
 |                 Google Fit                  |            ``Fitness``            |     |     |     |     |     |     |  X  |
 |        Google Connectivity Services         |              ``GCS``              |     |     |     |     |     |     |  X  |
-|                   Google+                   |          ``GooglePlus``           |     |     |     |     |     |     |  X  |
 |               Google Hangouts               |           ``Hangouts``            |     |     |     |     |     |     |  X  |
 |            Google Indic Keyboard            |             ``Indic``             |     |     |     |     |     |     |  X  |
 |            Google Japanese Input            |           ``Japanese``            |     |     |     |     |     |     |  X  |
