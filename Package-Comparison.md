@@ -17,6 +17,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |            Google Text-to-Speech            |           ``GoogleTTS``           |  X  |  X  |  X  |  X  |  X  |  O  |  O  |
 |          Google Package Installer           |    ``GooglePackageInstaller``     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |
 |            Google Play Services             |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|   Sounds (com.google.android.soundpicker)   |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |           Device Health Services            |         ``BatteryUsage``          |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Face Detect Library             |          ``FaceDetect``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |                Trusted Face                 |          ``FaceUnlock``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
