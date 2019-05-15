@@ -17,7 +17,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 |            Google Text-to-Speech            |           ``GoogleTTS``           |  X  |  X  |  X  |  X  |  X  |  O  |  O  |
 |          Google Package Installer           |    ``GooglePackageInstaller``     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |
 |            Google Play Services             |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
-|                   Sounds                    |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|                  Sounds⁴                    |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |           Device Health Services            |         ``BatteryUsage``          |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Face Detect Library             |          ``FaceDetect``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |                Trusted Face                 |          ``FaceUnlock``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
@@ -83,5 +83,5 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
 * ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
-* ⁴ Google Digital Wellbeing requires Android 9.0 Pie.
+* ⁴ Google Digital Wellbeing & Sounds requires Android 9.0 Pie.
 * Note that some applications are only available on higher Android versions or compatible hardware
