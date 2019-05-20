@@ -36,7 +36,7 @@ Welcome to the **Open GApps** wiki!
 * [[Android 6.0|Notes for Android 6.0]]
 * [[Android 7.x|Notes for Android 7.x]]
 * [[Android 8.x|Notes for Android 8.x]]
-* [[Android 8.x|Notes for Android 9.0]]
+* [[Android 9.0|Notes for Android 9.0]]
 
 ***
 
