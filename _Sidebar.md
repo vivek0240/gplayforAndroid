@@ -1,7 +1,8 @@
 ## [Home](Home)
 **[Advanced Features and Options](Advanced-Features-and-Options)**<br>
 **[FAQ](FAQ)**<br>
-**[Get Involved](Get-Involved)**
+**[Get Involved](Get-Involved)**<br>
+**[Hotlinking to OpenGApps.org](Hotlinking-to-OpenGApps.org)**
 
 **Packages ([Comparison](Package-Comparison))**
 - [Aroma](Aroma-Package)
@@ -27,6 +28,4 @@
 - [Android ARM](Notes-for-Android-ARM)
 - [Android x86](Notes-for-Android-x86)
 - [CMSetupWizard](Notes-for-CMSetupWizard)
-
-[PackageInstallerGoogle](PackageInstallerGoogle)<br>
-[Hotlinking to OpenGApps.org](Hotlinking-to-OpenGApps.org)
+- [PackageInstallerGoogle](PackageInstallerGoogle)
