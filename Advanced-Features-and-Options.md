@@ -380,6 +380,7 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google Search](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox)
  - [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
  - [Google Slides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
+ - [Google Sounds](https://play.google.com/store/apps/details?id=com.google.android.soundpicker)
  - [Google Street View](https://play.google.com/store/apps/details?id=com.google.android.street)
  - [Google Text-to-Speech](https://play.google.com/store/apps/details?id=com.google.android.tts)
  - [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
