@@ -91,6 +91,7 @@ Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]
 
 ## Links to GApps on the Play Store
 
+ - [Google LLC - developer's page](https://play.google.com/store/apps/dev?id=5700313618786177705)
  - [Android Auto](https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead)
  - [Android Accessibility Suite (Talkback)](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)
  - [Exchange Services](https://play.google.com/store/apps/details?id=com.google.android.gm.exchange)
