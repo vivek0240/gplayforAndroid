@@ -17,4 +17,7 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Text-to-Speech
 * **YouTube**
 
+For 9.0+ also:
+* Google Sounds
+
 Note: Bold apps mark the difference to smaller packages.
