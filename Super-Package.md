@@ -55,4 +55,7 @@ In this package you will find the core Google system base, Google Android Shared
 * **Project Fi**
 * YouTube
 
+For 9.0+ also:
+* Google Sounds
+
 Note: Bold apps mark the difference to smaller packages.
