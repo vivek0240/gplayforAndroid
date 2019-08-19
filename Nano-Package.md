@@ -8,4 +8,7 @@ This package is designed for users who want the smallest Google footprint possib
 For +6.0 also:
 * Google Text-to-Speech
 
+For 9.0+ also:
+* Google Sounds
+
 Note: Bold apps mark the difference to smaller packages.
