@@ -5,7 +5,7 @@ This package is designed for users who want the smallest Google footprint possib
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play services
 
-For +6.0 also:
+For 6.0+ also:
 * Google Text-to-Speech
 
 For 9.0+ also:
