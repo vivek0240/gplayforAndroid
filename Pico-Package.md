@@ -6,3 +6,6 @@ In this package you will find the core Google System Base, Google Play Store, Go
 
 For 6.0+ also:
 * Google Text-to-Speech
+
+For 9.0+ also:
+* Google Sounds
