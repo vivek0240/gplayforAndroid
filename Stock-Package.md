@@ -41,4 +41,7 @@ In this package you will find the core Google system base, Google Android Shared
 * **Pixel Launcher _(replaces stock/AOSP Launcher)_**
 * YouTube
 
+For 9.0+ also:
+* Google Sounds
+
 Note: Bold apps mark the difference to smaller packages.
