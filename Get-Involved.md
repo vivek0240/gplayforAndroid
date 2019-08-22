@@ -7,6 +7,8 @@ The Open GApps Project often receives various support questions in the [Q&A thre
 
 Bugs, feature requests and wide array of issues are discussed in the [main thread](http://forum.xda-developers.com/android/software/Open-GApps-t3098071) of the XDA Forum. Sometimes users forget to include their debug logs or logcat (if experiencing Force Closures) or fail to formulate their issue properly. You can help the developers by replying to those users to include the necessary information or enhance the description of their issue. Otherwise the Open GApps developers will simply ignore those posts, since they need all their time available to focus on development.
 
+Another way to help the community is to join the discussion groups on various social platforms. One of the chats supported by our member [@nezorflame](https://github.com/nezorflame) is located at [Telegram](https://t.me/opengapps_discussion) - feel free to join and help each other out.
+
 ## Become a packager
 Do you often get new APKs before they are included in Open GApps? Big chance that you have a device with a CPU, DPI and/or Android Version that no one on the Open GApps team has yet. You can help The Open GApps Project by becoming a team member and get those rare APKs to our repository as fast as possible! You can show your interest in the [XDA Forum](http://forum.xda-developers.com/android/software/Open-GApps-t3098071) and we will get back to you!
 
