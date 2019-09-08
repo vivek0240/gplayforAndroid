@@ -1,1 +1,1 @@
-Not available yet.
+What will we do with this Footer?
