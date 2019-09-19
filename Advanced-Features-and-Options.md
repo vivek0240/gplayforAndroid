@@ -318,7 +318,7 @@ Open GApps by default updates certain libraries that are depended on by certain 
 
 ### Skip Smart Pre-ODEXing of APKs
 
-On Marshmallow some ROMs are set to be extremely strict when verifying the APK. This can lead to de-odexed APKs to fail verification; because the included classes.dex is not present in the APK's MANIFEST. To avoid this potential issue, Open GApps by default pre-ODEXes these APKs on 6.0+. As positive side-effect this setting also improves the performance of these applications. A downside is that it occupies more disk-space on /system, because a copy of the classes.dex has to be kept for regenerating the ODEX when updating the ROM. To disable this feature use the keyword `NoPreODEX`. **THE PRE-ODEX FEATURE IS TEMPORARILY DISABLED BY DEFAULT; SEE BELOW HOW TO ENABLE**
+On Marshmallow some ROMs are set to be extremely strict when verifying the APK. This can lead to de-odexed APKs to fail verification; because the included classes.dex is not present in the APK's MANIFEST. To avoid this potential issue, Open GApps by default pre-ODEXes these APKs on 6.0+. As a positive side-effect this setting also improves the performance of these applications. A downside is that it occupies more disk-space on /system, because a copy of the classes.dex has to be kept for regenerating the ODEX when updating the ROM. To disable this feature use the keyword `NoPreODEX`. **THE PRE-ODEX FEATURE IS TEMPORARILY DISABLED BY DEFAULT; SEE BELOW HOW TO ENABLE**
 
 
 ### Enable Smart Pre-ODEXing of APKs
@@ -328,7 +328,7 @@ To enable Pre-ODEXing on ROMs the `PreODEX` can be used.
 
 ### Force Clean Install Setting
 
-Open GApps normally detects if it's a clean install or an upgrade. This affects how installation of Google Camera is treated, it won't install those unless this is a clean install to avoid problems during upgrades. To ignore the detection and enforce clean install use `forceclean` keyword. Note: this setting is untested widely and may cause problems.
+Open GApps normally detects if it's a clean install or an upgrade. This affects how the installation of Google Camera is treated, it won't install those unless this is a clean install to avoid problems during upgrades. To ignore the detection and enforce clean install use `forceclean` keyword. Note: this setting is untested widely and may cause problems.
 
 
 ### Protection from stupidity
