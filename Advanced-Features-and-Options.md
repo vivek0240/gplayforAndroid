@@ -82,7 +82,7 @@ You can choose either the apps you WANT installed or the apps you DON'T WANT ins
  - "Include" install: To select ONLY the apps you WANT installed, add the keyword `Include` to your gapps-config file. The installer will now install ONLY THOSE APPS you have listed in your gapps-config.
  - "Exclude" install: To select ONLY the apps you DON'T want installed, no keyword is necessary, because the default behavior is an Exclude install.
 
-To use this feature, add the the keyword for each app you want to Include/Exclude inside your gapps-config file. The following is a sample "Include" gapps-config that contains all available app keywords -- using this gapps-config without modifications will install all apps the installer has available. You start with this file and comment out the apps you do not want installed:
+To use this feature, add the keyword for each app you want to Include/Exclude inside your gapps-config file. The following is a sample "Include" gapps-config that contains all available app keywords -- using this gapps-config without modifications will install all apps the installer has available. You start with this file and comment out the apps you do not want installed:
 
 
 ```sh
