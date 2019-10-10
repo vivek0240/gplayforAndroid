@@ -25,7 +25,7 @@
 - [Android 7.x](Notes-for-Android-7.x)
 - [Android 8.x](Notes-for-Android-8.x)
 - [Android 9.0](Notes-for-Android-9.0)
-- [Android 10.0](Notes-for-Android-10.0)
+- [Android 10.x](Notes-for-Android-10.x)
 - [Android ARM](Notes-for-Android-ARM)
 - [Android x86](Notes-for-Android-x86)
 - [CMSetupWizard](Notes-for-CMSetupWizard)
