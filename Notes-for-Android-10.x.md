@@ -1,1 +1,1 @@
-Work being done in #773
+Work being done in [#773](https://github.com/opengapps/opengapps/pull/773).
