@@ -1,0 +1,1 @@
+[Open GApps - FAQ](https://github.com/opengapps/opengapps/wiki/FAQ)
