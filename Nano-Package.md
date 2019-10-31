@@ -11,7 +11,7 @@ For 6.0+ also:
 
 For 9.0+ also:
 * Google Sounds
-* Google Digital Wellbeing
+* **Google Digital Wellbeing**
 
 Note: Bold apps mark the difference to smaller packages.
 
