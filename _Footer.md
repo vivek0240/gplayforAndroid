@@ -1,1 +1,2 @@
-[Open GApps - FAQ](https://github.com/opengapps/opengapps/wiki/FAQ)
+### OpenGApps
+[**Download**](https://opengapps.org/#downloadsection) / [**Support**](https://opengapps.org/#supportsection) / [**About**](https://opengapps.org/#aboutsection) / [**FAQ**](https://github.com/opengapps/opengapps/wiki/FAQ)
