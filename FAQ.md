@@ -132,6 +132,12 @@ The short answer is you don't need to do anything besides flash the new package.
 
 All of our GApps packages allow you to change install options or switch packages at any time with no requirements on your end. The installer will handle all the behind-the-scenes work to accomplish this.
 
+To downsize or downgrade to a smaller package on a current device setup that already includes Open GApps you can dirty flash (do NOT wipe System & Data!) Pico over Nano to downsize because as you can see in [Open GApps Package Comparison](https://github.com/opengapps/opengapps/wiki/Package-Comparison) Nano only removes & replaces the Stock/AOSP version of Package Installer just like Pico does.
+
+If you downgrade from a bigger package to Pico for example: dirty flash both your ROM + Pico to re-install the stock apps removed by the larger package.
+
+To upgrade to a bigger Open GApps package on a current device setup that already includes Open GApps just dirty flash it without wiping System & Data. Both Cache + Dalvik / Art Cache can always be wiped without affecting your setup, apps & data.
+
 #### 14. Can I use Open GApps to update the Google Apps on my Stock ROM?
 Yes. Open GApps is normally designed to be installed on custom Android AOSP based ROMs, but includes a 'For Stock' mode that can be used to install the package on Stock ROMs. It is important though that the Stock ROM conforms the Google Nexus filesystem structure. Be aware that if a ROM does not conform to this standard, this cannot be detected and your installation can break, so make sure to backup your data beforehand.
 
