@@ -22,3 +22,6 @@ AROMA has some known issues, which vary by device and recovery version.
 
 ## Moto G (falcon)
 * Known broken TWRP versions: 3.0.0.1
+
+## Xiaomi Redmi Note 7 Pro (violet) & Xiaomi Redmi Note 7
+* Users reported a device architecture error in bug report [#757](https://github.com/opengapps/opengapps/issues/757)
