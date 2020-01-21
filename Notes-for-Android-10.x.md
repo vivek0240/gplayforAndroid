@@ -6,6 +6,8 @@ While making this release, Google has made a lot of changes which affected the d
 2. `Pixel Launcher` now requires a system setting to be allowed as the main homescreen app, so in order for it to work, we also had to include an overlay to set it as the default launcher app.
 Same applies to the `Digital Wellbeing`, `Actions Services` and `Dialer` apps which have their own overlays now as well.
 3. `Pixel Launcher` now requires `Actions Services` since it's using it now as the provider for the user app recommendations.
+4. `Webview` implementation changed again in Q - see [this article](https://www.xda-developers.com/google-chrome-no-longer-webview-provider-android-10/). Because of this, now we additionally ship the `TrichromeLibrary` which **has to match** the versions of the `Chrome` and `Webview` apps.
+For now this is **ARM64-only**, but once we find an implementation for this for ARM packages, this will be added there as well.
 
 Apart from that, there are still a few bugs:
 - `Photos` FC
