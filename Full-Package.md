@@ -1,7 +1,7 @@
 This package is similar to the Google Stock Package above except that it does NOT include Google Camera and Google Keyboard and will NOT remove your stock/AOSP Browser, Camera, Email, Gallery, Launcher, Keyboard, SMS App, Pico TTS or WebView.
 
 If you prefer the option use to use stock/AOSP apps, this package is designed for you.
-In this package you will find the core Google system base, Google Android Shared Services, off-line speech files, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
+In this package you will find the core Google system base, Google Android Shared Library, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
 * **Cloud Print**
 * Device Health Services
@@ -28,6 +28,9 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Tags _(replaces stock/AOSP NFC Tags)_
 * Google Text-to-Speech
 * YouTube
+
+For 6.0+ also:
+* Google Text-to-Speech
 
 For 9.0+ also:
 * Google Sounds
