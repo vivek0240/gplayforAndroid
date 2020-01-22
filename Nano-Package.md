@@ -1,4 +1,4 @@
-This package is designed for users who want the smallest Google footprint possible while still enjoying native “Okay Google” and Google Search support. In this package you will find the core Google system base, **Google Android Shared Services**, **off-line speech files**, Google Play Store, Google Calendar Sync, **Face Detection for Media**, **Trusted Face (FaceUnlock)**, Dialer Framework and the following Play Store applications:
+This package is designed for users who want the smallest Google footprint possible while still enjoying native “Okay Google” and Google Search support. In this package you will find the core Google system base, Google Android Shared Library, Google Play Store, Google Calendar Sync, **Face Detection for Media**, **Trusted Face (FaceUnlock)**, Dialer Framework and the following Play Store applications:
 
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play Services
