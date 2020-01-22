@@ -1,5 +1,5 @@
 This package is designed for those who use limited Google apps or prefer to install apps on their own.
-In this package you will find the core Google system base, Google Android Shared Services, off-line speech files, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Face Detection for Media, Face Unlock, Dialer Framework and the following Play Store applications:
+In this package you will find the core Google system base, Google Android Shared Library, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Face Detection for Media, Face Unlock, Dialer Framework and the following Play Store applications:
 
 * Device Health Services
 * Gmail
@@ -16,6 +16,9 @@ In this package you will find the core Google system base, Google Android Shared
 * **Google Tags _(replaces stock/AOSP NFC Tags)_**
 * Google Text-to-Speech
 * **YouTube**
+
+For 6.0+ also:
+* Google Text-to-Speech
 
 For 9.0+ also:
 * Google Sounds
