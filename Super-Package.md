@@ -57,5 +57,6 @@ In this package you will find the core Google system base, Google Android Shared
 
 For 9.0+ also:
 * Google Sounds
+* Google Digital Wellbeing
 
 Note: Bold apps mark the difference to smaller packages.
