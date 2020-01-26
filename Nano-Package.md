@@ -1,4 +1,4 @@
-This package is designed for users who want the smallest Google footprint possible while still enjoying native “Okay Google” and Google Search support. In this package you will find the core Google system base, Google Android Shared Library, Google Play Store, Google Calendar Sync, **Face Detection for Media**, **Trusted Face (FaceUnlock)**, Dialer Framework and the following Play Store applications:
+This package is designed for users who want the smallest Google footprint possible while still enjoying native “Okay Google” and Google Search support. In this package you will find the core Google system base, Google Android Shared Library, Google Play Store, Google Calendar Sync, **Face Detection for Media**, **Trusted Face (FaceUnlock)¹**, Dialer Framework and the following Play Store applications:
 
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play Services
@@ -12,6 +12,8 @@ For 6.0+ also:
 For 9.0+ also:
 * Google Sounds
 * **Google Digital Wellbeing**
+
+* ¹ Trusted Face & Face Unlock have been removed by Google in Android 10+. See [Notes for Android 10.x](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-10.x)
 
 Note: Bold apps mark the difference to smaller packages.
 
