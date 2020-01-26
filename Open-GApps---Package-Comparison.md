@@ -1,4 +1,5 @@
-Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]]
+* See [Notes for Android 10.x](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-10.x) about the packages available @ the present for Android 10+.
+* Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]]
 
 |Legend | Description |
 |:-------:|------------|
