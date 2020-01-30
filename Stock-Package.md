@@ -1,6 +1,6 @@
 This package is recommended for most users of current generation devices (legacy device owners may want to use Mini or Micro Modular GApps due to the size of this package). It includes all the Google Apps that come standard on the latest Nexus Phone.
 
-In this package you will find the core Google system base, Google Android Shared Library, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
+In this package you will find the core Google system base, Google Android Shared Library, Face Detection for Media, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
 * **Android Auto**
 * **Android System WebView _(replaces stock/AOSP WebView)_**
@@ -48,4 +48,6 @@ For 9.0+ also:
 * Google Sounds
 * Google Digital Wellbeing
 
-Note: Bold apps mark the difference to smaller packages.
+Notes:
+* Bold apps mark the difference to smaller packages.
+* Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
