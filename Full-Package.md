@@ -1,7 +1,7 @@
 This package is similar to the Google Stock Package above except that it does NOT include Google Camera and Google Keyboard and will NOT remove your stock/AOSP Browser, Camera, Email, Gallery, Launcher, Keyboard, SMS App, Pico TTS or WebView.
 
 If you prefer the option use to use stock/AOSP apps, this package is designed for you.
-In this package you will find the core Google system base, Google Android Shared Library, Face Detection for Media, Face Unlock, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
+In this package you will find the core Google system base, Google Android Shared Library, Face Detection for Media, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
 * **Cloud Print**
 * Device Health Services
@@ -36,4 +36,6 @@ For 9.0+ also:
 * Google Sounds
 * Google Digital Wellbeing
 
-Note: Bold apps mark the difference to smaller packages.
+Notes:
+* Bold apps mark the difference to smaller packages.
+* Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
