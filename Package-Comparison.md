@@ -1,4 +1,5 @@
 * See [Notes for Android 10.x](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-10.x) about the packages available @ the present for Android 10+.
+* Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
 * Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]]
 
 |Legend | Description |
@@ -21,7 +22,6 @@
 |                  Sounds⁴                    |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |           Device Health Services            |         ``BatteryUsage``          |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Face Detect Library             |          ``FaceDetect``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
-|                Trusted Face⁵                |          ``FaceUnlock``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |                Google Markup                |            ``Markup``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Google App (Search)             |            ``Search``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Offline Speech Files             |            ``Speech``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
@@ -85,7 +85,6 @@
 * ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
 * ⁴ Google Digital Wellbeing & Sounds requires Android 9.0 Pie.
-* ⁵ Trusted Face & Face Unlock have been removed by Google in Android 10+. See [Notes for Android 10.x](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-10.x)
 * Note that some applications are only available on higher Android versions or compatible hardware
 
 
