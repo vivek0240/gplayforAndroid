@@ -108,6 +108,7 @@
  - [Google Cloud Print](https://play.google.com/store/apps/details?id=com.google.android.apps.cloudprint)
  - [Google Connectivity Services](https://play.google.com/store/apps/details?id=com.google.android.apps.gcs)
  - [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
+ - [Google Device Health Services](https://play.google.com/store/apps/details?id=com.google.android.apps.turbo)
  - [Google Dialer](https://play.google.com/store/apps/details?id=com.google.android.dialer)
  - [Google Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
  - [Google Duo](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon)
