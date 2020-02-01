@@ -1,3 +1,6 @@
+* See [Notes for Android 10.x](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-10.x) about the packages available @ the present for Android 10+.
+* Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
+
 All variants of the Open GApps installer (except Aroma\*) will look for and take extra configuation options from a **gapps-config** file. This file is completely optional; without it, the installers will function exactly as described in the [[Package Comparison|Package-Comparison]] chart.
 
 The gapps-config file allows for these kinds of customizations and more:
@@ -355,6 +358,7 @@ To prevent you from accidentally leaving yourself with no keyboard, Launcher, or
  - [Google Cloud Print](https://play.google.com/store/apps/details?id=com.google.android.apps.cloudprint)
  - [Google Connectivity Services](https://play.google.com/store/apps/details?id=com.google.android.apps.gcs)
  - [Google Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
+ - [Google Device Health Services](https://play.google.com/store/apps/details?id=com.google.android.apps.turbo)
  - [Google Dialer](https://play.google.com/store/apps/details?id=com.google.android.dialer)
  - [Google Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)
  - [Google Duo](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon)
