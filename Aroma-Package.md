@@ -1,3 +1,6 @@
+* See [Notes for Android 10.x](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-10.x) about the packages available @ the present for Android 10+.
+* Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
+
 The Aroma package is a special version of the regular [['Super'|Package-Comparison]] package, but with a graphical front-end that will allow you to select which specific applications to install (or not) without having to manually write a [[gapps-config file|Advanced-Features-and-Options]]. Note: For versions of 5.0 and lower the Aroma package is based on Stock, and not all options shown are actually available within the package.
 This package has a [dedicated thread at XDA](http://forum.xda-developers.com/android/general/open-gapps-aroma-installer-t3010798).
 
