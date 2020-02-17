@@ -27,7 +27,9 @@ NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method.
 
 
 #### 4. I'm having a problem with my Open GApps install. What information do you need to help me?
-At a MINIMUM you will need to post your open_gapps_log.txt attached in the [XDA Q&A Forum](http://forum.xda-developers.com/showthread.php?t=3124506) or in our [Gitter channel](https://gitter.im/opengapps/general), where the community can try to answer your questions and help you resolve any problem. However, the best method to receive support would be to post your debug logs (open_gapps_debug_logs.tar.gz), using the same method. You will find both of these logs in the same folder as the Open GApps zip file, after the installer has completed.
+At a MINIMUM you will need to post your open_gapps_log.txt attached in the [XDA Q&A Forum](http://forum.xda-developers.com/showthread.php?t=3124506) or in our [Gitter channel](https://gitter.im/opengapps/general), where the community can try to answer your questions and help you resolve any problem. However, the best method to receive support would be to post your debug logs (open_gapps_debug_logs.tar.gz), using the same method.
+
+You will find both of these Open GApps installation logs in the same location as the Open GApps zip file that you flashed on your device using Recovery or in the internal sdcard: /data/media/0/ if you used the Sideload installation method.
 
 As with most support forums, the more work you do up front and the more information you provide, the better the feedback you're likely to receive. If you're not willing to put any effort on your end, you'll likely receive nothing from the forum, either.
 
