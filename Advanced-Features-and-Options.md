@@ -107,6 +107,7 @@ Speech                  # Install Offline Speech Files
 Wellbeing               # Install Digital Wellbeing (Android 9.0+)
 
 # Micro+
+ActionsServices         # Install Actions Services (Android 10+)
 CalendarGoogle          # Install Google Calendar
 ExchangeGoogle          # Install Exchange Services
 Gmail                   # Install Gmail
