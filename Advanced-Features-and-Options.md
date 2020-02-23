@@ -254,7 +254,6 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # FMRadio                 # Remove Stock FM Radio (not found on all devices or ROMs)
 # Gallery                 # Remove Stock Gallery (automatically removed when Google Photos is installed)
 # KeyboardStock           # Remove Stock Keyboard (automatically removed when Google Keyboard is installed)
-# Launcher                # Remove Stock Launcher(s)
 # LiveWallpapers          # Remove Stock Live Wallpapers
 # LockClock               # Remove Stock Lockscreen Clock Widget
 # MMS                     # Remove Stock SMS (automatically removed if Android Messages is installed)
