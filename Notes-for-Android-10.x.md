@@ -12,6 +12,6 @@ For now this is **ARM64-only**, but once we find an implementation for this for 
 
 Apart from that, there are still a few bugs:
 - `Photos` FC
-- Using `Pixel Launcher` with Q gesture system will result in FC
+- ~Using `Pixel Launcher` with Q gesture system will result in FC~ fixed now
 
-Because of this, we've only enabled `pico` and `nano` build variants in the initial stable release, other variants will be added as soon as the remaining issues are fixed.
+Because of this, we've only enabled build variants up to the `micro` in the current stable release, other variants will be added as soon as the remaining issues are fixed.
