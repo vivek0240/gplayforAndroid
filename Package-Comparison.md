@@ -21,7 +21,6 @@
 |            Google Play Services             |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |                  Sounds⁴                    |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |           Device Health Services            |         ``BatteryUsage``          |     |  X  |  X  |  X  |  X  |  X  |  X  |
-|             Face Detect Library             |          ``FaceDetect``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |                Google Markup                |            ``Markup``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Google App (Search)             |            ``Search``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Offline Speech Files             |            ``Speech``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
