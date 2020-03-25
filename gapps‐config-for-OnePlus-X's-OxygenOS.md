@@ -2,6 +2,8 @@ The main purpose of this specific gapps-config for OnePlus X's OxygenOS is to re
 
 You can personalize this gapps-config to meet your demands. To do so please read [Advanced Features and Options](https://github.com/opengapps/opengapps/wiki/Advanced-Features-and-Options).
 
+* Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
+
 This gapps-config is organized in 2 steps:
 
 **\#1** - Remove stock GApps
@@ -73,8 +75,6 @@ DMAgent #Safe to remove
 Docs #Safe to remove
 Drive #Safe to remove
 ExchangeGoogle
-FaceDetect
-FaceUnlock
 Gmail
 GoogleTTS
 Hangouts #Safe to remove
