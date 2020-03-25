@@ -99,8 +99,6 @@ PackageInstallerGoogle  # Install Package Installer (Android 6.0 only & Android 
 
 # Nano+
 BatteryUsage            # Install Device Health Services (Android 7.1+)
-FaceDetect              # Install Face Detect Library
-FaceUnlock              # Install Trusted Face
 Markup                  # Install Markup (ARM64 + Android 9.0+)
 Search                  # Install Google App (excluding excludes GoogleNow/PixelLauncher)
 Speech                  # Install Offline Speech Files
