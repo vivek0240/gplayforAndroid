@@ -13,18 +13,19 @@
 |Application Name    |gapps-config keyword|p<br>i<br>c<br>o|n<br>a<br>n<br>o|m<br>i<br>c<br>r<br>o|m<br>i<br>n<br>i|f<br>u<br>l<br>l|s<br>t<br>o<br>c<br>k|s<br>u<br>p<br>e<br>r|
 |:-----------------:|:-------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |             Google System Base              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|            Google Play Services             |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |              Google Play Store              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Calendar Sync             |            ``CalSync``            |  X  |  X  | \+  | \+  | \+  | \+  | \+  |
 |              Dialer Framework               |        ``DialerFramework``        |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Text-to-Speech            |           ``GoogleTTS``           |  X  |  X  |  X  |  X  |  X  |  O  |  O  |
 |          Google Package Installer           |    ``PackageInstallerGoogle``     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |
-|            Google Play Services             |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
-|                  Sounds⁴                    |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|                   Sounds                    |          ``SoundPicker``          |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |           Device Health Services            |         ``BatteryUsage``          |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |                Google Markup                |            ``Markup``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Google App (Search)             |            ``Search``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Offline Speech Files             |            ``Speech``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
-|          Google Digital Wellbeing⁴          |           ``Wellbeing``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
+|          Google Digital Wellbeing           |           ``Wellbeing``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
+|              Actions Services               |        ``ActionsServices``        |     |     |  X  |  X  |  X  |  X  |  X  |
 |              Google Calendar¹               |        ``CalendarGoogle``         |     |     |  O  |  O  |  O  |  O  |  O  |
 |          Google Exchange Services¹          |        ``ExchangeGoogle``         |     |     |  O  |  O  |  O  |  O  |  O  |
 |                    Gmail                    |             ``Gmail``             |     |     |  X  |  X  |  X  |  O  |  O  |
@@ -57,12 +58,11 @@
 |                 Google Duo                  |              ``Duo``              |     |     |     |     |     |  X  |  X  |
 |                 Google Pay                  |           ``GooglePay``           |     |     |     |     |     |  X  |  X  |
 |              Google Keyboard¹               |        ``KeyboardGoogle``         |     |     |     |     |     |  O  |  O  |
-| Google Print Recommendation Service |      ``PrintServiceGoogle``       |     |     |     |     |     |  O  |  O  |
+|     Google Print Recommendation Service     |      ``PrintServiceGoogle``       |     |     |     |     |     |  O  |  O  |
 |            Google Smart Storage             |     ``StorageManagerGoogle``      |     |     |     |     |     |  O  |  O  |
 |              Google Translate               |           ``Translate``           |     |     |     |     |     |  X  |  X  |
 |             Google VR Services              |           ``VRService``           |     |     |     |     |     |  X  |  X  |
 |           Android System Webview¹           |``WebViewGoogle`` ``WebViewStub``³ |     |     |     |     |     |  O  |  O  |
-|              Actions Services               |        ``ActionsServices``        |     |     |     |     |     |     |  X  |
 |               Better Together               |        ``BetterTogether``         |     |     |     |     |     |     |  X  |
 |          Google Apps Device Policy          |            ``DMAgent``            |     |     |     |     |     |     |  X  |
 |                 Google Docs                 |             ``Docs``              |     |     |     |     |     |     |  X  |
@@ -81,9 +81,8 @@
 |             Google Zhuyin Input             |            ``Zhuyin``             |     |     |     |     |     |     |  X  |
 
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
-* ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Search and Wallpapers; Project Fi depends on GCS
+* ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Actions Services, Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
-* ⁴ Google Digital Wellbeing & Sounds requires Android 9.0 Pie.
 * Note that some applications are only available on higher Android versions or compatible hardware
 
 
