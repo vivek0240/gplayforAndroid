@@ -12,9 +12,9 @@
 
 |Application Name    |gapps-config keyword|p<br>i<br>c<br>o|n<br>a<br>n<br>o|m<br>i<br>c<br>r<br>o|m<br>i<br>n<br>i|f<br>u<br>l<br>l|s<br>t<br>o<br>c<br>k|s<br>u<br>p<br>e<br>r|
 |:-----------------:|:-------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|             Google System Base              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Play Services             |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |              Google Play Store              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|             Google System Base              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Calendar Sync             |            ``CalSync``            |  X  |  X  | \+  | \+  | \+  | \+  | \+  |
 |              Dialer Framework               |        ``DialerFramework``        |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Text-to-Speech            |           ``GoogleTTS``           |  X  |  X  |  X  |  X  |  X  |  O  |  O  |
