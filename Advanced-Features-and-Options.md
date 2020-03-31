@@ -96,6 +96,7 @@ CalSync                 # Install Google Calendar Sync (if Google Calendar is be
 DialerFramework         # Install Dialer Framework (Android 6.0+)
 GoogleTTS               # Install Google Text-to-Speech Engine (Micro+ on 5.0-, Pico+ on 6.0+)
 PackageInstallerGoogle  # Install Package Installer (Android 6.0 only & Android 8.0+)
+SoundPicker             # Install SoundPicker
 
 # Nano+
 BatteryUsage            # Install Device Health Services (Android 7.1+)
@@ -252,6 +253,7 @@ To use this feature, add the the keyword for each stock app you want removed, in
 # FMRadio                 # Remove Stock FM Radio (not found on all devices or ROMs)
 # Gallery                 # Remove Stock Gallery (automatically removed when Google Photos is installed)
 # KeyboardStock           # Remove Stock Keyboard (automatically removed when Google Keyboard is installed)
+# Launcher                # Remove Stock Launcher (removes most commonly named launchers)
 # LiveWallpapers          # Remove Stock Live Wallpapers
 # LockClock               # Remove Stock Lockscreen Clock Widget
 # MMS                     # Remove Stock SMS (automatically removed if Android Messages is installed)
