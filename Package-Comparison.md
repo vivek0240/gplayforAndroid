@@ -19,7 +19,7 @@
 |              Dialer Framework               |        ``DialerFramework``        |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Text-to-Speech            |           ``GoogleTTS``           |  X  |  X  |  X  |  X  |  X  |  O  |  O  |
 |          Google Package Installer           |    ``PackageInstallerGoogle``     |  O  |  O  |  O  |  O  |  O  |  O  |  O  |
-|                   Sounds                    |          ``SoundPicker``          |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|                   Sounds                    |          ``SoundPicker``          |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |           Device Health Services            |         ``BatteryUsage``          |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |                Google Markup                |            ``Markup``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Google App (Search)             |            ``Search``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
