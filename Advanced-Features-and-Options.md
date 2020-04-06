@@ -96,12 +96,12 @@ CalSync                 # Install Google Calendar Sync (if Google Calendar is be
 DialerFramework         # Install Dialer Framework (Android 6.0+)
 GoogleTTS               # Install Google Text-to-Speech Engine (Micro+ on 5.0-, Pico+ on 6.0+)
 PackageInstallerGoogle  # Install Package Installer (Android 6.0 only & Android 8.0+)
-SoundPicker             # Install SoundPicker
 
 # Nano+
 BatteryUsage            # Install Device Health Services (Android 7.1+)
 Markup                  # Install Markup (ARM64 + Android 9.0+)
 Search                  # Install Google App (excluding excludes GoogleNow/PixelLauncher)
+SoundPicker             # Install SoundPicker
 Speech                  # Install Offline Speech Files
 Wellbeing               # Install Digital Wellbeing (Android 9.0+)
 
