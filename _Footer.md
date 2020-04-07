@@ -1,2 +1,2 @@
 ### The Open GApps Project
-[**Download**](https://opengapps.org/#downloadsection) / [**Support**](https://opengapps.org/#supportsection) / [**About**](https://opengapps.org/#aboutsection) / [**FAQ**](https://github.com/opengapps/opengapps/wiki/FAQ)AaaaA
+[**Download**](https://opengapps.org/#downloadsection) / [**Support**](https://opengapps.org/#supportsection) / [**About**](https://opengapps.org/#aboutsection) / [**FAQ**](https://github.com/opengapps/opengapps/wiki/FAQ)
