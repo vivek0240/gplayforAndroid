@@ -14,4 +14,4 @@ Apart from that, there are still a few bugs:
 - `Photos` FC
 - ~Using `Pixel Launcher` with Q gesture system will result in FC~ fixed now
 
-Because of this, we've only enabled build variants up to the `micro` in the current stable release, other variants will be added as soon as the remaining issues are fixed.
+Because of this, we've only enabled build variants `Pico`, `Nano` & `Micro` in the current stable Android 10 release. Other variants will be added as soon as the remaining issues are fixed.
