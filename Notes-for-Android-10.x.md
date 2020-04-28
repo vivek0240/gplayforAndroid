@@ -11,7 +11,7 @@ Same applies to the `Digital Wellbeing`, `Actions Services` and `Dialer` apps wh
 For now this is **ARM64-only**, but once we find an implementation for this for ARM packages, this will be added there as well.
 
 Apart from that, there are still a few bugs:
-- `Photos` FC
+- `Photos` app crashing: updating it in Play Store should fix the issue.
 - ~Using `Pixel Launcher` with Q gesture system will result in FC~ fixed now
 
-Because of this, we've only enabled build variants `Pico`, `Nano` & `Micro` in the current stable Android 10 release. Other variants will be added as soon as the remaining issues are fixed.
+The Aroma package is not available yet in the current stable Android 10 release. It will be added as soon as the remaining issues are fixed.
