@@ -31,7 +31,7 @@
 |                    Gmail                    |             ``Gmail``             |     |     |  X  |  X  |  X  |  O  |  O  |
 |            Google Now Launcher²             |           ``GoogleNow``           |     |     | 4.4 | 4.4 | 4.4 | 4.4 | 4.4 |
 |                 Pixel Icons                 |          ``PixelIcons``           |     |     | 7.1 | 7.1 | 7.1 | 7.1 | 7.1 |
-|               Pixel Launcher²               |         ``PixelLauncher``         |     |     |  x  |  x  |  x  |  x  |  x  |
+|               Pixel Launcher²               |         ``PixelLauncher``         |     |     |  X  |  X  |  X  |  x  |  x  |
 |              Google Wallpapers              |          ``Wallpapers``           |     |     |  O  |  O  |  O  |  O  |  O  |
 |             Google Calculator¹              |       ``CalculatorGoogle``        |     |     |     |  O  |  O  |  O  |  O  |
 |              Carrier Services               |        ``CarrierServices``        |     |     |     |  X  |  X  |  X  |  X  |
