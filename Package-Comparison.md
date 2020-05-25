@@ -25,7 +25,7 @@
 |             Google App (Search)             |            ``Search``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Offline Speech Files             |            ``Speech``             |     |  X  |  X  |  X  |  X  |  X  |  X  |
 |          Google Digital Wellbeing           |           ``Wellbeing``           |     |  X  |  X  |  X  |  X  |  X  |  X  |
-|              Actions Services               |        ``ActionsServices``        |     |     |  X  |  X  |  X  |  X  |  X  |
+|              Actions Services²              |        ``ActionsServices``        |     |     |  X  |  X  |  X  |  X  |  X  |
 |              Google Calendar¹               |        ``CalendarGoogle``         |     |     |  O  |  O  |  O  |  O  |  O  |
 |          Google Exchange Services¹          |        ``ExchangeGoogle``         |     |     |  O  |  O  |  O  |  O  |  O  |
 |                    Gmail                    |             ``Gmail``             |     |     |  X  |  X  |  X  |  O  |  O  |
