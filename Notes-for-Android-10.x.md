@@ -8,7 +8,7 @@ While making this release, Google has made a lot of changes which affected the d
 Same applies to the `Digital Wellbeing`, `Actions Services` and `Dialer` apps have their own overlays now as well.
 4. `Pixel Launcher` now requires `Actions Services` since it's using it now as the provider for the user app recommendations.
 5. `Webview` implementation changed again in Q - see [this article](https://www.xda-developers.com/google-chrome-no-longer-webview-provider-android-10/). Because of this, now we additionally ship the `TrichromeLibrary` which **has to match** the versions of the `Chrome` and `Webview` apps.
-For now this is **ARM and ARM64-only**, but once we find an implementation for this for x86 and x86-64 packages, this will be added there as well.
+For now this is **ARM and ARM64-only**, but once we find an implementation for this for **x86** and **x86_64** packages, this will be added there as well.
 
 Apart from that, there are still a few bugs:
 - ~`Photos` app crashing~ fixed now
