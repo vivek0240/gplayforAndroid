@@ -11,7 +11,8 @@ Same applies to the `Digital Wellbeing`, `Actions Services` and `Dialer` apps ha
 For now this is **ARM64-only**, but once we find an implementation for this for ARM packages, this will be added there as well.
 
 Apart from that, there are still a few bugs:
-- `Photos` app crashing: updating it in Play Store should fix the issue.
+- ~`Photos` app crashing~ fixed now
 - ~Using `Pixel Launcher` with Q gesture system will result in FC~ fixed now
+- Voice setup doesn't work for some during the initial setup process
 
-The Aroma package is not available yet in the current stable Android 10 release. It will be added as soon as the remaining issues are fixed.
+The `aroma` package will be added in the next server update.
