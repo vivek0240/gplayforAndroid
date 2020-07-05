@@ -11,7 +11,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Text-to-Speech
 * Google Wallpapers
 * Pixel Icons
-* Pixel Launcher
 
 For 6.0+ also:
 * Google Text-to-Speech
