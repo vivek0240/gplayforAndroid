@@ -10,7 +10,7 @@ Same applies to the `Digital Wellbeing`, `Actions Services` and `Dialer` apps ha
 5. `Webview` implementation changed again in Q - see [this article](https://www.xda-developers.com/google-chrome-no-longer-webview-provider-android-10/). Because of this, now we additionally ship the `TrichromeLibrary` which **has to match** the versions of the `Chrome` and `Webview` apps.
 For now this is **ARM and ARM64-only**, but once we find an implementation for this for **x86** and **x86_64** packages, this will be added there as well.
 
-~Apart from that, there are still a few bugs:~
-- ~`Photos` app crashing~ fixed now
-- ~Using `Pixel Launcher` with Q gesture system will result in FC~ fixed now
+~Apart from that, there are still a few bugs:~ fixed now
+- ~`Photos` app crashing~
+- ~Using `Pixel Launcher` with Q gesture system will result in FC~
 - ~Voice setup doesn't work for some during the initial setup process~
