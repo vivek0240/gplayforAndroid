@@ -1,4 +1,3 @@
-* See [Notes for Android 10.x](https://github.com/opengapps/opengapps/wiki/Notes-for-Android-10.x) about the packages available @ the present for Android 10+.
 * Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
 * Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]]
 
@@ -42,7 +41,7 @@
 |                Google Tags¹                 |           ``TagGoogle``           |     |     |     |  O  |  O  |  O  |  O  |
 |                   YouTube                   |            ``YouTube``            |     |     |     |  X  |  X  |  X  |  X  |
 |              Google Play Books              |             ``Books``             |     |     |     |     |  X  |  X  |  X  |
-|                Google Chrome                |            ``Chrome``             |     |     |     |     |  X  |  O  |  O  |
+|                Google Chrome⁴               |            ``Chrome``             |     |     |     |     |  X  |  O  |  O  |
 |                 Cloud Print                 |          ``CloudPrint``           |     |     |     |     |  X  |  X  |  X  |
 |                Google Drive                 |             ``Drive``             |     |     |     |     |  X  |  X  |  X  |
 |              Google Keep Notes              |             ``Keep``              |     |     |     |     |  X  |  X  |  X  |
@@ -51,6 +50,7 @@
 |                 Google News                 |           ``Newsstand``           |     |     |     |     |  X  |  X  |  X  |
 |              Google Play Games              |           ``PlayGames``           |     |     |     |     |  X  |  X  |  X  |
 |         Google Accessibility Suite          |           ``TalkBack``            |     |     |     |     |  X  |  X  |  X  |
+|               Google Recorder               |           ``Recorder``            |     |     |     |     |  X  |  X  |  X  |
 |                Android Auto                 |          ``AndroidAuto``          |     |     |     |     |     |  X  |  X  |
 |               Google Camera¹                |         ``CameraGoogle``          |     |     |     |     |     |  O  |  O  |
 |              Google Contacts¹               |        ``ContactsGoogle``         |     |     |     |     |     |  O  |  O  |
@@ -62,7 +62,7 @@
 |            Google Smart Storage             |     ``StorageManagerGoogle``      |     |     |     |     |     |  O  |  O  |
 |              Google Translate               |           ``Translate``           |     |     |     |     |     |  X  |  X  |
 |             Google VR Services              |           ``VRService``           |     |     |     |     |     |  X  |  X  |
-|           Android System Webview¹           |``WebViewGoogle`` ``WebViewStub``³ |     |     |     |     |     |  O  |  O  |
+|           Android System Webview¹⁴          |``WebViewGoogle`` ``WebViewStub``³ |     |     |     |     |     |  O  |  O  |
 |               Better Together               |        ``BetterTogether``         |     |     |     |     |     |     |  X  |
 |          Google Apps Device Policy          |            ``DMAgent``            |     |     |     |     |     |     |  X  |
 |                 Google Docs                 |             ``Docs``              |     |     |     |     |     |     |  X  |
@@ -83,6 +83,7 @@
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
 * ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Actions Services, Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
+* ⁴ Google Chrome and WebView require Trichrome Library starting with SDK29, so it'll be installed with these
 * Note that some applications are only available on higher Android versions or compatible hardware
 
 
@@ -146,3 +147,4 @@
  - [Project Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho)
  - [Wallpapers](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
  - [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+ - [Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
