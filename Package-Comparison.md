@@ -83,7 +83,7 @@
 * ¹ By default replaces the Stock/AOSP version of the application included in the ROM to avoid problems
 * ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Actions Services, Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
-* ⁴ Google Chrome and WebView require Trichrome Library starting with SDK29, so it'll be installed with these
+* ⁴ Google Chrome and WebView require Trichrome Library starting with Android 10+, so it'll be installed with these
 * Note that some applications are only available on higher Android versions or compatible hardware
 
 
@@ -145,6 +145,6 @@
  - [Hangouts](https://play.google.com/store/apps/details?id=com.google.android.talk)
  - [Pixel Launcher](https://play.google.com/store/apps/details?id=com.google.android.apps.nexuslauncher)
  - [Project Fi](https://play.google.com/store/apps/details?id=com.google.android.apps.tycho)
+ - [Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
  - [Wallpapers](https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper)
  - [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)
- - [Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
