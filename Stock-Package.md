@@ -38,7 +38,7 @@ In this package you will find the core Google system base, Google Android Shared
 * **Google VR Services**
 * **Google Wallpapers**
 * **Pixel Icons**
-* **Pixel Launcher _(replaces stock/AOSP Launcher)_**
+* Pixel Launcher _(replaces stock/AOSP Launcher)_
 * YouTube
 
 For 6.0+ also:
