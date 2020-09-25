@@ -9,12 +9,13 @@ In this package you will find the core Google system base, Google Android Shared
 * **Google Clock _(replaces stock/AOSP Clock)_**
 * **Google Maps**
 * **Google Messages _(not installed on tablet devices)_ _(replaces stock/AOSP SMS app)_**
-* Google Pixel Launcher
+* Pixel Launcher
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * **Google Photos _(replaces stock/AOSP Gallery)_**
 * Google Play services
 * **Google Tags _(replaces stock/AOSP NFC Tags)_**
 * Google Text-to-Speech
+* Pixel Launcher _(replaces stock/AOSP Launcher)_
 * **YouTube**
 
 For 6.0+ also:
