@@ -1,8 +1,8 @@
 ## [Home](Home)
-**[Advanced Features and Options](Advanced-Features-and-Options)**<br>
-**[FAQ](FAQ)**<br>
-**[Get Involved](Get-Involved)**<br>
-**[Hotlinking to OpenGApps.org](Hotlinking-to-OpenGApps.org)**
+- **[Advanced Features and Options](Advanced-Features-and-Options)**<br>
+- **[FAQ](FAQ)**<br>
+- **[Get Involved](Get-Involved)**<br>
+- **[Hotlinking to OpenGApps.org](Hotlinking-to-OpenGApps.org)**
 
 **Packages ([Comparison](Package-Comparison))**
 - [Aroma](Aroma-Package)
