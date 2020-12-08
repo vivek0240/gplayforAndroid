@@ -3,13 +3,14 @@ This package is designed for users who want the smallest Google footprint possib
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play Services
 * **Device Health Services**
-* **Google Markup**
+
 * **Google App (Search)**
 
 For 6.0+ also:
 * Google Text-to-Speech
 
 For 9.0+ also:
+* **Google Markup**
 * **Google Sounds**
 * **Google Digital Wellbeing**
 
