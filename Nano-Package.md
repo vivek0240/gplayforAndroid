@@ -3,7 +3,6 @@ This package is designed for users who want the smallest Google footprint possib
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play Services
 * **Device Health Services**
-
 * **Google App (Search)**
 
 For 6.0+ also:
