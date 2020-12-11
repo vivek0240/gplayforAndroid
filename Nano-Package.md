@@ -9,9 +9,9 @@ For 6.0+ also:
 * Google Text-to-Speech
 
 For 9.0+ also:
+* **Google Digital Wellbeing**
 * **Google Markup**
 * **Google Sounds**
-* **Google Digital Wellbeing**
 
 Notes:
 * Bold apps mark the difference to smaller packages.
