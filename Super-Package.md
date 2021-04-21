@@ -40,7 +40,6 @@ In this package you will find the core Google system base, Google Android Shared
 * Google Play Movies & TV
 * Google Play Music
 * Google Play services
-* **Google Plus**
 * Google Print Service Recommendation Service _(replaces stock/AOSP Print Service Recommendation Service)_
 * Google Storage Manager _(replaces stock/AOSP Storage Manager)_
 * **Google Street View**
