@@ -29,3 +29,5 @@ and the following Play Store applications:
 * TalkBack
 * TV Recommendations
 * YouTube
+
+Note: Android 11 - we have released the Pico and Nano versions only @ the present. Other variants will be available as soon as we confirm that everything's working properly.
