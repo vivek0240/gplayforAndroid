@@ -94,7 +94,7 @@ Include
 # Pico+
 CalSync                 # Install Google Calendar Sync (if Google Calendar is being installed)
 DialerFramework         # Install Dialer Framework (Android 6.0+)
-gearheadstub            # Install Android Auto stub, a placeholder APK for Android Auto that needs to be updated to function. Android 10+.
+gearheadstub            # Install Android Auto stub. Android Auto needs to be updated to function. Android 10+.
 GoogleTTS               # Install Google Text-to-Speech Engine (Micro+ on 5.0-, Pico+ on 6.0+)
 PackageInstallerGoogle  # Install Package Installer (Android 6.0 only & Android 8.0+)
 
