@@ -1,3 +1,5 @@
+* Android 11: we have released the Pico and Nano versions only @ the present. Other variants will be available as soon as we confirm that everything's working properly.
+
 This package is designed for users of legacy devices with small system partitions or those who prefer a minimalistic approach.
 In this package you will find the core Google system base, Google Android Shared Library, Google Play Store, **Google Exchange Services _(replaces stock/AOSP Exchange Services)_**, Face Detection for Media, Dialer Framework and the following Play Store applications:
 
@@ -18,6 +20,9 @@ For 6.0+ also:
 For 9.0+ also:
 * Google Digital Wellbeing
 * Google Sounds
+
+For Android 10+ also:
+* Android Auto
 
 Notes:
 * Bold apps mark the difference to smaller packages.
