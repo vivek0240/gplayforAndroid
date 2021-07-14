@@ -4,5 +4,8 @@ In this package you will find the core Google System Base, Google Android Shared
 * Google Package Installer _(replaces stock/AOSP Package Installer)_
 * Google Play services
 
-For 6.0+ also:
+For Android 6.0+ also:
 * Google Text-to-Speech
+
+For Android 10+ also:
+* Android Auto
