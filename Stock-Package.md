@@ -48,9 +48,6 @@ For 9.0+ also:
 * Google Sounds
 * Google Digital Wellbeing
 
-For Android 10+ also:
-* Android Auto
-
 Notes:
 * Bold apps mark the difference to smaller packages.
 * Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
