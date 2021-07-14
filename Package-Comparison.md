@@ -15,7 +15,7 @@
 |            Google Play Services             |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |              Google Play Store              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Google System Base              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
-|              Android Auto⁵                  |        ``gearheadstub``           |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|              Android Auto stub⁵             |        ``gearheadstub``           |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Calendar Sync             |            ``CalSync``            |  X  |  X  | \+  | \+  | \+  | \+  | \+  |
 |              Dialer Framework               |        ``DialerFramework``        |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Text-to-Speech            |           ``GoogleTTS``           |  X  |  X  |  X  |  X  |  X  |  O  |  O  |
@@ -86,7 +86,7 @@
 * ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Actions Services, Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
 * ⁴ Google Chrome and WebView require Trichrome Library starting with Android 10+, so it'll be installed with these
-* ⁵ Android Auto requires Android 10 or higher
+* ⁵ Android Auto stub requires Android 10 or higher
 * Note that some applications are only available on higher Android versions or compatible hardware
 
 
