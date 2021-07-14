@@ -86,7 +86,7 @@
 * ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Actions Services, Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
 * ⁴ Google Chrome and WebView require Trichrome Library starting with Android 10+, so it'll be installed with these
-* ⁵ Android Auto stub requires Android 10 or higher
+* ⁵ Android Auto stub only installs a placeholder APK of Android Auto that needs to be updated to function. Requires Android 10 or higher.
 * Note that some applications are only available on higher Android versions or compatible hardware
 
 
