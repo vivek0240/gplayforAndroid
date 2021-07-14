@@ -2,6 +2,7 @@ This package is for those who want to have all Google Applications. It includes 
 
 In this package you will find the core Google system base, Google Android Shared Library, Face Detection for Media, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
+* Android Auto
 * Android System WebView _(replaces stock/AOSP WebView)_
 * Cloud Print
 * Device Health Services
@@ -59,9 +60,6 @@ For 6.0+ also:
 For 9.0+ also:
 * Google Sounds
 * Google Digital Wellbeing
-
-For Android 10+ also:
-* Android Auto
 
 Notes:
 * Bold apps mark the difference to smaller packages.
