@@ -2,7 +2,6 @@ This package is for those who want to have all Google Applications. It includes 
 
 In this package you will find the core Google system base, Google Android Shared Library, Face Detection for Media, Google Play Store, Google Exchange Services _(replaces stock/AOSP Exchange Services)_, Dialer Framework and the following Play Store applications:
 
-* Android Auto
 * Android System WebView _(replaces stock/AOSP WebView)_
 * Cloud Print
 * Device Health Services
@@ -61,6 +60,10 @@ For 9.0+ also:
 * Google Sounds
 * Google Digital Wellbeing
 
+For Android 10+ also:
+* Android Auto
+
 Notes:
 * Bold apps mark the difference to smaller packages.
 * Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
+* Android 11: we have released the Pico and Nano versions only @ the present. Other variants will be available as soon as we confirm that everything's working properly.
