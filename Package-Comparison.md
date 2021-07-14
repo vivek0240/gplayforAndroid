@@ -1,3 +1,4 @@
+* Android 11: we have released the Pico and Nano versions only @ the present. Other variants will be available as soon as we confirm that everything's working properly.
 * Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
 * Not included in this table: [[Aroma|Aroma Package]] & [[TVStock|TVStock Package]]
 
@@ -14,6 +15,7 @@
 |            Google Play Services             |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |              Google Play Store              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Google System Base              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|              Android Auto⁵                  |        ``gearheadstub``           |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Calendar Sync             |            ``CalSync``            |  X  |  X  | \+  | \+  | \+  | \+  | \+  |
 |              Dialer Framework               |        ``DialerFramework``        |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Text-to-Speech            |           ``GoogleTTS``           |  X  |  X  |  X  |  X  |  X  |  O  |  O  |
@@ -84,6 +86,7 @@
 * ² Google Dialer depends on Dialer Framework; Google Now depends on Search; Pixel Launcher depends on Actions Services, Search and Wallpapers; Project Fi depends on GCS
 * ³ Google WebView Stub only installs a placeholder APK of Google WebView that needs to be updated to function. Requires Android 7.0 or higher
 * ⁴ Google Chrome and WebView require Trichrome Library starting with Android 10+, so it'll be installed with these
+* ⁵ Android Auto requires Android 10 or higher
 * Note that some applications are only available on higher Android versions or compatible hardware
 
 
