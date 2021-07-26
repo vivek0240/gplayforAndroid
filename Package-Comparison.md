@@ -15,7 +15,7 @@
 |            Google Play Services             |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |              Google Play Store              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |             Google System Base              |                                   |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
-|              Android Auto stub⁵             |        ``gearheadstub``           |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
+|              Android Auto stub⁵             |        ``GearheadStub``           |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Calendar Sync             |            ``CalSync``            |  X  |  X  | \+  | \+  | \+  | \+  | \+  |
 |              Dialer Framework               |        ``DialerFramework``        |  X  |  X  |  X  |  X  |  X  |  X  |  X  |
 |            Google Text-to-Speech            |           ``GoogleTTS``           |  X  |  X  |  X  |  X  |  X  |  O  |  O  |
