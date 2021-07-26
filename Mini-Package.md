@@ -25,7 +25,7 @@ For 9.0+ also:
 * Google Sounds
 
 For Android 10+ also:
-* Android Auto stub (``gearheadstub``)
+* Android Auto stub (``GearheadStub``)
 
 Note:
 * Bold apps mark the difference to smaller packages.
