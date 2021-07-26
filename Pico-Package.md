@@ -8,4 +8,4 @@ For Android 6.0+ also:
 * Google Text-to-Speech
 
 For Android 10+ also:
-* Android Auto stub (``gearheadstub``)
+* Android Auto stub (``GearheadStub``)
