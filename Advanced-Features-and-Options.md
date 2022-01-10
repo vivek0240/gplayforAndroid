@@ -9,7 +9,7 @@ The gapps-config file allows for these kinds of customizations and more:
   (example use case: "I don't want Google Play Books to be installed.")
 - You can limit which stock apps the installer removes.  
   (example use case: "I want to install Google Camera but I don't want the stock camera removed.")
-- You can make the installer remove stock apps apps of your choice.  
+- You can make the installer remove stock apps of your choice.  
   (example use case: "I want to remove the stock Spare Parts app.")
 
 \* The [[Aroma Package]] includes the Super package and a GUI that provides roughly the same set of customizations as the gapps-config file. It can load and save configurations, but it uses its own format and will not read the gapps-config file.
