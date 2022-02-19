@@ -21,6 +21,7 @@ Setting the android version is via the ```api``` variable, valid values are:
 * 9.0
 * 10.0
 * 11.0
+* 12.0
 
 ## Variant
 Setting the package variant is via the ```variant``` variable, valid values are:
