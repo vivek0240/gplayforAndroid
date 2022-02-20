@@ -21,17 +21,17 @@
 
 <summary><b>Additional Notes</b></summary>
 <p>
-- [Android 4.4](Notes-for-Android-4.4)
-- [Android 5.0](Notes-for-Android-5.0)
-- [Android 6.0](Notes-for-Android-6.0)
-- [Android 7.x](Notes-for-Android-7.x)
-- [Android 8.x](Notes-for-Android-8.x)
-- [Android 9.0](Notes-for-Android-9.0)
-- [Android 10.x](Notes-for-Android-10.x)
-- [Android 11.x](Notes-for-Android-11.x)
-- [Android ARM](Notes-for-Android-ARM)
-- [Android x86](Notes-for-Android-x86)
-- [CMSetupWizard](Notes-for-CMSetupWizard)
-- [PackageInstallerGoogle](PackageInstallerGoogle)
+[Android 4.4](Notes-for-Android-4.4)
+[Android 5.0](Notes-for-Android-5.0)
+[Android 6.0](Notes-for-Android-6.0)
+[Android 7.x](Notes-for-Android-7.x)
+[Android 8.x](Notes-for-Android-8.x)
+[Android 9.0](Notes-for-Android-9.0)
+[Android 10.x](Notes-for-Android-10.x)
+[Android 11.x](Notes-for-Android-11.x)
+[Android ARM](Notes-for-Android-ARM)
+[Android x86](Notes-for-Android-x86)
+[CMSetupWizard](Notes-for-CMSetupWizard)
+[PackageInstallerGoogle](PackageInstallerGoogle)
 </p>
 </details>
