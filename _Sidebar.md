@@ -4,9 +4,9 @@
 - **[Get Involved](Get-Involved)**<br>
 - **[Hotlinking to OpenGApps.org](Hotlinking-to-OpenGApps.org)**
 
-<details><summary><b>Packages </b></summary><p>([Comparison](Package-Comparison))
+<details><summary><b>Packages <a href="Package-Comparison">(Comparison)</a>
+</b></summary><p>
 
-**Packages ([Comparison](Package-Comparison))**
 - [Aroma](Aroma-Package)
 - [Pico](Pico-Package)
 - [Nano](Nano-Package)
