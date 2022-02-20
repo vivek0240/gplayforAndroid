@@ -4,6 +4,8 @@
 - **[Get Involved](Get-Involved)**<br>
 - **[Hotlinking to OpenGApps.org](Hotlinking-to-OpenGApps.org)**
 
+<details><summary><b>Packages </b></summary><p>([Comparison](Package-Comparison))
+
 **Packages ([Comparison](Package-Comparison))**
 - [Aroma](Aroma-Package)
 - [Pico](Pico-Package)
@@ -14,6 +16,8 @@
 - [Stock](Stock-Package)
 - [Super](Super-Package)
 - [TVStock](TVStock-Package)
+
+</p></details>
 
 **Configs for**
 - [OnePlus X's OxygenOS](gapps%E2%80%90config-for-OnePlus-X's-OxygenOS)
