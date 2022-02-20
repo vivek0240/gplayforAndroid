@@ -18,9 +18,7 @@
 **Configs for**
 - [OnePlus X's OxygenOS](gapps%E2%80%90config-for-OnePlus-X's-OxygenOS)
 
-<details><summary><b>Additional Notes</b></summary>
-
-<p>
+<details><summary><b>Additional Notes</b></summary><p>
 
 - [Android 4.4](Notes-for-Android-4.4)
 - [Android 5.0](Notes-for-Android-5.0)
@@ -35,6 +33,4 @@
 - [CMSetupWizard](Notes-for-CMSetupWizard)
 - [PackageInstallerGoogle](PackageInstallerGoogle)
 
-</p>
-
-</details>
+</p></details>
