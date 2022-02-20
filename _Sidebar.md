@@ -19,8 +19,7 @@
 - [OnePlus X's OxygenOS](gapps%E2%80%90config-for-OnePlus-X's-OxygenOS)
 <details>
 
-<summary>**Additional Notes**</summary>
-<h5>A nice Javascript pitfall!</h5>
+<summary><b>Additional Notes</b></summary>
 - [Android 4.4](Notes-for-Android-4.4)
 - [Android 5.0](Notes-for-Android-5.0)
 - [Android 6.0](Notes-for-Android-6.0)
