@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://standwithukraine.pp.ua)
+
 <div style="float: right">
 <img align="right" src="https://avatars.githubusercontent.com/u/12238733?s=400" alt="Open GApps" />
 </div>
