@@ -51,4 +51,3 @@ For 9.0+ also:
 Notes:
 * Bold apps mark the difference to smaller packages.
 * Google removed the `Trusted Face` (FaceUnlock) feature for security reasons (see [this post](https://www.androidpolice.com/2019/09/04/trusted-face-smart-unlock-method-has-been-removed-from-android-devices/)). We've removed the corresponding code for the `FaceDetect` and `FaceUnlock` for all platforms.
-* Android 11: we have released the Pico and Nano versions only @ the present. Other variants will be available as soon as we confirm that everything's working properly.
