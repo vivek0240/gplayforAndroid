@@ -1,1 +1,1 @@
-lmao
+Smaller set of Google apps for Android TV devices, similar to what _mini_ has compared to the _stock_ variant
