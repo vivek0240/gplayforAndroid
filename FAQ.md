@@ -42,7 +42,7 @@ It likely means you're using CWM v6.0.4.7 or CWM v6.0.4.5 Recovery, which is NOT
 
 The problem is due to CWM v6.0.4.7 overwriting the installation script, thereby making it impossible for the installer to do its work. Thankfully, CWM realized the error in doing this and fixed the issue in newer versions. This 'bug' is only found in CWM v6.0.4.7, so even an older version should work, although upgrading your Recovery would be preferable to downgrading.
 
-Also, since CWM is no longer being updated by its original developer (ClockWordMod), it is highly recommended (and required if you want official support) to change to an actively supported Recovery, such as TWRP Recovery
+Also, since CWM is no longer being updated by its original developer (ClockwordMod), it is highly recommended (and required if you want official support) to change to an actively supported Recovery, such as TWRP Recovery
 
 
 #### 6. Open GApps install failed with Error Code: XX. What does this code mean?
@@ -78,7 +78,7 @@ To ensure the best possible user experience, Open GApps will only allow this app
  5. Wipe the Dalvik & cache
  6. Reboot
 
-NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a nandroid backup prior in case you want to restore later.
+NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a NANDroid backup prior in case you want to restore later.
 
 #### 8. I have Google Clock and/or Google Keyboard installed but don't appear to be so when I use the Google Play Store, I see a 'Install' button instead of an 'Update' button. Why?
 These applications are only correctly processed by the Android system if installed DIRECTLY THE FIRST TIME during a 'Clean install' GApps installation. If installed at a later moment (a so-called 'Dirty install') the system will not correctly link these apps to their Google Play Store entries.
@@ -91,14 +91,14 @@ These applications are only correctly processed by the Android system if install
  5. Wipe the Dalvik & cache
  6. Reboot
 
-NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a nandroid backup prior in case you want to restore later.
+NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a NANDroid backup prior in case you want to restore later.
 
 #### 9. My device reboots when I receive or make a phone call. Why?
 If your device has Google Dialer installed, it requires to be set as the default *Phone* application. If not set, it will reboot your device. Go to ['Settings -> Apps -> "Gear Icon" upper right -> Default Apps -> Phone App'](https://www.youtube.com/watch?v=BXg7k75sVc8) to set Google Dialer as your default.
 Another permission you can set for the Google Dialer is to [grant it access to system settings](https://www.youtube.com/watch?v=KkmddbxbZ8U). This will allow you to set ringtone related settings via the app.
 
 #### 10. I receive "Unfortunately, setup wizard has stopped working" after installing OpenGApps on Android 6.0 or higher. Why?
-The "Unfortunately, setup wizard has stopped working" happens if the proper permissions are not granted to the Google Setupwizard. This can happen when upgrading from a lower Android version to 6.0 or when NOT flashing GApps directly after flashing the ROM on a 'Clean install'. Please read [[Notes for Android 6.0]] and [[Notes for CMSetupWizard]]. If this doesn't help you can you'll need to do a 'Clean install'.
+The "Unfortunately, setup wizard has stopped working" happens if the proper permissions are not granted to the Google Setupwizard. This can happen when upgrading from a lower Android version to 6.0 or when NOT flashing GApps directly after flashing the ROM on a 'Clean install'. Please read [[Notes for Android 6.0]] and [[Notes for CMSetupWizard]]. If this doesn't help you'll need to do a 'Clean install'.
 
 <u>A 'Clean' install consists of the following:</u>
  1. Factory Reset (or manually wipe (format) Data partition - Internal Storage wipe is NOT necessary)
@@ -108,7 +108,7 @@ The "Unfortunately, setup wizard has stopped working" happens if the proper perm
  5. Wipe the Dalvik & cache
  6. Reboot
 
-NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a nandroid backup prior in case you want to restore later.
+NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a NANDroid backup prior in case you want to restore later.
 
 #### 11. Open GApps install failed with the message 'Insufficient storage space available in System partition'. My device has 16GB (or more) of storage available. How can this be?
 
