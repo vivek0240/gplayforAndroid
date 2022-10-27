@@ -34,7 +34,7 @@ You will find both of these Open GApps installation logs in the same location as
 
 As with most support forums, the more work you do up front and the more information you provide, the better the feedback you're likely to receive. If you're not willing to put any effort on your end, you'll likely receive nothing from the forum, either.
 
-Directly opening an issue on the Open GApps GitHub page without consulting the XDA Forum first is **NOT** appreciated for bugs in the pre-built OpenGApps.org package and tends to only slow project development instead of helping it. If you experience a bug with a package please first post the the [XDA Forum](http://forum.xda-developers.com/android/software/Open-GApps-t3098071) or on [Gitter](https://gitter.im/opengapps/general) for further investigation and feedback.
+Directly opening an issue on the Open GApps GitHub page without consulting the XDA Forum first is **NOT** appreciated for bugs in the pre-built OpenGApps.org package and tends to only slow project development instead of helping it. If you experience a bug with a package please first post on the [XDA Forum](http://forum.xda-developers.com/android/software/Open-GApps-t3098071) or on [Gitter](https://gitter.im/opengapps/general) for further investigation and feedback.
 
 
 #### 5. I'm getting a 'Status Error 6' when I try and install these GApps with CWM. What can I do to fix it?
@@ -42,7 +42,7 @@ It likely means you're using CWM v6.0.4.7 or CWM v6.0.4.5 Recovery, which is NOT
 
 The problem is due to CWM v6.0.4.7 overwriting the installation script, thereby making it impossible for the installer to do its work. Thankfully, CWM realized the error in doing this and fixed the issue in newer versions. This 'bug' is only found in CWM v6.0.4.7, so even an older version should work, although upgrading your Recovery would be preferable to downgrading.
 
-Also, since CWM is no longer being updated by its original developer (ClockwordMod), it is highly recommended (and required if you want official support) to change to an actively supported Recovery, such as TWRP Recovery
+Also, since CWM is no longer being updated by its original developer (ClockworkMod), it is highly recommended (and required if you want official support) to change to an actively supported Recovery, such as TWRP Recovery.
 
 
 #### 6. Open GApps install failed with Error Code: XX. What does this code mean?
@@ -51,7 +51,7 @@ Error codes have been added to the installer since many users, apparently, don't
 Using the information below, you will find a current list of the Error Codes that that install may encounter - along with a recommended solution:
  * `#10` - Failed to set-up busybox: Your recovery does not support setting up a busybox-environment for our installer
    * Solution: Please update your recovery to the latest version or switch to another one like [TWRP](https://twrp.me/) _(recommended)_
-   * Hint: If you are already using the latest version of your recovery but it still doesn't work, you should contact the developers of your recovery  about this issue. _(e.g. here for [CM Recovery](https://jira.cyanogenmod.org) or [TWRP](https://github.com/TeamWin/Team-Win-Recovery-Project/issues))_
+   * Hint: If you are already using the latest version of your recovery but it still doesn't work, you should contact the developers of your recovery about this issue. _(e.g. here for [CM Recovery](https://jira.cyanogenmod.org) or [TWRP](https://github.com/TeamWin/Team-Win-Recovery-Project/issues))_
  * `#20` - Incorrect (incompatible) ROM Version: ROM is not compatible with the Open GApps package
    * Solution: Read your open_gapps_log.txt for details on the incompatibility
  * `#25` - No build.prop or equivalent: ROM misses this essential file and/or any of the fallback .prop files
@@ -97,7 +97,7 @@ NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method.
 If your device has Google Dialer installed, it requires to be set as the default *Phone* application. If not set, it will reboot your device. Go to ['Settings -> Apps -> "Gear Icon" upper right -> Default Apps -> Phone App'](https://www.youtube.com/watch?v=BXg7k75sVc8) to set Google Dialer as your default.
 Another permission you can set for the Google Dialer is to [grant it access to system settings](https://www.youtube.com/watch?v=KkmddbxbZ8U). This will allow you to set ringtone related settings via the app.
 
-#### 10. I receive "Unfortunately, setup wizard has stopped working" after installing OpenGApps on Android 6.0 or higher. Why?
+#### 10. I receive "Unfortunately, setup wizard has stopped working" after installing Open GApps on Android 6.0 or higher. Why?
 The "Unfortunately, setup wizard has stopped working" happens if the proper permissions are not granted to the Google Setupwizard. This can happen when upgrading from a lower Android version to 6.0 or when NOT flashing GApps directly after flashing the ROM on a 'Clean install'. Please read [[Notes for Android 6.0]] and [[Notes for CMSetupWizard]]. If this doesn't help you'll need to do a 'Clean install'.
 
 <u>A 'Clean' install consists of the following:</u>
