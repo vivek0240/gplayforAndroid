@@ -16,13 +16,12 @@ There are 2 things you can do that are almost always guaranteed to fix these typ
     - Applications that do *tweaks* or *hacks* on your system are potential cause of various issues and can only be resolved by the developers of those apps
 
 <u>A 'Clean' install consists of the following:</u>
- 1. Factory Reset (or manually **format** the Data partition - Internal Storage wipe is NOT necessary)
- 2. Manually wipe the System partition
+ 1. Factory Reset (or manually wipe (format) Data partition - Internal Storage wipe is NOT necessary)
+ 2. Manually wipe (format) your System partition
  3. Flash your ROM
- 4. Required: reboot to recovery if you have an A/B partitions device
- 5. Flash Open GApps package
- 6. Wipe the Dalvik & cache
- 7. Reboot
+ 4. Flash GApps package
+ 5. Wipe the Dalvik & cache
+ 6. Reboot
 
 NOTE: YOU WILL LOSE ALL OF YOUR DATA AND APPLICATION SETTINGS using this method. Be sure to do a [NANDroid backup](http://forum.xda-developers.com/wiki/NANDroid) prior in case you want to restore later.
 
